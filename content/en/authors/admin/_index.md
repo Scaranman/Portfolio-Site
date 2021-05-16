@@ -10,8 +10,8 @@ role: UX Co-op/Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LenelS2/Lenel Security Systems
-  url: https://www.lenel.com/
+  - name: LenelS2/Lenel Security Systems
+    url: https://www.lenel.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a UX Designer with a B.S. in Human Centered Computing (HCC) and a minor in Japanese
@@ -40,15 +40,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jescarani/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/scaranman
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jescarani/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/scaranman
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
