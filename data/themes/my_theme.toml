@@ -1,5 +1,5 @@
 # Theme metadata
-name = "Minimal"
+name = "MyTheme"
 
 # Is theme light or dark?
 light = true
@@ -20,5 +20,5 @@ home_section_odd = "#FAFAFA"
 home_section_even = "#EBEBFF"
 
 [dark]
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#1F1FFF"
+  link_hover = "#000066"
