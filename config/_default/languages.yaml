@@ -26,15 +26,15 @@ ja:
       - name: 連絡
         url: '#contact'
         weight: 3
-    index:
-      title: ジェイコブ・スカラニ
-      role: UXデザイナー
-      # organizations:
-      #   - name:　'LenelS2 / Lenel Security Systems (キヤリアのブランド)'
-      #     url: 'https://www.lenel.com/'
-      bio: 何々
-      interests:
-        - UX
-        - テクノロジー
-        - 音楽
+    # index:
+    #   title: ジェイコブ・スカラニ
+    #   role: UXデザイナー
+    #   organizations:
+    #     - name:　'LenelS2 / Lenel Security Systems (キヤリアのブランド)'
+    #       url: 'https://www.lenel.com/'
+    #   bio: 何々
+    #   interests:
+    #     - UX
+    #     - テクノロジー
+    #     - 音楽
 
