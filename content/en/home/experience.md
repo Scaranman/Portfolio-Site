@@ -43,8 +43,12 @@ experience:
     location: Shinagawa, Tokyo, JP
     date_start: '2019-08-09'
     date_end: '2020-12-31'
-    description: 
-
+    description: |2-
+      Refactored charts originally configured using a legacyGoogle Charts library with a more modern C3.js library.
+      * Used Laragon as a local deployment environment
+      * Tweaked design in a Symfony 3 codebase using:
+        - HTML/CSS
+        - JavaScript
 design:
   columns: '2'
 ---

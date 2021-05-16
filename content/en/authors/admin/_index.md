@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
+  - course: B.S. Human Centered Computing
+    institution: Rochester Institute of Technology (RIT)
+    year: 2021
+  - course: Study Abroad in Nagoya, Japan
+    institution: Nanzan University / 南山大学
+    year: 2019
 #   - course: BSc in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2008

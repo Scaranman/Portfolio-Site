@@ -12,15 +12,6 @@ ja:
   languageCode: ja
   contentDir: content/ja
   title: ジェイコブ・スカラニ
-  role: UXデザイナー
-  # organizations:
-  #   - name:　'LenelS2 / Lenel Security Systems (キヤリアのブランド)'
-  #     url: 'https://www.lenel.com/'
-  bio: 何々
-  interests:
-    - UX
-    - テクノロジー
-    - 音楽
   params:
     description: ジェイコブ・スカラニのポートフォリオサイトです。
   menu:
