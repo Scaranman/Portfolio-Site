@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -29,13 +29,7 @@ experience:
     location: Pittsford, NY
     date_start: '2021-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * 
-        * 
-        * 
-        
+    description: |2-        
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
