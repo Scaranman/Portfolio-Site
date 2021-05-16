@@ -15,4 +15,7 @@ file_name: JacobScarani_Resume.pdf
 
 #set the height for the iframe (examples: "800px", "100%", etc)
 height: 900px
+
+#set if you want your pdf downloadable or not
+downloadable: true
 ---
