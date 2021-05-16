@@ -9,7 +9,7 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-ja: 
+ja:
   languageCode: ja
     contentDir: content/ja
     title: ジェイコブ・スカラニ
