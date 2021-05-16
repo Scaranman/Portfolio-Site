@@ -10,31 +10,31 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 ja: 
-languageCode: ja
-  contentDir: content/ja
-  title: ジェイコブ・スカラニ
-  params:
-    description: ジェイコブ・スカラニのポートフォリオサイトです。
-  menu:
-    main:
-        - name: ホーム
-          url: '#about'
-          weight: 1
-        - name: ポートフォリオ
-          url: '#projects'
-          weight: 1     
-        - name: 連絡
-          url: '#contact'
-          weight: 1 
-      index:
-        title: ジェイコブ・スカラニ
-        role:
-        organizations:
-        - name:　LenelS2 / Lenel Security Systems (キヤリアのブランド)
-          url: https://www.lenel.com/
-        bio:
-        interests:
-        - UX
-        - テクノロジー
-        - 音楽
+  languageCode: ja
+    contentDir: content/ja
+    title: ジェイコブ・スカラニ
+    params:
+      description: ジェイコブ・スカラニのポートフォリオサイトです。
+    menu:
+      main:
+          - name: ホーム
+            url: '#about'
+            weight: 1
+          - name: ポートフォリオ
+            url: '#projects'
+            weight: 1     
+          - name: 連絡
+            url: '#contact'
+            weight: 1 
+        index:
+          title: ジェイコブ・スカラニ
+          role:
+          organizations:
+          - name:　LenelS2 / Lenel Security Systems (キヤリアのブランド)
+            url: https://www.lenel.com/
+          bio:
+          interests:
+          - UX
+          - テクノロジー
+          - 音楽
 
