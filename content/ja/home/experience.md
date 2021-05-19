@@ -30,8 +30,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-
-    小さいチームで看板商品にインタフェースをデザインしたりユーザーテストしたりします。
-        
+    小さいチームで看板商品にインタフェースをデザインしたりユーザーテストしたりします。        
   - title: フロントエンド  デベロッパー インターン
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
@@ -41,7 +40,6 @@ experience:
     date_end: '2020-08-09'
     description: |2-
     C3.jsでレガシーGoogleチャートを使う図表をリファクターしてSynfony3にHTMLとCSSとジャバスクリプトでデザインを手直ししました。
-
 design:
   columns: '2'
 ---
