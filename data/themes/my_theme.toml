@@ -14,8 +14,8 @@ menu_text_active = "#8F5AA5"
 menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "#FAFAFA"
-home_section_even = "#EBEBFF"
+home_section_odd = "#EBEBFF"
+home_section_even = "#FAFAFA"
 
 #links
 link = "#8F5AA5"
@@ -29,7 +29,7 @@ link_hover = "#000066"
   menu_text = "#FAFAFA"
   menu_text_active = "#1F1FFF"
 
-  home_section_odd = "#628AB3"
+  home_section_odd = "#547799"
   home_section_even = "#34495E"
 
   link = "#FAFAFA"
