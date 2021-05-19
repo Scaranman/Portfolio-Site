@@ -30,8 +30,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-  
-    something
-
+      something
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
