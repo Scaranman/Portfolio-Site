@@ -23,9 +23,9 @@ link_hover = "#000066"
 
 
 [dark]
-  menu_primary = "34495E"
-  menu_text = "FAFAFA"
-  menu_text_active = "1F1FFF"
+  menu_primary = "#34495E"
+  menu_text = "#FAFAFA"
+  menu_text_active = "#1F1FFF"
 
-  home_section_odd = "45617D"
-  home_section_even = "34495E"
+  home_section_odd = "#45617D"
+  home_section_even = "#34495E"
