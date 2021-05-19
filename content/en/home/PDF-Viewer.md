@@ -11,7 +11,7 @@ weight: 35
 title: Resume
 
 #input the name of the file without the suffix (Example: "resume"). Place in 'authors/admin'
-file_name: JacobScarani_Resume
+file_name: JacobScarani_Resume.pdf
 
 #set the height for the iframe (examples: "800px", "100%", etc)
 height: 900px

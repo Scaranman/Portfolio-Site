@@ -62,6 +62,11 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+resources:
+ - src: '**.pdf'
+ - name: 'resume'
+
 ---
 
 Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I will be graduating this August from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
