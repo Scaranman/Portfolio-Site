@@ -23,7 +23,7 @@ link_hover = "#000066"
 
 
 [dark]
-  primary = "FAFAFA"
+  primary = "#FAFAFA"
 
   menu_primary = "#45617D"
   menu_text = "#FAFAFA"
