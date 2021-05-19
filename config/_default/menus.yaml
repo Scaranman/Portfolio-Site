@@ -11,7 +11,7 @@ main:
     url: '#projects'
     weight: 1
   - name: Resume/CV
-    url: ''
+    url: '#Google-Drive-Embed'
     weight: 3
   - name: Contact
     url: '#contact'

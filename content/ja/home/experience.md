@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: 職歴
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: UXデザインのイインターンシップ
+    company: LenelS2
+    company_url: 'https://www.lenel.com/'
+    company_logo: 
+    location: 米国のニューヨーク州のピツフォード
+    date_start: '2021-06-01'
+    date_end: '2021-12-17'
     description: |2-
-        Responsibilities include:
+    小さいチームで看板商品にインタフェースをデザインしたりユーザーテストしたりします。
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: フロントエンド  デベロッパー インターン
+    company: Tamago DB K.K.
+    company_url: 'https://www.tamago-db.com/'
+    company_logo: 
+    location: 東京都品川区
+    date_start: '2016-06-03'
+    date_end: '2020-08-09'
+    description: |2-
+    C3.jsでレガシーGoogleチャートを使う図表をリファクターしてSynfony3にHTMLとCSSとジャバスクリプトでデザインを手直ししました。
 
 design:
   columns: '2'

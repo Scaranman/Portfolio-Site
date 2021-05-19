@@ -28,15 +28,17 @@ experience:
     company_logo: 
     location: Pittsford, NY
     date_start: '2021-06-01'
-    date_end: ''
-    description: |2-        
+    date_end: '2021-12-17'
+    description: |2-  
+    something
+
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
     company_logo: 
     location: Shinagawa, Tokyo, JP
-    date_start: '2019-08-09'
-    date_end: '2020-12-31'
+    date_start: '2019-06-03'
+    date_end: '2020-08-09'
     description: |2-
       Refactored charts originally configured using a legacyGoogle Charts library with a more modern C3.js library.
       * Used Laragon as a local deployment environment
