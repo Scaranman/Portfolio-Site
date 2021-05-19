@@ -18,16 +18,19 @@ home_section_odd = "#FAFAFA"
 home_section_even = "#EBEBFF"
 
 #links
-link = "#1F1FFF"
+link = "#8F5AA5"
 link_hover = "#000066"
 
 
 [dark]
-  primary = "#FAFAFA"
+  primary = "#8F5AA5"
 
-  menu_primary = "#45617D"
+  menu_primary = "#34495E"
   menu_text = "#FAFAFA"
   menu_text_active = "#1F1FFF"
 
-  home_section_odd = "#34495E"
-  home_section_even = "#45617D"
+  home_section_odd = "#628AB3"
+  home_section_even = "#34495E"
+
+  link = "#FAFAFA"
+  link_hover = "FAFAFA"
