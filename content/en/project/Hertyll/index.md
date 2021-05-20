@@ -30,12 +30,26 @@ url_video: ""
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+<h3>Background</h3>
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+For this project, I set out to design an interactive UI for an existing museum exhibit. Living in the Philadelphia area, I am lucky to have access to a plethora of museums. However, I set my sights on one particular museum; The Mutter Museum of The College of Physicians of Philadelphia. I wanted to work on an exhibit that was unique, and where else to find unique museum exhibits in Philadelphia other than the Mutter Museum? However, due to the graphic nature of the museum, my choices were rather limited. I chose to create an interactive screen for the Hertyll Skull Collection. The Hertyll Skull Collection is a collection of 139 skulls acquired from a Viennese anatomist Joseph Hyrtll (1810-1894) in 1874. Hyrtll's goal with the collection was to show how varied cranial autonomy was in Caucasians in Europe and debunk teh claims of phrenologists that cranial feature were an indicator of the level of ones intelligence.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+<h3>The Problem</h3>
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+The Hertyll Skull Collection, among the Museums many other exhibits, is located in a large glass display case. Due to the sheer amount of skulls, and the glass, the exhibit could be hard for those with low-vision or heigh restrictions in viewing the skulls freely. Furthermore, visitors could easily be overwhelmed by the sheer amount of skulls and either only look at and read about a few or just briefly glance over the collection. When I visited myself, I only looked at a few skulls before moving on.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+<h3>The Solution</h3>
+
+I sought out to design an interactive display that would allow visitors to rad about each and every skull in a much less overwhelming manner while also giving them the ability to see the skull in angles not possible from the display case. It would also provide more information about the cranial features of the skull and light up the skull in the display case so as not to take away from the physical exhibit. This would make it easier for visitors with limited sight and height restrictions to look at and read about the skulls, while also encouraging more exhibit engagement from all visitors.
+
+<h3>Wireframes</h3>
+
+I created 3 main screens. One screen where users could browse the skulls in the exhibit, A screen with information about a selected skull (with the real skull in the display case lit up), and a screen where a 3D model of the skull could be viewed and interacted with that made note of certain features of the skulls.
+
+<h3>User Flow</h3>
+
+<h3>Insipration</h3>
+
+I was inspired by retro designed websites, the branding of the museum and the victorian style architecture and interior of the museum.
+
+<h3>Final Prototype</h3>
