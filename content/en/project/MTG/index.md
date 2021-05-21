@@ -45,21 +45,21 @@ At the moment, frames are only designed with the assumption that the customer al
 
 <h3>Sketches</h3>
 
-<img src="/media/portfolio/MTGV/sketches.png" alt="Early sketches focusing on the layout">
+<img src="/static/portfolio/MTGV/sketches.png" alt="Early sketches focusing on the layout">
 
 <h3>User Flow Diagram</h3>
 
-<img src="/media/portfolio/MTGV/flow.png" alt="A user flow diagram of the Interface">
+<img src="/static/portfolio/MTGV/flow.png" alt="A user flow diagram of the Interface">
 
 While some parts of this flow diagram changed throughout the life of the project, most of it is accurate to the current design. 
 
 <h3>Wireframes</h3>
 
-<img src="/media/portfolio/MTGV/wireframes.png" alt="A compound view of all the low-fi wireframes">
+<img src="/static/portfolio/MTGV/wireframes.png" alt="A compound view of all the low-fi wireframes">
 
 <h3>Style Guide</h3>
 
-<img src="/media/portfolio/MTGV/styleguide.png" alt="A compound view of all the low-fi wireframes">
+<img src="/static/portfolio/MTGV/styleguide.png" alt="A compound view of all the low-fi wireframes">
 
 For our final design, we decided to use the official Magic The Gathering colors along with the Beleren typeface as a display font which is used in the game's logo. We also added various art pieces into the background to add a bit more to the design. Our biggest changes were to the card category select screen and the filters. We thought that out initial design of the card category select screen would be too consistent and might confuse users. It also looked strange. Instead, we used the rounded tiles with the color and logos of each card element used in the game. As fore the filters, we felt they were to rudimentary and need a bit more. We found that using checkboxes with the Magic The Gathering symbol in the filled in checkboxes really pulled it together. We also added a some more designs for the interaction. 
 

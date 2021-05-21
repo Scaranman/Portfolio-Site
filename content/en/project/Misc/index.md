@@ -32,36 +32,36 @@ slides: ""
 
 <h3>UX Studio 2021 - Rochester Museum & Science Center (RMSC) Webpage redesign</h3>
 
-<img src="/media/portfolio/misc/RMSC.png" alt="A view of the desktop site on a laptop and on a mobile smart phone">
+<img src="/static/portfolio/misc/RMSC.png" alt="A view of the desktop site on a laptop and on a mobile smart phone">
 
 A redesign of the Rochester Museum & Science Center Website for UX Studio 2021 at RIT.
 
 <h3>AllTrails App Reskin</h3>
 
-<img src="/media/portfolio/misc/AllTrails.png">
+<img src="/static/portfolio/misc/AllTrails.png">
 
 A reskin of two main screens from the AllTrails App.
 
 <h3>Kanji Study App Redesign</h3>
 
-<img src="/media/portfolio/misc/kanjistudy.png">
+<img src="/static/portfolio/misc/kanjistudy.png">
 
 A reskin of two main screen from the Kanji Study app for Android.
 
 <h3>Vote Poster Series</h3>
 
-<img src="/media/portfolio/misc/vote.png" alt="">
+<img src="/static/portfolio/misc/vote.png" alt="">
 
 A poster series designed to encourage people to get out and vote.
 
 <h3>Detrimental Discharge - a cost of beef infographic</h3>
 
-<img src="/media/portfolio/misc/cost-of-beef.png" alt="">
+<img src="/static/portfolio/misc/cost-of-beef.png" alt="">
 
 An infographic on the environmental cost of beef. 
 
 <h3>Squicoon Land II: Recovery</h3>
 
-<img src="/media/portfolio/misc/squicoonland.png" alt="A screenshot of the start screen for Squicoon Land II: Recovery">
+<img src="/static/portfolio/misc/squicoonland.png" alt="A screenshot of the start screen for Squicoon Land II: Recovery">
 
 A Unity-based game developed for the Philly Game Jam 2019. You can find a playable link to the game <a href="https://lakupo.itch.io/squicoon-land-ii">here</a>.
