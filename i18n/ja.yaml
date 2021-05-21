@@ -3,15 +3,15 @@
 - id: table_of_contents
   translation: 目次
 - id: on_this_page
-  translation: On this page
+  translation: このページへ
 - id: back_to_top
-  translation: Back to top
+  translation: 始まりへ
 - id: home
-  translation: Home
+  translation: ホーム
 - id: close
-  translation: Close
+  translation: 閉める
 - id: languages
-  translation: Languages
+  translation: 言語
 - id: related
   translation: 関連項目
 - id: minute_read
@@ -75,13 +75,13 @@
 - id: more_publications
   translation: 発表文献一覧
 - id: contact_name
-  translation: Name
+  translation:　名前
 - id: contact_email
-  translation: Email
+  translation: メールアドレス
 - id: contact_message
-  translation: Message
+  translation: メッセージ
 - id: contact_send
-  translation: Send
+  translation: 送る
 - id: book_appointment
   translation: Book an appointment
 - id: abstract

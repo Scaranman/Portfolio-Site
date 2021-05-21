@@ -17,13 +17,13 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
+  # form:
+    provider: formspree
     formspree:
-      id:
-    netlify:
+      id: https://formspree.io/f/mnqlpyyy
+    # netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      # captcha: false
   
 design:
   columns: '2'
