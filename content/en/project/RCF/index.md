@@ -30,10 +30,25 @@ url_video: ""
 slides: ""
 ---
 <h3>The Problem</h3>
+The Rochester Community Foundation (RACF) partners with local businesses and community centers to enrich the lives of people in the region through various community-focused programs and initiatives. The RACF needed a website and platform where recipients of aide programs, such as a SNAP, can obtain discounts codes for participating community centers in region such as the Seneca Park Zoo. They needed a way for visitors to apply for discounts, a method for approving applications, and a way for administrators and participating community centers to manage, view, and maintain various aspects of the site, as well as data analytics.
 
 <h3>The Solution</h3>
 
+Our plan was to build a site from the ground up where administrators would not need to deal with a complex CMS and everything would be implmented in-site and be very simple for administrators (who may not be so tech savvy) to utilize and manage.
+
 <h3>The Team</h3>
+
+<h4>Front-End Developer and Liason</h4>
+  - Andrew Costanzo
+
+<h4>Design</h4>
+  - Jacob Scarani (Me)
+  - Cole Inniss
+  - Xu Liu
+
+<h4>Back-End and Database</h4>
+  - Avery Nutting-Hartman
+  - Kyrren Love
 
 <h3>The Process</h3>
 
