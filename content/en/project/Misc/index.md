@@ -50,13 +50,13 @@ A reskin of two main screen from the Kanji Study app for Android.
 
 <h3>Vote Poster Series</h3>
 
-<img src="/portfolio/misc/vote.png" alt="">
+<img src="/portfolio/misc/vote.png">
 
 A poster series designed to encourage people to get out and vote.
 
 <h3>Detrimental Discharge - a cost of beef infographic</h3>
 
-<img src="/portfolio/misc/cost-of-beef.png" alt="">
+<img src="/portfolio/misc/cost-of-beef.png" width="500px">
 
 An infographic on the environmental cost of beef. 
 
