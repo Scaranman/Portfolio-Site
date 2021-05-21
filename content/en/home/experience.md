@@ -30,7 +30,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-  
-      something
+      As part of a small team, help design experiences and conduct user testing for company's flagship products.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
