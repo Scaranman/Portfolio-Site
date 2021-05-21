@@ -30,7 +30,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-  
-      As part of a small team, help design experiences and conduct user testing for company's flagship products.
+    As part of a small team, help design experiences and conduct user testing for company's flagship products.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
@@ -39,11 +39,11 @@ experience:
     date_start: '2019-06-03'
     date_end: '2020-08-09'
     description: |2-
-      Refactored charts originally configured using a legacyGoogle Charts library with a more modern C3.js library.
-      * Used Laragon as a local deployment environment
-      * Tweaked design in a Symfony 3 codebase using:
-        - HTML/CSS
-        - JavaScript
+    Refactored charts originally configured using a legacyGoogle Charts library with a more modern C3.js library.
+    * Used Laragon as a local deployment environment
+    * Tweaked design in a Symfony 3 codebase using:
+      - HTML/CSS
+      - JavaScript
 design:
   columns: '2'
 ---
