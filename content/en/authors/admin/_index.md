@@ -79,6 +79,6 @@ I have also been learning Japanese since late high school when I went to a Japan
 
 I love learning Japanese language and culture and I have extended my interest to other cultures worldwide.
 
-Outside of school and UX, I enjoy video games, hiking, and spending time with my dog, Dexter. I recently started pickup up guitar and teaching myself how to draw.
+Outside of school and UX, I enjoy video games, hiking, and spending time with my dog, Dexter. I recently started picking up up guitar and teaching myself how to draw.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
