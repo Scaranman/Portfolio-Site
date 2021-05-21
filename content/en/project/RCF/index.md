@@ -37,6 +37,16 @@ slides: ""
 
 <h3>The Process</h3>
 
-<h3>Mobile Prototype</h3>
+<h4>Initial Stages</h4>
 
-<h3>Desktop Prototype</h3>
+<h4>First Designs</h4>
+
+<h4>Admin Venue and Event Pages</h4>
+
+<h4>Revision</h4>
+
+<h4>The Grant Portal</h4>
+
+<h4>The Admin Portal</h4>
+
+<h4>End Results & Conclusion</h4>

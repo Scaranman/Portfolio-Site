@@ -69,16 +69,16 @@ resources:
 
 ---
 
-Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I will be graduating this August from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
+Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I will be graduating in August from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
 
-I believe I got my drive for UX through the background of my family. My mother went to art school and worked as a graphic designer before pursuing a career in Early Childhood education. Both of my mothers parents were also artists and designers. My father is an architect. With these family members, I grew up with a very creative maternal side, and a very logical but design based paternal side.
+I got my drive for UX from my family. My father is an architect and my mother went to art school and worked as a graphic designer before pursuing a career in early childhood education. Additionally, my mothers parents were artists and designers. In short, I grew up with a very creative maternal side, and a logical but design-based paternal side.
 
-From a young age I got involved in the use of computers in technology,　and due to my communication disability as a child, I was always on some piece of technology. Whether it be my Gameboy , the Xbox, or the family PC. Needless to say, technology is an important part of my life and from the start, I knew I was going to do something with technology.
+From a young age I got involved in the use of computers in technology. As a child, I was always on some piece of technology. Whether it be my Gameboy , the Xbox, or the family PC. Needless to say, technology has always been an important part of my life, and I knew I was going to do something with technology.
 
-I have also been learning Japanese since late high school when I went a Japanese language camp for the summer. From there I knew I was going to continue my studies at RIT and pursued a minor. I credit my original interest in Japanese to my mom. She studied Japanese when she was in college and lived in Kobe for a year. She loves Japan. In 2019 I spent my Spring semester in Nagoya, Japan through IES abroad at Nanzan University. I spent the first 4 months of the program in homestay and the last month in a dorm. I spent the following summer on an Internship for Tamago-DB in Tokyo.
+I have also been learning Japanese since late high school when I went to a Japanese language camp for the summer. From there I knew I was going to continue my studies at RIT and pursued a minor. I credit my original interest in Japanese to my mom. She studied Japanese when she was in college and lived in Kobe for a year. In 2019, I spent my Spring semester in Nagoya, Japan at Nanzan University/南山大学. I spent the first four months of the program in homestay and the last month in a dorm. I spent the following summer on an Internship for Tamago-DB in Tokyo.
 
-I really love learning about Japanese language and culture and I have extended my interest to other cultures worldwide.
+I love learning Japanese language and culture and I have extended my interest to other cultures worldwide.
 
-Outside of School and UX, I enjoy video games, hiking, and spending time with my Dog, Dexter. I recently started trying to practice guitar again and teaching myself how to draw.
+Outside of school and UX, I enjoy video games, hiking, and spending time with my dog, Dexter. I recently started pickup up guitar and teaching myself how to draw.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

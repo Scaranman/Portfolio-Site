@@ -38,11 +38,13 @@ In a world with rapidly advancing technology, it's a wonder why community laundr
 
 Laundy is a part of an idea that I'm sure many people have thought of by now. Create an app that allows members of a community to see the status of the laundry machines in their laundry room in real time. My proposed ideation of this idea, would be integrated with the machines directly, giving live feedback without relying on user input for start and stop. Furthermore, Laundy would allow users to easily make maintenance reports for both machines and facilities with great convenience, giving staff more reports than they might have before
 
-<h3>Low-fi Prototype
+<h3>Low-fi Prototype</h3>
 
-<h3>Evaluation of Low-fi prototype</h3>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D0%253A1%26node-id%3D10%253A15%26viewport%3D814%252C167%252C0.4426470696926117%26scaling%3Dscale-down" allowfullscreen></iframe>
 
-Evaluation of my low-fi prototype game me some valuable feedback early on.
+<h3>Evaluation of Lo-fi Prototype</h3>
+
+Evaluation of my lo-fi prototype game me some valuable feedback early on.
 
 <h4>Laundry Tab</h4>
 
@@ -52,14 +54,18 @@ Evaluation of my low-fi prototype game me some valuable feedback early on.
 
 - Users appeared to not understand what the "Not a Machine" checkbox was for.
 
-<h4>Suggestions for future features</h4>
+<h4>Suggestions for Future Features</h4>
 
 - Manual alternative for communities with older machines
 - Mobile pay method as an alternative for coin machines
 
 <h3>Hi-fi Prototype</h3>
 
-<h4>Settings tab</h4>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D1%253A211%26node-id%3D62%253A182%26viewport%3D576%252C291%252C0.26023054122924805%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+<h3>Evaluation of Hi-fi Prototype
+
+<h4>Settings Tab</h4>
 
 - One user got confused between the maintenance and reporting a bug. The user suggested that report a bug should be located in a 4th tab.
 
@@ -67,7 +73,7 @@ Evaluation of my low-fi prototype game me some valuable feedback early on.
 
 - The colleges in the community dropdown were not ordered alphabetically.
 
-<h4>Suggestions for future features</h4>
+<h4>Suggestions for Future Features</h4>
 
 - Add information for machines that says what cycle it is on.
 
