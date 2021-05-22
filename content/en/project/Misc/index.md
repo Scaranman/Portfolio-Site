@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous 
-summary: A collection of various different things I've designed and or worked on.
+summary: A collection of various different things I've designed or worked on.
 tags:
 # - Deep Learning
 date: "2021"
@@ -29,6 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+A collection of various different things I've designed or worked on.
 
 <h3>UX Studio 2021 - Rochester Museum & Science Center (RMSC) Webpage redesign</h3>
 
