@@ -46,7 +46,7 @@ Laundy is a part of an idea that I'm sure many people have thought of by now. Cr
 
 Evaluation of my lo-fi prototype game me some valuable feedback early on.
 
-<h4>洗濯/h4>
+<h4>洗濯</h4>
 
 - Due to an unfortunate oversight, users did not understand that the placeholder icon I placed next to the machines in the laundry tab were buttons. In this instance, the problem could have easily been avoided by uses a different placeholder such as a square. This was a mistake I am sure to not make in the future.
 
