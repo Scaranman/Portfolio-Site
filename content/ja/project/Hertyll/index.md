@@ -30,6 +30,8 @@ url_video: ""
 slides: ""
 ---
 
+<h4>翻訳は進行中です。<h4>
+
 <h3>背景</h3>
 
 For this project, I set out to design an interactive UI for an existing museum exhibit. Living in the Philadelphia area, I am lucky to have access to a plethora of museums. However, I set my sights on one particular museum; The Mutter Museum of The College of Physicians of Philadelphia. I wanted to work on an exhibit that was unique, and where else to find unique museum exhibits in Philadelphia other than the Mutter Museum? However, due to the graphic nature of the museum, my choices were rather limited. I chose to create an interactive screen for the Hyrtl Skull Collection. The Hyrtl Skull Collection is a collection of 139 skulls acquired from a Viennese anatomist Joseph Hyrtll (1810-1894) in 1874. Hyrtll's goal with the collection was to show how varied cranial autonomy was in Caucasians in Europe and debunk teh claims of phrenologists that cranial feature were an indicator of the level of ones intelligence.

@@ -29,7 +29,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<h4>翻訳は進行中です。<h4>
+
 <h3>問題</h3>
+
 The Rochester Community Foundation (RACF) partners with local businesses and community centers to enrich the lives of people in the region through various community-focused programs and initiatives. The RACF needed a website and platform where recipients of aide programs, such as a SNAP, can obtain discounts codes for participating community centers in region such as the Seneca Park Zoo. They needed a way for visitors to apply for discounts, a method for approving applications, and a way for administrators and participating community centers to manage, view, and maintain various aspects of the site, as well as data analytics.
 
 <h3>解決</h3>

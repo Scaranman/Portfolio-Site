@@ -1,6 +1,6 @@
 ---
 title: その他 
-summary: 色々なデザインしたことです。
+summary: 色々なデザインしたり手伝ったりしたことです。
 tags:
 # - Deep Learning
 date: "2021"
@@ -36,34 +36,28 @@ slides: ""
 
 <img src="/portfolio/misc/RMSC.png" alt="パソコンとスマホのスクリーン">
 
-A redesign of the Rochester Museum & Science Center Website for UX Studio 2021 at RIT.
+RITの「UX Studio」に「Rochester Museum & Science Center」のウェブサイトの設計し直すのです。
 
 <h3>「AllTrails」と言うアプリの衣替え</h3>
 
 <img src="/portfolio/misc/AllTrails.png">
 
-A reskin of two main screens from the AllTrails App.
-
 <h3>「Kanji Study」と言うアプリの衣替え</h3>
 
 <img src="/portfolio/misc/kanjistudy.png">
-
-A reskin of two main screen from the Kanji Study app for Android.
 
 <h3>「Vote」ポスターの一連</h3>
 
 <img src="/portfolio/misc/vote.png">
 
-A poster series designed to encourage people to get out and vote.
+人々に採決するように進めるポスターの一連です。
 
-<h3>牛肉の費用のインフォグラフィック</h3>
+<h3>牛肉の環境の費用のインフォグラフィック</h3>
 
 <img src="/portfolio/misc/cost-of-beef.png" width="500px">
-
-An infographic on the environmental cost of beef. 
 
 <h3>「Squicoonland　2: Recovery」と言うゲイム/h3>
 
 <img src="/portfolio/misc/squicoonland.png" alt="A screenshot of the start screen for Squicoon Land II: Recovery">
 
-A Unity-based game developed for the Philly Game Jam 2019. You can find a playable link to the game <a href="https://lakupo.itch.io/squicoon-land-ii">here</a>.
+チームで[Philly Game Jam 2019]につく多ゲームです。 <a href="https://lakupo.itch.io/squicoon-land-ii">ここ</a>でゲームをしてみることができます。

@@ -30,6 +30,8 @@ url_video: ""
 slides: ""
 ---
 
+<h4>翻訳は進行中です。<h4>
+
 <h3>問題</h3>
 
 In a world with rapidly advancing technology, it's a wonder why community laundry rooms have not gotten the much needed upgrade. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.

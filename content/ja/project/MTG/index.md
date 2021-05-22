@@ -30,6 +30,8 @@ url_video: ""
 slides: ""
 ---
 
+<h4>翻訳は進行中です。<h4>
+
 <h3>問題</h3>
 
 Vending machines are something we see everywhere. However, it's not very often that you get to see a vending machine that offers something different from the standard snacks or drinks. My partner and I set out to create an interface for a vending machine that breaks the standard design conventions for one.
