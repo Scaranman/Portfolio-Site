@@ -39,9 +39,11 @@ Our plan was to build a site from the ground up where administrators would not n
 <h3>The Team</h3>
 
 <h4>Front-End Developer and Liason</h4>
+
   - Andrew Costanzo
 
 <h4>Design</h4>
+
   - Jacob Scarani (Me)
   - Cole Inniss
   - Xu Liu

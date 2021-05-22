@@ -39,14 +39,17 @@ Our plan was to build a site from the ground up where administrators would not n
 <h3>チーム</h3>
 
 <h4>フロントエンドプログラミーと班長</h4>
-  - Andrew Costanzo
+
+  - Andrew Costanzo/アンドリュー・コスタンゾ
 
 <h4>デザイン</h4>
+
   - Jacob Scarani/ジェイコブ・スカラニ (私))
   - Cole Inniss/コール・インニッス
   - Xu Liu/ズ・ル
 
 <h4>Back-End and Database</h4>
+
   - Avery Nutting-Hartman/エバリー・ナチングハートマン
   - Kyrren Love/キーレン・ロブ
 
