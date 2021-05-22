@@ -1,6 +1,6 @@
 ---
-title: Mutter Museum Hertyll Skull Collection Interface
-summary: A prototype UI for a hypothetical interactive screen for the Hertyll Skull Collection at the Mutter Museum of the College of Physicians of Philadelphia.
+title: Mutter Museum Hyrtl Skull Collection Interface
+summary: A prototype UI for a hypothetical interactive screen for the Hyrtl Skull Collection at the Mutter Museum of the College of Physicians of Philadelphia.
 tags:
 # - Deep Learning
 date: "2020"
@@ -32,11 +32,11 @@ slides: ""
 
 <h3>Background</h3>
 
-For this project, I set out to design an interactive UI for an existing museum exhibit. Living in the Philadelphia area, I am lucky to have access to a plethora of museums. However, I set my sights on one particular museum; The Mutter Museum of The College of Physicians of Philadelphia. I wanted to work on an exhibit that was unique, and where else to find unique museum exhibits in Philadelphia other than the Mutter Museum? However, due to the graphic nature of the museum, my choices were rather limited. I chose to create an interactive screen for the Hertyll Skull Collection. The Hertyll Skull Collection is a collection of 139 skulls acquired from a Viennese anatomist Joseph Hyrtll (1810-1894) in 1874. Hyrtll's goal with the collection was to show how varied cranial autonomy was in Caucasians in Europe and debunk teh claims of phrenologists that cranial feature were an indicator of the level of ones intelligence.
+For this project, I set out to design an interactive UI for an existing museum exhibit. Living in the Philadelphia area, I am lucky to have access to a plethora of museums. However, I set my sights on one particular museum; The Mutter Museum of The College of Physicians of Philadelphia. I wanted to work on an exhibit that was unique, and where else to find unique museum exhibits in Philadelphia other than the Mutter Museum? However, due to the graphic nature of the museum, my choices were rather limited. I chose to create an interactive screen for the Hyrtl Skull Collection. The Hyrtl Skull Collection is a collection of 139 skulls acquired from a Viennese anatomist Joseph Hyrtll (1810-1894) in 1874. Hyrtll's goal with the collection was to show how varied cranial autonomy was in Caucasians in Europe and debunk teh claims of phrenologists that cranial feature were an indicator of the level of ones intelligence.
 
 <h3>The Problem</h3>
 
-The Hertyll Skull Collection, among the Museums many other exhibits, is located in a large glass display case. Due to the sheer amount of skulls, and the glass, the exhibit could be hard for those with low-vision or heigh restrictions in viewing the skulls freely. Furthermore, visitors could easily be overwhelmed by the sheer amount of skulls and either only look at and read about a few or just briefly glance over the collection. When I visited myself, I only looked at a few skulls before moving on.
+The Hyrtl Skull Collection, among the Museums many other exhibits, is located in a large glass display case. Due to the sheer amount of skulls, and the glass, the exhibit could be hard for those with low-vision or heigh restrictions in viewing the skulls freely. Furthermore, visitors could easily be overwhelmed by the sheer amount of skulls and either only look at and read about a few or just briefly glance over the collection. When I visited myself, I only looked at a few skulls before moving on.
 
 <h3>The Solution</h3>
 
@@ -44,11 +44,17 @@ I sought out to design an interactive display that would allow visitors to rad a
 
 <h3>Wireframes</h3>
 
+<img src="/portfolio/hyrtl/wireframes.png" alt="3 low fidelity wireframes from the project">
+
 I created 3 main screens. One screen where users could browse the skulls in the exhibit, A screen with information about a selected skull (with the real skull in the display case lit up), and a screen where a 3D model of the skull could be viewed and interacted with that made note of certain features of the skulls.
 
 <h3>User Flow</h3>
 
-<h3>Insipration</h3>
+<img src="/portfolio/hyrtl/flow.png" alt="A user flow diagram of the project">
+
+<h3>Insipration and Style Guide</h3>
+
+<img src="/portfolio/hyrtl/styleguide.png" alt="The styleguide for the project that shows the typeface usage, the colors, and the inspiration">
 
 I was inspired by retro designed websites, the branding of the museum and the victorian style architecture and interior of the museum.
 
