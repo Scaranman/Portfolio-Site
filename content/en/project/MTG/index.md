@@ -9,7 +9,7 @@ date: "2020"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -32,30 +32,33 @@ slides: ""
 
 <h3>Problem</h3>
 
+Vending machines are something we see everywhere. However, it's not very often that you get to see a vending machine that offers something different from the standard snacks or drinks. My partner and I set out to create an interface for a vending machine that breaks the standard design conventions for one.
 
-Vending machines are something we see everywhere. However, it's not very often that you get to see a vending machine that differs from the current ones we have. My partner set out to create an interface for a vending machine that breaks the standard design conventions for one.
-
+In trading card games such as Magic The Gathering (MTG), there are many card with common and uncommon rarities that while are very common and not worth much, are absolutely necessary to a deck build. It's because of this that many players often go out of their way to buy these cards despite their rarity and worth. However, at many card and board game shops, customers often build relationships with the staff and might get better prices from the staff, especially for more rare cards. However, these shops often get very crowded and as such, it could seem to be a more tedious process than desirable for both staff and customers when buying or selling such cards. My partner and I sought out to design a vending machine solution that would relieve the burden of local shop staff when it came to these transactions without forcibly taking away from customer-staff relationships.
 
 <h3>Solution</h3>
 
+We came up with a vending machine that would streamline the process of buying and selling common and uncommon cards by allowing customers to do it through the machine rather than waiting in line and getting an offer from the staff. When selling cards, the vending machine could scan the cards and compare them to a database where it would then provide and offer price.
 
-We came up with a vending machine for Magic The Gathering, an immensely popular trading card game. Currently, most card stores are locally based and include game spaces in the back. These stores often get very crowded, the purpose of our proposed design is not to replace the store clerks at the front, but to alleviate the the work of the store clerks. This vending machine would streamline the process of buying and selling cards by allowing customers to quickly sell and buy cheap common and uncommon cards.
-
-At the moment, frames are only designed with the assumption that the customer already has a card for the vending machine and is selling cards. 
+Customers would need get their card from the staff that they could then use to build up a balance (either buy selling cards or putting money on at the register) to use when buying cards from the vending machine.
 
 <h3>Sketches</h3>
 
 <img src="/portfolio/MTG/sketches.png" alt="Early sketches focusing on the layout">
 
-We started out with some rudementary sketches on how we thought the standard user flow would look like.
+We started out with some rudimentary sketches on how we thought the standard user flow would look like.
 
 <h3>User Flow Diagram</h3>
 
 <img src="/portfolio/MTG/flow.png" alt="A user flow diagram of the Interface">
 
-As shown in the user flow diagram, we wanted to start the standard user flow with a prompt to enter their card and give the opportunity for users to sell any cards they would like to sell to the machine. From there users would be able to sell more or browse the machine's inventory and decide if they would like to buy any cards.
+Before using the vanding machine, customers would first need to get a card from the staff who would activate it. Customers could either take the card as is, or put money on it through the register.
 
-While some parts of this flow diagram changed throughout the life of the project, most of it is accurate to the current design.
+When using the machine, users would be prompted to enter their card and would then be given the opportunity for users to sell any cards they would like to sell to the machine. 
+
+When selling, customers would then insert the cards one by one. Each time they insert a card, the machine would scan the card and compare it to a database where it would then offer a sell price. If the customer accepts, they could either sell more card, shop for cards, or exit and finish.
+
+From there if they decide they would like to buy any card, they could browse through a variety of means such as color, condition, type, or by name. After that, it's a mostly standard checkout process.
 
 <h3>Wireframes</h3>
 
@@ -67,7 +70,9 @@ Picking up where the sketches left off, we then created low-fi wireframes of som
 
 <img src="/portfolio/MTG/styleguide.png" alt="A compound view of all the low-fi wireframes">
 
-For our final design, we decided to use the official Magic The Gathering colors along with the Beleren typeface as a display font which is used in the game's logo. We also added various art pieces into the background to add a bit more to the design. Our biggest changes were to the card category select screen and the filters. We thought that out initial design of the card category select screen would be too consistent and might confuse users. It also looked strange. Instead, we used the rounded tiles with the color and logos of each card element used in the game. As fore the filters, we felt they were to rudimentary and need a bit more. We found that using checkboxes with the Magic The Gathering symbol in the filled in checkboxes really pulled it together. We also added a some more designs for the interaction. 
+For our final design, we decided to use the official Magic The Gathering colors along with the Beleren typeface, which is used in the game's logo, as a display font. We also added various art pieces into the background to add a bit more flare to the design.
+
+Our biggest changes were to the card category select screen and the filters. We thought that out initial design of the card category select screen would be too consistent and might confuse users. It also looked strange. Instead, we used the rounded tiles with the color and logos of each card element used in the game. As for the filters, we felt they were too rudimentary and need a bit more put into them. We found that using checkboxes with the Magic The Gathering symbol in the filled in checkboxes really pulled it together. We also added a some more designs for the interaction.
 
 <h3>Final Prototype</h3>
 
