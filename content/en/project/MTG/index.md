@@ -76,4 +76,4 @@ Our biggest changes were to the card category select screen and the filters. We 
 
 <h3>Final Prototype</h3>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsDW38BfMENB7mm0p1anmJu%2FMTG-Vending-Project%3Fpage-id%3D56466%253A190%26node-id%3D56466%253A714%26viewport%3D1062%252C542%252C0.09153234213590622%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsDW38BfMENB7mm0p1anmJu%2FMTG-Vending-Project%3Fpage-id%3D56466%253A190%26node-id%3D56466%253A714%26viewport%3D-998%252C559%252C0.4117658734321594%26scaling%3Dscale-down-width" allowfullscreen></iframe>
