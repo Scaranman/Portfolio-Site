@@ -34,7 +34,7 @@ The Rochester Community Foundation (RACF) partners with local businesses and com
 
 <h3>The Solution</h3>
 
-Our plan was to build a site from the ground up where administrators would not need to deal with a complex CMS and everything would be implmented in-site and be very simple for administrators (who may not be so tech savvy) to utilize and manage.
+Our plan was to build a site from the ground up where administrators would not need to deal with a complex CMS and everything would be implemented in-site and be very simple for administrators (who may not be so tech-savvy) to utilize and manage.
 
 <h3>The Team</h3>
 
@@ -69,15 +69,15 @@ Our plan was to build a site from the ground up where administrators would not n
 
 <h4>Revision</h4>
 
-A couple months into the project, RACF, notified us that visitors were not buying tickets through their website and were instead only receiving discount codes for individual participating businesses. As such, we had to remove the shopping cart and all of the transaction related designs. Thankfully, the transaction pages were not developed and design was already ahead of where we needed to be so it was not much of an issue.
+A couple of months into the project, RACF, notified us that visitors were not buying tickets through their website and were instead only receiving discount codes for individual participating businesses. As such, we had to remove the shopping cart and all the transaction related designs. Thankfully, the transaction pages were not developed and design was already ahead of where we needed to be, so it was not much of an issue.
 
 <h4>The Grant Portal</h4>
 
 <img src="/portfolio/RACF/grant.png" alt="Visitor and Admin views of the grant portal">
 
-For the grant portal, we needed something that would allow visitors to easily upload their documents and view their status in the review process. We knew that at any time RACF could stop accepting or start qualifying certain aide programs and at the same time the the government could change how one works, discontinue one, or create a new one. At the same time however, we thought it would be helpful to have uploads categorized to make it easier for applicants and people who were going to review the documents.
+For the grant portal, we needed something that would allow visitors to easily upload their documents and view their status in the review process. We knew that at any time RACF could stop accepting or start qualifying certain aide programs and at the same time the government could change how one works, discontinue one, or create a new one. At the same time however, we thought it would be helpful to have uploads categorized to make it easier for applicants and people who were going to review the documents.
 
-As a solution, we create the grant portal where visitors could upload their document according three catagories: local, state, and federal. Visitors could upload multiple documents for each category and a color-coded indicator will inform them of the review status (e.g. pending, approved, declined).
+As a solution, we create the grant portal where visitors could upload their document according three categories: local, state, and federal. Visitors could upload multiple documents for each category and a color-coded indicator will inform them of the review status (e.g. pending, approved, declined).
 
 Administrators who are going to review the documents can view the submissions by each visitor along with any information provided in their profile.
 
@@ -97,7 +97,7 @@ Some things I learned
 - Sometimes you don't have as much information as you would like and just need to put something out. 
   - If your client or boss does not like something, they will tell you and at least then you have something to go off of.
 - Sometimes communication breaks down between group members and certain tasks are not completed by other members when you need them too. If it's something that needs to be shown to a client or boss, sometimes you just need to step up and get something done.
-- Assign resposibilities as early as possible and have a structure. 
-  - In this project we assigned a lot of the design resposibilities on the fly which made communication difficult at times.
-- Create a concrete and senseful asset library and communicate naming schemas early on. 
-  - Asset creation was very messy from the start. Most of the assets were not set up properly and naming was inconsistant. All this needs to be talked about, communicated, and developed very early on as a team.
+- Assign responsibilities  as early as possible and have a structure. 
+  - In this project we assigned a lot of the design responsibilities  on the fly which made communication difficult at times.
+- Create a concrete and more comprehensive asset library and communicate naming schemas early on. 
+  - Asset creation was very messy from the start. Most of the assets were not set up properly and naming was inconsistent. All this needs to be talked about, communicated, and developed very early on as a team.

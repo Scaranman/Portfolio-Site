@@ -32,7 +32,7 @@ slides: ""
 
 <h3>The Problem</h3>
 
-In a world with rapidly advancing technology, it's a wonder why community laundry rooms have not gotten the much needed upgrade. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.
+In a world with rapidly advancing technology, it's a wonder why community laundry rooms have not gotten the much-needed upgrade. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.
 
 <h3>The Solution</h3>
 
