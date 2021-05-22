@@ -78,4 +78,6 @@ Our biggest changes were to the card category select screen and the filters. We 
 
 <h3>Final Prototype</h3>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsDW38BfMENB7mm0p1anmJu%2FMTG-Vending-Project%3Fpage-id%3D56466%253A190%26node-id%3D56466%253A714%26viewport%3D-998%252C559%252C0.4117658734321594%26scaling%3Dscale-down" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsDW38BfMENB7mm0p1anmJu%2FMTG-Vending-Project%3Fpage-id%3D56466%253A190%26node-id%3D56466%253A714%26viewport%3D-998%252C559%252C0.4117658734321594%26scaling%3Dscale-down" allowfullscreen></iframe>
+</div>

@@ -40,7 +40,9 @@ Laundy is a part of an idea that I'm sure many people have thought of by now. Cr
 
 <h3>Low-fi Prototype</h3>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D0%253A1%26node-id%3D10%253A15%26viewport%3D814%252C167%252C0.4426470696926117%26scaling%3Dscale-down" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D0%253A1%26node-id%3D10%253A15%26viewport%3D814%252C167%252C0.4426470696926117%26scaling%3Dscale-down" allowfullscreen></iframe>
+</div>
 
 <h3>Evaluation of Lo-fi Prototype</h3>
 
@@ -61,7 +63,9 @@ Evaluation of my lo-fi prototype game me some valuable feedback early on.
 
 <h3>Hi-fi Prototype</h3>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D1%253A211%26node-id%3D62%253A182%26viewport%3D576%252C291%252C0.26023054122924805%26scaling%3Dscale-down" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D1%253A211%26node-id%3D62%253A182%26viewport%3D576%252C291%252C0.26023054122924805%26scaling%3Dscale-down" allowfullscreen></iframe>
+</div>
 
 <h3>Evaluation of Hi-fi Prototype</h3>
 

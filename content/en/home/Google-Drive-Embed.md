@@ -15,7 +15,6 @@ link: https://drive.google.com/file/d/14eit_AQnnOldqqh8xPEIjvCwQmt3GWQB/preview
 
 #set the height and width for the iframe (examples: "800px", "100%", etc)
 height: 1100px
-width: 800px
 
 author: admin
 ---
