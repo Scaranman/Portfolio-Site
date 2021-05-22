@@ -75,7 +75,7 @@
 - id: more_publications
   translation: 発表文献一覧
 - id: contact_name
-  translation:　名前
+  translation: 名前
 - id: contact_email
   translation: メールアドレス
 - id: contact_message
