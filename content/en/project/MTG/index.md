@@ -34,7 +34,9 @@ slides: ""
 
 Vending machines are something we see everywhere. However, it's not very often that you get to see a vending machine that offers something different from the standard snacks or drinks. My partner and I set out to create an interface for a vending machine that breaks the standard design conventions for one.
 
-In trading card games such as Magic The Gathering (MTG), there are many card with common and uncommon rarities that while are very common and not worth much, are absolutely necessary to a deck build. It's because of this that many players often go out of their way to buy these cards despite their rarity and worth. However, at many card and board game shops, customers often build relationships with the staff and might get better prices from the staff, especially for more rare cards. However, these shops often get very crowded and as such, it could seem to be a more tedious process than desirable for both staff and customers when buying or selling such cards. My partner and I sought out to design a vending machine solution that would relieve the burden of local shop staff when it came to these transactions without forcibly taking away from customer-staff relationships.
+In trading card games such as Magic The Gathering (MTG), there are many card with common and uncommon rarities that while are very common and not worth much, are absolutely necessary to a deck build. It's because of this that many players often go out of their way to buy these cards despite their rarity and worth. 
+
+At many card and board game shops, customers often build relationships with the staff and might get better prices from the staff, especially for more rare cards. However, these shops often get very crowded and as such, it could seem to be a more tedious process than desirable for both staff and customers when buying or selling such cards. My partner and I sought out to design a vending machine solution that would relieve the burden of local shop staff when it came to these transactions without forcibly taking away from customer-staff relationships.
 
 <h3>Solution</h3>
 
@@ -76,4 +78,4 @@ Our biggest changes were to the card category select screen and the filters. We 
 
 <h3>Final Prototype</h3>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsDW38BfMENB7mm0p1anmJu%2FMTG-Vending-Project%3Fpage-id%3D56466%253A190%26node-id%3D56466%253A714%26viewport%3D-998%252C559%252C0.4117658734321594%26scaling%3Dscale-down-width" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsDW38BfMENB7mm0p1anmJu%2FMTG-Vending-Project%3Fpage-id%3D56466%253A190%26node-id%3D56466%253A714%26viewport%3D-998%252C559%252C0.4117658734321594%26scaling%3Dscale-down" allowfullscreen></iframe>
