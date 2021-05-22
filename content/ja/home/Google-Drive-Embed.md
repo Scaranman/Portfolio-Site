@@ -15,8 +15,9 @@ link: https://drive.google.com/file/d/1p2m1u_qznQ0ll0sKyeVnmxxut4Qye_Kr/preview
 
 
 #set the height and width for the iframe (examples: "800px", "100%", etc)
-height: 1100px
-width: 800px
+height: 75vh
 
 author: admin
 ---
+
+{{< icon name="download" pack="fas" >}}{{< staticref "media/demo_resume.pdf" "newtab" >}}ダウンロード{{< /staticref >}}.
