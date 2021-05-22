@@ -60,6 +60,8 @@ I was inspired by retro designed websites, the branding of the museum and the vi
 
 <h3>Final Prototype</h3>
 
+<h4>Please note that at this time, prototypes do not display properly on mobile screens.</h4>
+
 <div style="  position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSAB5uqUzoRsV0c8Qs7Nor2%2FJacob-Scarani-Museum-Interactive-Exhibit%3Fpage-id%3D212%253A990%26node-id%3D270%253A54%26viewport%3D193%252C372%252C0.06297879666090012%26scaling%3Dscale-down" allowfullscreen></iframe>
 </div>
