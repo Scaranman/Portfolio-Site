@@ -63,7 +63,7 @@ Evaluation of my lo-fi prototype game me some valuable feedback early on.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D1%253A211%26node-id%3D62%253A182%26viewport%3D576%252C291%252C0.26023054122924805%26scaling%3Dscale-down" allowfullscreen></iframe>
 
-<h3>Evaluation of Hi-fi Prototype
+<h3>Evaluation of Hi-fi Prototype</h3>
 
 <h4>Settings Tab</h4>
 

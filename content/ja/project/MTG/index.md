@@ -1,6 +1,6 @@
 ---
-title: Magic The Gathering Vending Machine UI
-summary: A prototype UI for a hypothetical Vending machine for the popular trading card game Magic The Gathering (MTG).
+title: マジック:ザギャザリングの自動販売機のUI
+summary: マジック:ザギャザリングの自動販売機のUIの原型です。
 tags:
 # - Deep Learning
 date: "2020"
@@ -9,7 +9,7 @@ date: "2020"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -30,12 +30,52 @@ url_video: ""
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+<h3>問題</h3>
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Vending machines are something we see everywhere. However, it's not very often that you get to see a vending machine that offers something different from the standard snacks or drinks. My partner and I set out to create an interface for a vending machine that breaks the standard design conventions for one.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+In trading card games such as Magic The Gathering (MTG), there are many card with common and uncommon rarities that while are very common and not worth much, are absolutely necessary to a deck build. It's because of this that many players often go out of their way to buy these cards despite their rarity and worth. 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+At many card and board game shops, customers often build relationships with the staff and might get better prices from the staff, especially for more rare cards. However, these shops often get very crowded and as such, it could seem to be a more tedious process than desirable for both staff and customers when buying or selling such cards. My partner and I sought out to design a vending machine solution that would relieve the burden of local shop staff when it came to these transactions without forcibly taking away from customer-staff relationships.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+<h3>解決</h3>
+
+We came up with a vending machine that would streamline the process of buying and selling common and uncommon cards by allowing customers to do it through the machine rather than waiting in line and getting an offer from the staff. When selling cards, the vending machine could scan the cards and compare them to a database where it would then provide and offer price.
+
+Customers would need get their card from the staff that they could then use to build up a balance (either buy selling cards or putting money on at the register) to use when buying cards from the vending machine.
+
+<h3>スケッチ</h3>
+
+<img src="/portfolio/MTG/sketches.png" alt="Early sketches focusing on the layout">
+
+We started out with some rudimentary sketches on how we thought the standard user flow would look like.
+
+<h3>ユーザーフロー</h3>
+
+<img src="/portfolio/MTG/flow.png" alt="A user flow diagram of the Interface">
+
+Before using the vanding machine, customers would first need to get a card from the staff who would activate it. Customers could either take the card as is, or put money on it through the register.
+
+When using the machine, users would be prompted to enter their card and would then be given the opportunity for users to sell any cards they would like to sell to the machine. 
+
+When selling, customers would then insert the cards one by one. Each time they insert a card, the machine would scan the card and compare it to a database where it would then offer a sell price. If the customer accepts, they could either sell more card, shop for cards, or exit and finish.
+
+From there if they decide they would like to buy any card, they could browse through a variety of means such as color, condition, type, or by name. After that, it's a mostly standard checkout process.
+
+<h3>ワイヤフレーム</h3>
+
+<img src="/portfolio/MTG/wireframes.png" alt="A compound view of all the low-fi wireframes">
+
+Picking up where the sketches left off, we then created low-fi wireframes of some of the screens a user might go through in our model user flow.
+
+<h3>スタイルガイド</h3>
+
+<img src="/portfolio/MTG/styleguide.png" alt="A compound view of all the low-fi wireframes">
+
+For our final design, we decided to use the official Magic The Gathering colors along with the Beleren typeface, which is used in the game's logo, as a display font. We also added various art pieces into the background to add a bit more flare to the design.
+
+Our biggest changes were to the card category select screen and the filters. We thought that out initial design of the card category select screen would be too consistent and might confuse users. It also looked strange. Instead, we used the rounded tiles with the color and logos of each card element used in the game. As for the filters, we felt they were too rudimentary and need a bit more put into them. We found that using checkboxes with the Magic The Gathering symbol in the filled in checkboxes really pulled it together. We also added a some more designs for the interaction.
+
+<h3>実施設計</h3>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsDW38BfMENB7mm0p1anmJu%2FMTG-Vending-Project%3Fpage-id%3D56466%253A190%26node-id%3D56466%253A714%26viewport%3D-998%252C559%252C0.4117658734321594%26scaling%3Dscale-down" allowfullscreen></iframe>

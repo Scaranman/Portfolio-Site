@@ -50,18 +50,51 @@ Our plan was to build a site from the ground up where administrators would not n
   - Avery Nutting-Hartman
   - Kyrren Love
 
-<h3>The Process</h3>
+<h3>Designs</h3>
 
-<h4>Initial Stages</h4>
+<h4>Login</h4>
 
-<h4>First Designs</h4>
+<img src="/portfolio/RACF/login.png" alt="The login and sign up pages>
 
-<h4>Admin Venue and Event Pages</h4>
+<h4>Venues and Events</h4>
+
+<img src="/portfolio/RACF/event-venue.png" alt="The visitor and admin view for the venue and events pages">
+
+<h4>Venue and Event Creation</h4>
+
+<img src="/portfolio/RACF/create.png" alt="The admin and partner views for the venue and event creation pages">
 
 <h4>Revision</h4>
 
+A couple months into the project, RACF, notified us that visitors were not buying tickets through their website and were instead only receiving discount codes for individual participating businesses. As such, we had to remove the shopping cart and all of the transaction related designs. Thankfully, the transaction pages were not developed and design was already ahead of where we needed to be so it was not much of an issue.
+
 <h4>The Grant Portal</h4>
+
+<img src="/portfolio/RACF/grant.png" alt="Visitor and Admin views of the grant portal">
+
+For the grant portal, we needed something that would allow visitors to easily upload their documents and view their status in the review process. We knew that at any time RACF could stop accepting or start qualifying certain aide programs and at the same time the the government could change how one works, discontinue one, or create a new one. At the same time however, we thought it would be helpful to have uploads categorized to make it easier for applicants and people who were going to review the documents.
+
+As a solution, we create the grant portal where visitors could upload their document according three catagories: local, state, and federal. Visitors could upload multiple documents for each category and a color-coded indicator will inform them of the review status (e.g. pending, approved, declined).
+
+Administrators who are going to review the documents can view the submissions by each visitor along with any information provided in their profile.
 
 <h4>The Admin Portal</h4>
 
+<img src="/portfolio/RACF/admin.png" alt="Visitor and Admin views of the grant portal">
+
+We need to create a portal for administrators that would have quick links to pages and tools they might need as administrators.
+
+The admin portal gives administrators quick links to sections of the site such as the grant portal, organization settings, and venue/event creation. They can also view recent site activity by any administrator.
+
 <h4>End Results & Conclusion</h4>
+
+In the end, our team's project was unfortunately not chosen to be officially deployed for RACF. However, I learned a lot and garnered a lot of valuable experience working within a multi-skilled team. 
+
+Some things I learned
+- Sometimes you don't have as much information as you would like and just need to put something out. 
+  - If your client or boss does not like something, they will tell you and at least then you have something to go off of.
+- Sometimes communication breaks down between group members and certain tasks are not completed by other members when you need them too. If it's something that needs to be shown to a client or boss, sometimes you just need to step up and get something done.
+- Assign resposibilities as early as possible and have a structure. 
+  - In this project we assigned a lot of the design resposibilities on the fly which made communication difficult at times.
+- Create a concrete and senseful asset library and communicate naming schemas early on. 
+  - Asset creation was very messy from the start. Most of the assets were not set up properly and naming was inconsistant. All this needs to be talked about, communicated, and developed very early on as a team.

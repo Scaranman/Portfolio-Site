@@ -1,6 +1,6 @@
 ---
-title: Mutter Museum Hertyll Skull Collection Interface
-summary: A prototype UI for a hypothetical interactive screen for the Hertyll Skull Collection at the Mutter Museum of the College of Physicians of Philadelphia.
+title: 「Mutter・Museum」と言う博物館の「Hertyll・Skull・Collection」のためのユーザーインターフェース
+summary: フィラデルフィアの「Mutter・Museum」と言う博物館の「Hertyll・Skull・Collection」のためのユーザーインターフェースの原型。
 tags:
 # - Deep Learning
 date: "2020"
@@ -30,12 +30,34 @@ url_video: ""
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+<h3>背景</h3>
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+For this project, I set out to design an interactive UI for an existing museum exhibit. Living in the Philadelphia area, I am lucky to have access to a plethora of museums. However, I set my sights on one particular museum; The Mutter Museum of The College of Physicians of Philadelphia. I wanted to work on an exhibit that was unique, and where else to find unique museum exhibits in Philadelphia other than the Mutter Museum? However, due to the graphic nature of the museum, my choices were rather limited. I chose to create an interactive screen for the Hyrtl Skull Collection. The Hyrtl Skull Collection is a collection of 139 skulls acquired from a Viennese anatomist Joseph Hyrtll (1810-1894) in 1874. Hyrtll's goal with the collection was to show how varied cranial autonomy was in Caucasians in Europe and debunk teh claims of phrenologists that cranial feature were an indicator of the level of ones intelligence.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+<h3>問題</h3>
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+The Hyrtl Skull Collection, among the Museums many other exhibits, is located in a large glass display case. Due to the sheer amount of skulls, and the glass, the exhibit could be hard for those with low-vision or heigh restrictions in viewing the skulls freely. Furthermore, visitors could easily be overwhelmed by the sheer amount of skulls and either only look at and read about a few or just briefly glance over the collection. When I visited myself, I only looked at a few skulls before moving on.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+<h3>解決</h3>
+
+I sought out to design an interactive display that would allow visitors to rad about each and every skull in a much less overwhelming manner while also giving them the ability to see the skull in angles not possible from the display case. It would also provide more information about the cranial features of the skull and light up the skull in the display case so as not to take away from the physical exhibit. This would make it easier for visitors with limited sight and height restrictions to look at and read about the skulls, while also encouraging more exhibit engagement from all visitors.
+
+<h3>ワイヤーフレーム</h3>
+
+<img src="/portfolio/hyrtl/wireframes.png" alt="3 low fidelity wireframes from the project">
+
+I created 3 main screens. One screen where users could browse the skulls in the exhibit, A screen with information about a selected skull (with the real skull in the display case lit up), and a screen where a 3D model of the skull could be viewed and interacted with that made note of certain features of the skulls.
+
+<h3>ユーザーフロー</h3>
+
+<img src="/portfolio/hyrtl/flow.png" alt="A user flow diagram of the project">
+
+<h3>スタイルガイド</h3>
+
+<img src="/portfolio/hyrtl/styleguide.png" alt="The styleguide for the project that shows the typeface usage, the colors, and the inspiration">
+
+I was inspired by retro designed websites, the branding of the museum and the victorian style architecture and interior of the museum.
+
+<h3>実施設計</h3>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSAB5uqUzoRsV0c8Qs7Nor2%2FJacob-Scarani-Museum-Interactive-Exhibit%3Fpage-id%3D212%253A990%26node-id%3D270%253A54%26viewport%3D193%252C372%252C0.06297879666090012%26scaling%3Dscale-down" allowfullscreen></iframe>

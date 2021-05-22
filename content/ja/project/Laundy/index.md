@@ -1,6 +1,6 @@
 ---
-title: Laundy Mobile Laundry App
-summary: A mobile app prototype for community laundry rooms.
+title: 「ロンディー」と言う洗濯室のアプリ
+summary: 洗濯室のためのアプリです。
 tags:
 # - Deep Learning
 date: "2020"
@@ -30,12 +30,53 @@ url_video: ""
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+<h3>問題</h3>
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+In a world with rapidly advancing technology, it's a wonder why community laundry rooms have not gotten the much needed upgrade. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+<h3>解決</h3>
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Laundy is a part of an idea that I'm sure many people have thought of by now. Create an app that allows members of a community to see the status of the laundry machines in their laundry room in real time. My proposed ideation of this idea, would be integrated with the machines directly, giving live feedback without relying on user input for start and stop. Furthermore, Laundy would allow users to easily make maintenance reports for both machines and facilities with great convenience, giving staff more reports than they might have before
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+<h3>ローファイ原型/h3>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D0%253A1%26node-id%3D10%253A15%26viewport%3D814%252C167%252C0.4426470696926117%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+<h3>ローファイ原型の評価</h3>
+
+Evaluation of my lo-fi prototype game me some valuable feedback early on.
+
+<h4>洗濯/h4>
+
+- Due to an unfortunate oversight, users did not understand that the placeholder icon I placed next to the machines in the laundry tab were buttons. In this instance, the problem could have easily been avoided by uses a different placeholder such as a square. This was a mistake I am sure to not make in the future.
+
+- While the design gave the remaining time in running machines, users suggested that unused machines have a timer that reports how long it was finished or how long the door remained closed after the cycle was complete. Maintenance tab
+
+- Users appeared to not understand what the "Not a Machine" checkbox was for.
+
+<h4>前途の特徴の発案</h4>
+
+- Manual alternative for communities with older machines
+- Mobile pay method as an alternative for coin machines
+
+<h3>ハイファイ原型の評価</h3>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D1%253A211%26node-id%3D62%253A182%26viewport%3D576%252C291%252C0.26023054122924805%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+<h3>ハイファイ原型</h3>
+
+<h4>設定</h4>
+
+- One user got confused between the maintenance and reporting a bug. The user suggested that report a bug should be located in a 4th tab.
+
+<h4>他の</h4>
+
+- The colleges in the community dropdown were not ordered alphabetically.
+
+<h4>前途の特徴の発案</h4>
+
+- Add information for machines that says what cycle it is on.
+
+<h3>結論</h3>
+
+This project was conducted in the middle of the early months of the COVID-19 crisis in 2020 which unfortunately severely limited my access to participants due to time, location, and other obligations brought up by the crisis. Therefore, I unfortunately had very limited data and did not have much feedback to go off of aside from my own judgement. Overall though, I am happy with the way my design turned out. In the future, it might be worth coming back to this project to get more user testing and add more features such as the one's suggested.

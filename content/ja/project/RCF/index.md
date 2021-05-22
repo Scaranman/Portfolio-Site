@@ -1,6 +1,6 @@
 ---
-title: Rochester Community Foundation Website & Platform
-summary: A website and platform designed and developed for the Rochester Community Foundation that allows users to obtain discount codes for participating venues (such as museums) by uploading local, state and federal aide documentation and getting approved for discounts.
+title: 「Rochester Community Foundation」のウェブサイト
+summary: 「Rochester Community Foundation」にデザインしたウェブサイトです。
 tags:
 # - Deep Learning
 date: "2021"
@@ -29,13 +29,72 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+<h3>問題</h3>
+The Rochester Community Foundation (RACF) partners with local businesses and community centers to enrich the lives of people in the region through various community-focused programs and initiatives. The RACF needed a website and platform where recipients of aide programs, such as a SNAP, can obtain discounts codes for participating community centers in region such as the Seneca Park Zoo. They needed a way for visitors to apply for discounts, a method for approving applications, and a way for administrators and participating community centers to manage, view, and maintain various aspects of the site, as well as data analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+<h3>解決</h3>
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Our plan was to build a site from the ground up where administrators would not need to deal with a complex CMS and everything would be implmented in-site and be very simple for administrators (who may not be so tech savvy) to utilize and manage.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+<h3>チーム</h3>
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+<h4>フロントエンドプログラミーと班長</h4>
+  - Andrew Costanzo
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+<h4>デザイン</h4>
+  - Jacob Scarani/ジェイコブ・スカラニ (私))
+  - Cole Inniss/コール・インニッス
+  - Xu Liu/ズ・ル
+
+<h4>Back-End and Database</h4>
+  - Avery Nutting-Hartman/エバリー・ナチングハートマン
+  - Kyrren Love/キーレン・ロブ
+
+<h3>デザイン</h3>
+
+<h4>ロギン</h4>
+
+<img src="/portfolio/RACF/login.png" alt="The login and sign up pages>
+
+<h4>場所とイベント</h4>
+
+<img src="/portfolio/RACF/event-venue.png" alt="The visitor and admin view for the venue and events pages">
+
+<h4>場所とイベントを作るページ</h4>
+
+<img src="/portfolio/RACF/create.png" alt="The admin and partner views for the venue and event creation pages">
+
+<h4>改正</h4>
+
+A couple months into the project, RACF, notified us that visitors were not buying tickets through their website and were instead only receiving discount codes for individual participating businesses. As such, we had to remove the shopping cart and all of the transaction related designs. Thankfully, the transaction pages were not developed and design was already ahead of where we needed to be so it was not much of an issue.
+
+<h4>付与のポータル</h4>
+
+<img src="/portfolio/RACF/grant.png" alt="Visitor and Admin views of the grant portal">
+
+For the grant portal, we needed something that would allow visitors to easily upload their documents and view their status in the review process. We knew that at any time RACF could stop accepting or start qualifying certain aide programs and at the same time the the government could change how one works, discontinue one, or create a new one. At the same time however, we thought it would be helpful to have uploads categorized to make it easier for applicants and people who were going to review the documents.
+
+As a solution, we create the grant portal where visitors could upload their document according three catagories: local, state, and federal. Visitors could upload multiple documents for each category and a color-coded indicator will inform them of the review status (e.g. pending, approved, declined).
+
+Administrators who are going to review the documents can view the submissions by each visitor along with any information provided in their profile.
+
+<h4> アドミンのポータル</h4>
+
+<img src="/portfolio/RACF/admin.png" alt="Visitor and Admin views of the grant portal">
+
+We need to create a portal for administrators that would have quick links to pages and tools they might need as administrators.
+
+The admin portal gives administrators quick links to sections of the site such as the grant portal, organization settings, and venue/event creation. They can also view recent site activity by any administrator.
+
+<h4>結論</h4>
+
+In the end, our team's project was unfortunately not chosen to be officially deployed for RACF. However, I learned a lot and garnered a lot of valuable experience working within a multi-skilled team. 
+
+Some things I learned
+- Sometimes you don't have as much information as you would like and just need to put something out. 
+  - If your client or boss does not like something, they will tell you and at least then you have something to go off of.
+- Sometimes communication breaks down between group members and certain tasks are not completed by other members when you need them too. If it's something that needs to be shown to a client or boss, sometimes you just need to step up and get something done.
+- Assign resposibilities as early as possible and have a structure. 
+  - In this project we assigned a lot of the design resposibilities on the fly which made communication difficult at times.
+- Create a concrete and senseful asset library and communicate naming schemas early on. 
+  - Asset creation was very messy from the start. Most of the assets were not set up properly and naming was inconsistant. All this needs to be talked about, communicated, and developed very early on as a team.
