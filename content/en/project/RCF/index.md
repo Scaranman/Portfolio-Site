@@ -49,6 +49,7 @@ Our plan was to build a site from the ground up where administrators would not n
   - Xu Liu
 
 <h4>Back-End and Database</h4>
+
   - Avery Nutting-Hartman
   - Kyrren Love
 
@@ -56,7 +57,7 @@ Our plan was to build a site from the ground up where administrators would not n
 
 <h4>Login</h4>
 
-<img src="/portfolio/RACF/login.png" alt="The login and sign up pages>
+<img src="/portfolio/RACF/login.png" alt="The login and sign up pages">
 
 <h4>Venues and Events</h4>
 
