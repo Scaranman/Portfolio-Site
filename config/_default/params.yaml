@@ -22,13 +22,13 @@ twitter: ''
 
 email: jacobscarani@gmail.com
 phone: +1 (610) 757-5626
-# address:
+address:
   # street: 450 Serra Mall
-  # city: Stanford
-  # region: CA
+  city: Rochester
+  region: NY
   # postcode: '94305'
   # country: United States
-  # country_code: US
+  country_code: US
 # coordinates:
   # latitude: '37.4275'
   # longitude: '-122.1697'

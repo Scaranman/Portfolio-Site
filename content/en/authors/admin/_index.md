@@ -14,13 +14,15 @@ organizations:
     url: https://www.lenel.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a UX Designer with a B.S. in Human Centered Computing (HCC) and a minor in Japanese
+bio: UX Designer with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
 
 # Interests to show in About widget
 interests:
 - UX
 - Technology
 - Music
+- Video games
+- Collecting novelty chopsticks
 
 # Education to show in About widget
 education:
@@ -31,9 +33,6 @@ education:
   - course: Study Abroad in Nagoya, Japan
     institution: Nanzan University / 南山大学
     year: 2019
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,9 +52,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/JacobScarani_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
