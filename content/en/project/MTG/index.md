@@ -1,6 +1,7 @@
 ---
 title: Magic The Gathering Vending Machine UI
 summary: A prototype UI for a hypothetical Vending machine for the popular trading card game Magic The Gathering (MTG).
+  
 tags:
 # - Deep Learning
 date: "2020"

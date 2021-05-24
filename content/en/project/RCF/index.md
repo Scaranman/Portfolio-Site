@@ -1,6 +1,7 @@
 ---
 title: Rochester Community Foundation Website & Platform
 summary: A website and platform designed and developed for the Rochester Community Foundation that allows users to obtain discount codes for participating venues (such as museums) by uploading local, state and federal aide documentation and getting approved for discounts.
+  
 tags:
 # - Deep Learning
 date: "2021"

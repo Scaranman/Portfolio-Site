@@ -1,6 +1,7 @@
 ---
 title: Mutter Museum Hyrtl Skull Collection Interface
 summary: A prototype UI for a hypothetical interactive screen for the Hyrtl Skull Collection at the Mutter Museum of the College of Physicians of Philadelphia.
+  
 tags:
 # - Deep Learning
 date: "2020"

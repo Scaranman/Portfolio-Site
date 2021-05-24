@@ -1,6 +1,7 @@
 ---
 title: Miscellaneous 
 summary: A collection of various different things I've designed or worked on.
+  
 tags:
 # - Deep Learning
 date: "2021"
