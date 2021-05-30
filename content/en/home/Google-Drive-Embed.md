@@ -10,7 +10,7 @@ weight: 35
 #Change the Section title to your liking
 title: Resume
 
-# put the link to your google drive file. Make sure the end says /preview instead of /view.
+# put the link to your google drive file. Replace "view?usp=sharing" with "preview".
 link: https://drive.google.com/file/d/14eit_AQnnOldqqh8xPEIjvCwQmt3GWQB/preview
 
 height: 75vh
