@@ -77,6 +77,6 @@ highlight_name: false
 
 日本語と日本の文化を習うことがすきで世界の文化を興味になりました。
 
-学校とUXの以外ゲイムやハイキングや動物を見る事が好きです。最近もうギターを低くのと描くのを習っております。
+学校とUXの以外でゲイムやハイキングすることがすきでギターを引きします。最近、描くのを習っております。
 
 {{< icon name="download" pack="fas" >}}{{< staticref "media/JacobScarani_Resume_Overseas.pdf" "newtab" >}}履歴書をダウンロードする{{< /staticref >}}。
