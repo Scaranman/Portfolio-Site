@@ -6,11 +6,11 @@ title: Jacob Scarani
 superuser: true
 
 # Role/position/tagline
-role: UX Co-op/Intern
+role: UX Co-op Summer/Fall
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LenelS2/Lenel Security Systems
+  - name: LenelS2
     url: https://www.lenel.com/
 
 # Short bio (displayed in user profile at end of posts)

@@ -7,7 +7,7 @@ title: ジェイコブ・スカラニ
 superuser: true
 
 # Role/position/tagline
-role: UXデザインインターン
+role: UXデザイナー
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,7 +15,7 @@ organizations:
   url: https://www.lenel.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 米国のフィラデルフィアから来たUXデザイナーです。
+bio: アメリカのフィラデルフィアから来たUXデザイナーです。
 
 # Interests to show in About widget
 interests:
