@@ -6,7 +6,7 @@ title: Jacob Scarani
 superuser: true
 
 # Role/position/tagline
-role: UX Co-op Summer/Fall
+role: UX Co-op - Summer/Fall
 
 # Organizations/Affiliations to show in About widget
 organizations:
