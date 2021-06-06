@@ -25,7 +25,7 @@ experience:
   - title: UX Co-op - Summer/Fall
     company: LenelS2
     company_url: 'https://www.lenel.com/'
-    company_logo: 
+    company_logo: org-lenel
     location: Pittsford, NY
     date_start: '2021-06-01'
     date_end: '2021-12-17'
@@ -34,7 +34,7 @@ experience:
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
-    company_logo: 
+    company_logo: org-tamago
     location: Shinagawa, Tokyo, JP
     date_start: '2019-06-03'
     date_end: '2020-08-09'
