@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous 
-summary: A collection of various different things I've designed or worked on.
+summary: A collection of various different things I've designed or worked on.<br>
   
 tags:
 # - Deep Learning
