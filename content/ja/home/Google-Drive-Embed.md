@@ -20,4 +20,4 @@ height: 75vh
 author: admin
 ---
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/demo_resume.pdf" "newtab" >}}ダウンロード{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "media/demo_resume.pdf" "newtab" >}}ダウンロード{{< /staticref >}}

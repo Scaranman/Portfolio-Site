@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: UXコーオプ
+  - title: UXデザイナー
     company: LenelS2
     company_url: 'https://www.lenel.com/'
     company_logo: org-lenel
@@ -31,7 +31,7 @@ experience:
     date_end: '2021-12-17'
     description: |2-
       小さいチームで看板商品にインタフェースをデザインしたりユーザーテストしたりします。
-  - title: フロントエンド  デベロッパー インターン
+  - title: フロントエンドデベロッパーインターン
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
     company_logo: org-tamago
