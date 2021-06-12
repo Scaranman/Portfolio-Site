@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 25
 
 title: 自己紹介
 
