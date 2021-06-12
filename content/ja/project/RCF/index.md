@@ -1,6 +1,6 @@
 ---
 title: 「Rochester Community Foundation」のウェブサイト
-summary: 「Rochester Community Foundation」にデザインしたウェブサイトです。
+summary: 「Rochester Community Foundation」にデザインしたウェブサイトです。<br><br>
 tags:
 # - Deep Learning
 date: "2021"
