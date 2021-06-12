@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+- icon: fa-figma
+  icon_pack: fab
+  name: Figma High-fi prototype
+  url: https://www.figma.com/proto/Bm5bpQRGBaoI9DWLHyEodo/Laundy?page-id=1%3A211&node-id=62%3A230&viewport=581%2C569%2C0.28126800060272217&scaling=scale-down
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,11 +33,11 @@ slides: ""
 
 <h3>The Problem</h3>
 
-In a world with rapidly advancing technology, it's a wonder why community laundry rooms have not gotten the much-needed upgrade. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.
+In a world with rapidly advancing technology, community laundry rooms still seem to be stuck in the past. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.
 
 <h3>The Solution</h3>
 
-Laundy is a part of an idea that I'm sure many people have thought of by now. Create an app that allows members of a community to see the status of the laundry machines in their laundry room in real time. My proposed ideation of this idea, would be integrated with the machines directly, giving live feedback without relying on user input for start and stop. Furthermore, Laundy would allow users to easily make maintenance reports for both machines and facilities with great convenience, giving staff more reports than they might have before
+Laundy is a part of an idea that I'm sure many people have thought of by now. Create an app that allows members of a community to see the status of the laundry machines in their laundry room in real time. My proposed ideation of this idea, would be to integrate an app with the machines directly, giving live status information updated by the machines without relying on user input with an added alarm functionality. Furthermore, Laundy would allow users to easily make maintenance reports for both machines and facilities without having to write out having to make a call or fill out a form on a website, giving staff reports they might not have normally gotten due out of inconvenience for customers or tenants.
 
 <h3>Low-fi Prototype</h3>
 
@@ -49,7 +49,7 @@ Laundy is a part of an idea that I'm sure many people have thought of by now. Cr
 
 <h3>Evaluation of Lo-fi Prototype</h3>
 
-Evaluation of my lo-fi prototype game me some valuable feedback early on.
+Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 
 <h4>Laundry Tab</h4>
 
