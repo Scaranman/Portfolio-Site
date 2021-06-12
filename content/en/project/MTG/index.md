@@ -16,7 +16,7 @@ image:
 links:
 - icon: fa-figma
   icon_pack: fab
-  name: Link to High-fi prototype
+  name: Link to prototype
   url: https://www.figma.com/proto/sDW38BfMENB7mm0p1anmJu/MTG-Vending-Project?page-id=56466%3A190&node-id=56466%3A190&viewport=771%2C554%2C0.06217627599835396&scaling=contain
 url_code: ""
 url_pdf: ""
