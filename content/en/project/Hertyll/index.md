@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+- icon: fa-figma
+  icon_pack: fab
+  name: Link to prototype
+  url: https://www.figma.com/proto/SAB5uqUzoRsV0c8Qs7Nor2/Jacob-Scarani-Museum-Interactive-Exhibit?page-id=212%3A990&node-id=270%3A54&viewport=637%2C487%2C0.22918730974197388&scaling=contain
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -64,5 +64,5 @@ I was inspired by retro designed websites, the branding of the museum and the vi
 <h4>Please note that at this time, prototypes do not display properly on mobile screens.</h4>
 
 <div style="  position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSAB5uqUzoRsV0c8Qs7Nor2%2FJacob-Scarani-Museum-Interactive-Exhibit%3Fpage-id%3D212%253A990%26node-id%3D270%253A54%26viewport%3D193%252C372%252C0.06297879666090012%26scaling%3Dscale-down" allowfullscreen></iframe>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSAB5uqUzoRsV0c8Qs7Nor2%2FJacob-Scarani-Museum-Interactive-Exhibit%3Fpage-id%3D212%253A990%26node-id%3D270%253A54%26viewport%3D637%252C487%252C0.22918730974197388%26scaling%3Dcontain" allowfullscreen></iframe>
 </div>
