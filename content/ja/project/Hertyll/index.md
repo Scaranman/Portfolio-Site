@@ -1,6 +1,6 @@
 ---
-title: 「Mutter・Museum」と言う博物館の「Hertyll・Skull・Collection」のためのユーザーインターフェース
-summary: フィラデルフィアの「Mutter・Museum」と言う博物館の「Hertyll・Skull・Collection」のためのユーザーインターフェースの原型。
+title: 「Mutter・Museum」と言う博物館の「Hertyl・Skull・Collection」のためのユーザーインターフェース
+summary: フィラデルフィアの「Mutter・Museum」と言う博物館の「Hertyl・Skull・Collection」のためのユーザーインターフェースの原型。
 tags:
 # - Deep Learning
 date: "2020"
@@ -32,13 +32,14 @@ slides: ""
 
 <h4>＊翻訳は進行中です。＊<h4>
 
-<h3>背景</h3>
+<!-- <h3>背景</h3>
 
-For this project, I set out to design an interactive UI for an existing museum exhibit. Living in the Philadelphia area, I am lucky to have access to a plethora of museums. However, I set my sights on one particular museum; The Mutter Museum of The College of Physicians of Philadelphia. I wanted to work on an exhibit that was unique, and where else to find unique museum exhibits in Philadelphia other than the Mutter Museum? However, due to the graphic nature of the museum, my choices were rather limited. I chose to create an interactive screen for the Hyrtl Skull Collection. The Hyrtl Skull Collection is a collection of 139 skulls acquired from a Viennese anatomist Joseph Hyrtll (1810-1894) in 1874. Hyrtll's goal with the collection was to show how varied cranial autonomy was in Caucasians in Europe and debunk teh claims of phrenologists that cranial feature were an indicator of the level of ones intelligence.
+For this project, I set out to design an interactive UI for an existing museum exhibit. Living in the Philadelphia area, I am lucky to have access to a plethora of museums. However, I set my sights on one particular museum; The Mutter Museum of The College of Physicians of Philadelphia. I wanted to work on an exhibit that was unique, and where else to find unique museum exhibits in Philadelphia other than the Mutter Museum? However, due to the graphic nature of the museum, my choices were rather limited. I chose to create an interactive screen for the Hyrtl Skull Collection. The Hyrtl Skull Collection is a collection of 139 skulls acquired from a Viennese anatomist Joseph Hyrtl (1810-1894) in 1874. Hyrtl's goal with the collection was to show how varied cranial autonomy was in Caucasians in Europe and debunk teh claims of phrenologists that cranial feature were an indicator of the level of ones intelligence. -->
 
 <h3>問題</h3>
 
-The Hyrtl Skull Collection, among the Museums many other exhibits, is located in a large glass display case. Due to the sheer amount of skulls, and the glass, the exhibit could be hard for those with low-vision or heigh restrictions in viewing the skulls freely. Furthermore, visitors could easily be overwhelmed by the sheer amount of skulls and either only look at and read about a few or just briefly glance over the collection. When I visited myself, I only looked at a few skulls before moving on.
+フィラデルフィアのマター博物館(Mutter Museum)でヒルトルスカル展示(Hyrtl Skull Exhibit)があります。博物館で他の展示のようにヒルトルスカル展示は大きい陳列棚に入っています。橈骨が多いしグラスの反射に橈骨を醜いにならされるので視覚障害者と色々な訪問者に展示が見にくいかもしれません
+<!-- The Hyrtl Skull Collection, among the Museums many other exhibits, is located in a large glass display case. Due to the sheer amount of skulls, and the glass, the exhibit could be hard for those with low-vision or height restrictions in viewing the skulls freely. Furthermore, visitors could easily be overwhelmed by the sheer amount of skulls and either only look at and read about a few or just briefly glance over the collection. When I visited myself, I only looked at a few skulls before moving on. -->
 
 <h3>解決</h3>
 
@@ -58,7 +59,7 @@ I created 3 main screens. One screen where users could browse the skulls in the 
 
 <img src="/portfolio/hyrtl/styleguide.png" alt="The styleguide for the project that shows the typeface usage, the colors, and the inspiration">
 
-I was inspired by retro designed websites, the branding of the museum and the victorian style architecture and interior of the museum.
+レトロのデザインがあるサイトや博物館のブランドデザインに関わらせました。
 
 <h3>実施設計</h3>
 
