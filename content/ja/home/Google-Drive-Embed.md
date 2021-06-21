@@ -5,7 +5,7 @@ widget: Google-Drive-Embed
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 35
 
 #Change the Section title to your liking
 title: 履歴書
