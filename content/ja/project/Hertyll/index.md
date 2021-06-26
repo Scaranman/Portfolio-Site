@@ -43,13 +43,17 @@ For this project, I set out to design an interactive UI for an existing museum e
 
 <h3>解決</h3>
 
-I sought out to design an interactive display that would allow visitors to rad about each and every skull in a much less overwhelming manner while also giving them the ability to see the skull in angles not possible from the display case. It would also provide more information about the cranial features of the skull and light up the skull in the display case so as not to take away from the physical exhibit. This would make it easier for visitors with limited sight and height restrictions to look at and read about the skulls, while also encouraging more exhibit engagement from all visitors.
+訪問者が難なく頭骨をみって情報を読んで展示のインタラクティブ画面をデザインすることにしました。このインタラクティブ画面で頭骨に違おう見方してもっと情報を見る事もできます。画面で頭骨を見る時展示の中で本当の頭骨をライトアップするはずです。
+
+<!-- I sought out to design an interactive display that would allow visitors to rad about each and every skull in a much less overwhelming manner while also giving them the ability to see the skull in angles not possible from the display case. It would also provide more information about the cranial features of the skull and light up the skull in the display case so as not to take away from the physical exhibit. This would make it easier for visitors with limited sight and height restrictions to look at and read about the skulls, while also encouraging more exhibit engagement from all visitors. -->
 
 <h3>ワイヤーフレーム</h3>
 
 <img src="/portfolio/hyrtl/wireframes.png" alt="3 low fidelity wireframes from the project">
 
-I created 3 main screens. One screen where users could browse the skulls in the exhibit, A screen with information about a selected skull (with the real skull in the display case lit up), and a screen where a 3D model of the skull could be viewed and interacted with that made note of certain features of the skulls.
+画面を三つデザインしました。最小のはぜんぶの展示の頭骨を見える画面。この画面から特定の頭骨を選んでもっと方法を読める画面に行けます。頭骨の情報を読める画面で見つかったところや人の名前や年齢をよめます。最後に頭骨の3Dモデルの画面をでざいんしました。この画面で頭骨の3Dモデルを回したり頭骨の面白い特徴を見たりできます。
+
+<!-- I created 3 main screens. One screen where users could browse the skulls in the exhibit, A screen with information about a selected skull (with the real skull in the display case lit up), and a screen where a 3D model of the skull could be viewed and interacted with that made note of certain features of the skulls. -->
 
 <h3>ユーザーフロー</h3>
 
