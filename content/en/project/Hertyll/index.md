@@ -41,7 +41,7 @@ The Hyrtl Skull Collection, among the Museums many other exhibits, is located in
 
 <h3>The Solution</h3>
 
-I sought out to design an interactive display that would allow visitors to rad about each and every skull in a much less overwhelming manner while also giving them the ability to see the skull in angles not possible from the display case. It would also provide more information about the cranial features of the skull and light up the skull in the display case so as not to take away from the physical exhibit. This would make it easier for visitors with limited sight and height restrictions to look at and read about the skulls, while also encouraging more exhibit engagement from all visitors.
+I sought out to design an interactive display that would allow visitors to read about each and every skull without being overwhelmed while also giving them the ability to see the skull in angles not possible from the display case. It would also provide more information about the cranial features of the skull and light up the skull in the display case so as not to take away from the physical exhibit. This would make it easier for visitors with limited sight and height restrictions to look at and read about the skulls, while also encouraging more exhibit engagement from all visitors.
 
 <h3>Wireframes</h3>
 

@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-<h4>＊翻訳は進行中です。＊<h4>
+<h4>＊翻訳は進行中です＊<h4>
 
 <!-- <h3>背景</h3>
 
@@ -38,7 +38,7 @@ For this project, I set out to design an interactive UI for an existing museum e
 
 <h3>問題</h3>
 
-フィラデルフィアのマター博物館(Mutter Museum)でヒルトルスカル展示(Hyrtl Skull Exhibit)があります。博物館で他の展示のようにヒルトルスカル展示は大きい陳列棚に入っています。橈骨が多いしグラスの反射に橈骨を醜いにならされるので視覚障害者と色々な訪問者に展示が見にくいかもしれません
+フィラデルフィアのマター博物館(Mutter Museum)でヒルトルスカル展示(Hyrtl Skull Exhibit)があります。博物館で他の展示のようにヒルトルスカル展示は大きい陳列棚に入っています。頭骨が多いしグラスの反射に頭骨を醜いにならされるので視覚障害者と色々な訪問者に展示が見にくいかもしれません。
 <!-- The Hyrtl Skull Collection, among the Museums many other exhibits, is located in a large glass display case. Due to the sheer amount of skulls, and the glass, the exhibit could be hard for those with low-vision or height restrictions in viewing the skulls freely. Furthermore, visitors could easily be overwhelmed by the sheer amount of skulls and either only look at and read about a few or just briefly glance over the collection. When I visited myself, I only looked at a few skulls before moving on. -->
 
 <h3>解決</h3>
