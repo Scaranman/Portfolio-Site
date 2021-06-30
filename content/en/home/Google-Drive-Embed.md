@@ -18,4 +18,4 @@ height: 75vh
 author: admin
 ---
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/demo_resume.pdf" "newtab" >}}Download{{< /staticref >}}
+{{< icon name="download" pack="fas" >}}{{< staticref "media/JacobScarani_Resume.pdf" "newtab" >}}Download{{< /staticref >}}

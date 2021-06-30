@@ -11,8 +11,7 @@ weight: 35
 title: 履歴書
 
 # put the link to your google drive file. Replace "view?usp=sharing" with "preview".
-link: https://drive.google.com/file/d/1p2m1u_qznQ0ll0sKyeVnmxxut4Qye_Kr/preview
-
+link: https://drive.google.com/file/d/14eit_AQnnOldqqh8xPEIjvCwQmt3GWQB/preview
 
 #set the height and width for the iframe (examples: "800px", "100%", etc)
 height: 75vh
@@ -20,4 +19,4 @@ height: 75vh
 author: admin
 ---
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/demo_resume.pdf" "newtab" >}}ダウンロード{{< /staticref >}}
+{{< icon name="download" pack="fas" >}}{{< staticref "media/JacobScarani_Resume.pdf" "newtab" >}}ダウンロード{{< /staticref >}}
