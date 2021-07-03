@@ -30,7 +30,10 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-  
-      As part of a small team, help design experiences and conduct user testing for company's flagship products.
+      As a UX designer in a small team, help design experiences and conduct user testing for company's flagship products.
+      - Assist with transfer and configuration of Components from Sketch to Figma.
+      - Redesign and configure icons for one of the company's flagship products.
+      - Design experiences for new products and product features.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
