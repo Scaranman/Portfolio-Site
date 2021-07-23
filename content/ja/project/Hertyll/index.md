@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: fa-figma
+- icon: figma
   icon_pack: fab
   name: プロトタイプへ
   url: https://www.figma.com/proto/SAB5uqUzoRsV0c8Qs7Nor2/Jacob-Scarani-Museum-Interactive-Exhibit?page-id=212%3A990&node-id=270%3A54&viewport=637%2C487%2C0.22918730974197388&scaling=contain
