@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: fa-figma
+- icon: figma
   icon_pack: fab
   name: プロトタイプへ
   url: https://www.figma.com/proto/Bm5bpQRGBaoI9DWLHyEodo/Laundy?page-id=1%3A211&node-id=62%3A230&viewport=581%2C569%2C0.28126800060272217&scaling=scale-down

@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: fa-figma
+- icon: figma
   icon_pack: fab
   name: プロトタイプへ
   url: https://www.figma.com/proto/sDW38BfMENB7mm0p1anmJu/MTG-Vending-Project?page-id=56466%3A190&node-id=56466%3A190&viewport=771%2C554%2C0.06217627599835396&scaling=contain
