@@ -61,7 +61,7 @@ Our plan was to build a site from the ground up where administrators would not n
 
 <h4>ロギン</h4>
 
-<img src="/portfolio/RACF/login.png" alt="The login and sign up pages>
+<img src="/portfolio/RACF/login.png" alt="The login and sign up pages" >
 
 <h4>場所とイベント</h4>
 

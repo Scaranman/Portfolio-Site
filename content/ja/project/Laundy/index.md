@@ -34,7 +34,9 @@ slides: ""
 
 <h3>問題</h3>
 
-In a world with rapidly advancing technology, community laundry rooms still seem to be stuck in the past. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.
+世界中テクノロジーがどんどんこうじょうしていますが洗濯室がまだ同じです。しばしば人がするように長い時間選択待たなければいけないんです。
+
+<!-- In a world with rapidly advancing technology, community laundry rooms still seem to be stuck in the past. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be. -->
 
 <h3>解決</h3>
 
