@@ -61,15 +61,15 @@ Our plan was to build a site from the ground up where administrators would not n
 
 <h4>ロギン</h4>
 
-<img src="/portfolio/RACF/login.png" alt="The login and sign up pages" >
+<img src="/portfolio/RACF/login.png" height="50%" alt="The login and sign up pages" >
 
 <h4>場所とイベント</h4>
 
-<img src="/portfolio/RACF/event-venue.png" alt="The visitor and admin view for the venue and events pages">
+<img src="/portfolio/RACF/event-venue.png" height="50%" alt="The visitor and admin view for the venue and events pages">
 
 <h4>場所とイベントを作るページ</h4>
 
-<img src="/portfolio/RACF/create.png" alt="The admin and partner views for the venue and event creation pages">
+<img src="/portfolio/RACF/create.png" height="50%" alt="The admin and partner views for the venue and event creation pages">
 
 <h4>改正</h4>
 
@@ -77,7 +77,7 @@ A couple months into the project, RACF, notified us that visitors were not buyin
 
 <h4>付与のポータル</h4>
 
-<img src="/portfolio/RACF/grant.png" alt="Visitor and Admin views of the grant portal">
+<img src="/portfolio/RACF/grant.png" height="50%" alt="Visitor and Admin views of the grant portal">
 
 For the grant portal, we needed something that would allow visitors to easily upload their documents and view their status in the review process. We knew that at any time RACF could stop accepting or start qualifying certain aide programs and at the same time the the government could change how one works, discontinue one, or create a new one. At the same time however, we thought it would be helpful to have uploads categorized to make it easier for applicants and people who were going to review the documents.
 
@@ -87,7 +87,7 @@ Administrators who are going to review the documents can view the submissions by
 
 <h4> アドミンのポータル</h4>
 
-<img src="/portfolio/RACF/admin.png" alt="Visitor and Admin views of the grant portal">
+<img src="/portfolio/RACF/admin.png" height="50%" alt="Visitor and Admin views of the grant portal">
 
 We need to create a portal for administrators that would have quick links to pages and tools they might need as administrators.
 
