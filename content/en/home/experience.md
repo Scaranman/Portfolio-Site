@@ -32,7 +32,8 @@ experience:
     description: |2-  
       As a UX designer in a small team, help design experiences and conduct user testing for company's flagship products.
       - Assist with transfer and configuration of Components from Sketch to Figma.
-      - Redesign and configure icons for one of the company's flagship products.
+      - Redesign and conduct user testing for Elements video.
+      - Design and animate an experience for Elements Gust Pass.
       - Design experiences for new products and product features.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
@@ -43,8 +44,8 @@ experience:
     date_end: '2020-08-09'
     description: |2-
       Refactored charts originally configured using a legacyGoogle Charts library with a more modern C3.js library.
-      * Used Laragon as a local deployment environment
-      * Tweaked design in a Symfony 3 codebase using:
+      - Used Laragon as a local deployment environment
+      - Tweaked design in a Symfony 3 codebase using:
         - HTML/CSS
         - JavaScript
 design:
