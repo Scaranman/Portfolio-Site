@@ -35,7 +35,7 @@ The Rochester Community Foundation (RACF) partners with local businesses and com
 
 <h3>The Solution</h3>
 
-Our plan was to build a site from the ground up where administrators would not need to deal with a complex CMS and everything would be implemented in-site and be very simple for administrators (who may not be so tech-savvy) to utilize and manage.
+Our plan was to build a site from the ground up where administrators would not need to deal with a complex CMS and everything would be implemented in-site making it very easy for administrators (who may not be so tech savvy) to utilize and manage.
 
 <h3>The Team</h3>
 
