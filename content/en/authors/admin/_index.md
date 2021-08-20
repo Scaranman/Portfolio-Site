@@ -83,4 +83,4 @@ I love learning Japanese language and culture and I have extended my interest to
 
 Outside of school and UX, I enjoy video games, hiking, and playing guitarr. I recently started teaching myself how to draw as well.
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/demo_resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "media/JacobScarani_Resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
