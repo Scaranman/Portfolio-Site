@@ -43,7 +43,7 @@ experience:
     date_start: '2019-06-03'
     date_end: '2020-08-09'
     description: |2-
-      Refactored charts originally configured using a legacyGoogle Charts library with a more modern C3.js library.
+      Refactored charts originally configured using a legacy Google Charts library with a more modern C3.js library.
       - Used Laragon as a local deployment environment
       - Tweaked design in a Symfony 3 codebase using:
         - HTML/CSS
