@@ -33,7 +33,6 @@ experience:
       As a UX designer in a small team, help design experiences and conduct user testing for company's flagship products.
       - Assist with transfer and configuration of Components from Sketch to Figma.
       - Redesign and conduct user testing for Elements video.
-      - Design and animate an experience for Elements Gust Pass.
       - Design experiences for new products and product features.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
