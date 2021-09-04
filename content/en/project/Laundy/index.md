@@ -33,15 +33,15 @@ slides: ""
 
 <h3>The Problem</h3>
 
-In a world with rapidly advancing technology, community laundry rooms still seem to be stuck in the past. People are forced to wait long periods of time, often hours, waiting for other people to finish doping their laundry or remove their laundry from the machine. There's nothing more infuriating than having to schedule half of your day for laundry because you don't know how crowded it will be.
+Laundry rooms are the worst, you have to make sure you arrive at a not-to-busy time or risk waiting for people to finish their laundry before you even start, making your already long wait time for clean laundry, even longer. And when something goes wrong, you either have to find a worker and notify them, or fill out a form online that might not even be mobile friendly.
 
 <h3>The Solution</h3>
 
-Laundy is a part of an idea that I'm sure many people have thought of by now. Create an app that allows members of a community to see the status of the laundry machines in their laundry room in real time. My proposed ideation of this idea, would be to integrate an app with the machines directly, giving live status information updated by the machines without relying on user input with an added alarm functionality. Furthermore, Laundy would allow users to easily make maintenance reports for both machines and facilities without having to write out having to make a call or fill out a form on a website, giving staff reports they might not have normally gotten due out of inconvenience for customers or tenants.
+Laundy allows owners of community laundry rooms such as laundromats and laundry rooms in large buildings such as dorms to give customers or tenants an smarter way of doing laundry. With Laundy, users can tell when a laundry machine is in-use, available, or out of order. Users can also easily report an issue with the machines or anything else in the facility right from the app.
 
 <h3>Low-fi Prototype</h3>
 
-<h4>Please note that at this time, prototypes do not display properly on mobile screens.</h4>
+<h4>Please note that prototypes might not display properly on mobile screens.</h4>
 
 <div style="position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D0%253A1%26node-id%3D10%253A15%26viewport%3D814%252C167%252C0.4426470696926117%26scaling%3Dscale-down" allowfullscreen></iframe>
@@ -51,11 +51,9 @@ Laundy is a part of an idea that I'm sure many people have thought of by now. Cr
 
 Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 
-<h4>Laundry Tab</h4>
+- Users did not understand that the placeholder icon I placed next to the machines in the laundry tab were buttons.
 
-- Due to an unfortunate oversight, users did not understand that the placeholder icon I placed next to the machines in the laundry tab were buttons. In this instance, the problem could have easily been avoided by uses a different placeholder such as a square. This was a mistake I am sure to not make in the future.
-
-- While the design gave the remaining time in running machines, users suggested that unused machines have a timer that reports how long it was finished or how long the door remained closed after the cycle was complete. Maintenance tab
+- Users wished that unused machines had a timer that reports how long it was finished or how long the door remained closed after the cycle was complete.
 
 - Users appeared to not understand what the "Not a Machine" checkbox was for.
 
@@ -64,9 +62,14 @@ Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 - Manual alternative for communities with older machines
 - Mobile pay method as an alternative for coin machines
 
+<h4>Suggested Revisions</h4>
+
+- Add a timer for unused machines.
+- Add a footnote that explains what "Not a machine" means
+
 <h3>Hi-fi Prototype</h3>
 
-<h4>Please note that at this time, prototypes do not display properly on mobile screens.</h4>
+<h4>Please note that prototypes might display properly on mobile screens.</h4>
 
 <div style="position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D1%253A211%26node-id%3D62%253A182%26viewport%3D534%252C306%252C0.2261541336774826%26scaling%3Dcontain"" allowfullscreen></iframe>
@@ -74,17 +77,17 @@ Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 
 <h3>Evaluation of Hi-fi Prototype</h3>
 
-<h4>Settings Tab</h4>
-
-- One user got confused between the maintenance and reporting a bug. The user suggested that report a bug should be located in a 4th tab.
-
-<h4>Misc</h4>
-
-- The colleges in the community dropdown were not ordered alphabetically.
+- One user got confused between the maintenance and reporting a bug. The same user suggested that report a bug should be located in a 4th tab.
+- The communities in the community dropdown were not ordered alphabetically.
 
 <h4>Suggestions for Future Features</h4>
 
 - Add information for machines that says what cycle it is on.
+
+<h4>Suggested Revisions</h4>
+
+- Make the difference between reporting a bug and making a maintenance request more clear.
+- Make the communities in the community dropdown in alphabetical order.
 
 <h3>Conclusion</h3>
 

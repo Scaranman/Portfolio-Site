@@ -40,7 +40,7 @@ slides: ""
 
 <h3>解決</h3>
 
-Laundy is a part of an idea that I'm sure many people have thought of by now. Create an app that allows members of a community to see the status of the laundry machines in their laundry room in real time. My proposed ideation of this idea, would be to integrate an app with the machines directly, giving live status information updated by the machines without relying on user input with an added alarm functionality. Furthermore, Laundy would allow users to easily make maintenance reports for both machines and facilities without having to write out having to make a call or fill out a form on a website, giving staff reports they might not have normally gotten due out of inconvenience for customers or tenants.
+Laundy allows owners of community laundry rooms such as laundromats and laundry rooms in large buildings such as dorms to give customers or tenants an smarter way of doing laundry. With Laundy, users can tell when a laundry machine is in-use, available, or out of order. Users can also easily report an issue with the machines or anything else in the facility right from the app.
 
 <h3>ローファイ原型</h3>
 
@@ -54,18 +54,21 @@ Laundy is a part of an idea that I'm sure many people have thought of by now. Cr
 
 Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 
-<h4>洗濯</h4>
+- Users did not understand that the placeholder icon I placed next to the machines in the laundry tab were buttons.
 
-- Due to an unfortunate oversight, users did not understand that the placeholder icon I placed next to the machines in the laundry tab were buttons. In this instance, the problem could have easily been avoided by uses a different placeholder such as a square. This was a mistake I am sure to not make in the future.
-
-- While the design gave the remaining time in running machines, users suggested that unused machines have a timer that reports how long it was finished or how long the door remained closed after the cycle was complete. Maintenance tab
+- Users wished that unused machines had a timer that reports how long it was finished or how long the door remained closed after the cycle was complete.
 
 - Users appeared to not understand what the "Not a Machine" checkbox was for.
 
 <h4>前途の特徴の発案</h4>
 
-- Manual alternative for communities with older machines
-- Mobile pay method as an alternative for coin machines
+- Manual alternative for communities with older machines.
+- Mobile pay method as an alternative for coin machines.
+
+<h4>Suggested Revisions</h4>
+
+- Add a timer for unused machines.
+- Add a footnote that explains what "Not a machine" means
 
 <h3>ハイファイ原型の評価</h3>
 
@@ -77,17 +80,17 @@ Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 
 <h3>ハイファイ原型</h3>
 
-<h4>設定</h4>
-
-- One user got confused between the maintenance and reporting a bug. The user suggested that report a bug should be located in a 4th tab.
-
-<h4>他の</h4>
-
-- The colleges in the community dropdown were not ordered alphabetically.
+- One user got confused between the maintenance and reporting a bug. The same user suggested that report a bug should be located in a 4th tab.
+- The communities in the community dropdown were not ordered alphabetically.
 
 <h4>前途の特徴の発案</h4>
 
 - Add information for machines that says what cycle it is on.
+
+<h4>Suggested Revisions</h4>
+
+- Make the difference between reporting a bug and making a maintenance request more clear.
+- Make the communities in the community dropdown in alphabetical order.
 
 <h3>結論</h3>
 
