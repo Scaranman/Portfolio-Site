@@ -94,4 +94,4 @@ Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 
 <h3>Conclusion</h3>
 
-This project was conducted in the middle of the COVID-19 crisis of 2020 which unfortunately severely limited my access to participants due to time, location, and other obligations brought up by the crisis. Therefore, I unfortunately had very limited data and did not have much feedback to go off of aside from my own judgement. Overall though, I am happy with the way my design turned out. In the future, it might be worth coming back to this project to get more user testing and add more features such as the one's suggested.
+This project was conducted at the hight of the COVID-19 crisis in 2020 which unfortunately severely limited my access to participants due to time, location, and other obligations brought up by the crisis. Therefore, I unfortunately had very limited data and did not have much feedback to go off of aside from my own judgement. Overall though, I am happy with the way my design turned out. In the future, it might be worth coming back to this project to get more user testing and add more features such as the one's suggested.
