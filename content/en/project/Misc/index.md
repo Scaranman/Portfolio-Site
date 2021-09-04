@@ -45,6 +45,14 @@ A redesign of the Rochester Museum & Science Center Website for UX Studio 2021 a
 
 A reskin of two main screens from the AllTrails App.
 
+<h3>Hyrtl Skull Collection Interactive Screen</h3>
+
+<div style="  position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSAB5uqUzoRsV0c8Qs7Nor2%2FJacob-Scarani-Museum-Interactive-Exhibit%3Fpage-id%3D212%253A990%26node-id%3D270%253A54%26viewport%3D637%252C487%252C0.22918730974197388%26scaling%3Dcontain" allowfullscreen></iframe>
+</div>
+
+A basic prototype of an interactive screen for the Hertyll Skull Collection at the Mutter Museum of the College of Physicians of Philadelphia
+
 <h3>Kanji Study App Redesign</h3>
 
 <img src="/portfolio/misc/kanjistudy.png">
