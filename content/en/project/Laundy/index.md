@@ -37,7 +37,10 @@ Laundry rooms are the worst, you have to make sure you arrive at a not-to-busy t
 
 <h3>The Solution</h3>
 
-Laundy allows owners of community laundry rooms such as laundromats and laundry rooms in large buildings such as dorms to give customers or tenants an smarter way of doing laundry. With Laundy, users can tell when a laundry machine is in-use, available, or out of order. Users can also easily report an issue with the machines or anything else in the facility right from the app.
+Laundy allows owners of community laundry rooms such as laundromats and laundry rooms in large buildings such as dorms to give customers or tenants an smarter way of doing laundry. With Laundy, users can:
+
+- tell when a laundry machine is in-use, available, or out of order
+- Easily report an issue with the machines or anything else in the facility right from the app.
 
 <h3>Low-fi Prototype</h3>
 
