@@ -37,7 +37,7 @@ In trading card games such as Magic The Gathering (MTG), there are many cards wi
 
 <h3>Solution</h3>
 
-The MTG Vending machines streamlines the process of buying and selling common and uncommon cards by allowing customers to do it through the machine rather than waiting in line and getting an offer from the staff. When selling cards, the vending machine could scan the cards and compare them to a database where it would then provide and offer price.
+The MTG Vending machines streamlines the process of buying and selling common and uncommon cards by allowing customers to do it through the machine rather than waiting in line and getting an offer from the staff. When selling cards, the vending machine would scan the cards and compare them to a database where it would then use to offer price.
 
 Customers would have to get their card from the staff that they could then use to build up a balance (either by selling cards or putting money on at the register) to use when buying cards from the vending machine.
 
@@ -51,7 +51,7 @@ Customers would have to get their card from the staff that they could then use t
 
 Before using the vending machine, customers would first need to get a card from the staff who would activate it. From there they can use the card with the vending machine to:
 
-- sell common and uncommon card
+- sell common and uncommon cards
 - buy cards available from the machine
 
 <h3>Wireframes</h3>
