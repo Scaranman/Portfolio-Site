@@ -67,7 +67,7 @@ A poster series designed to encourage people to get out and vote.
 
 <h3>Detrimental Discharge - a cost of beef infographic</h3>
 
-<img src="/portfolio/misc/cost-of-beef.png" width="500px">
+<img src="/portfolio/misc/cost-of-beef.png" width="400px">
 
 An infographic on the environmental cost of beef. 
 
