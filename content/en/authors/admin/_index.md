@@ -30,7 +30,7 @@ education:
   - course: B.S. Human Centered Computing
     institution: Rochester Institute of Technology (RIT)
     year: 2021
-  - course: Study Abroad in Nagoya, Aichi, Japan
+  - course: Study Abroad in Nagoya, JP
     institution: Nanzan University / 南山大学
     year: 2019
 
