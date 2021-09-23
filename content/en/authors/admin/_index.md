@@ -30,7 +30,7 @@ education:
   - course: B.S. Human Centered Computing
     institution: Rochester Institute of Technology (RIT)
     year: 2021
-  - course: Study Abroad in Nagoya, Japan
+  - course: Study Abroad in Nagoya, Aichi, Japan
     institution: Nanzan University / 南山大学
     year: 2019
 
@@ -71,7 +71,7 @@ resources:
 
 ---
 
-Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I will be graduating in August from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
+Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I recently graduated from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
 
 I got my drive for UX from my family. My father is an architect and my mother went to art school and worked as a graphic designer before pursuing a career in early childhood education. Additionally, my mothers parents were artists and designers. In short, I grew up with a very creative maternal side, and a logical but design-based paternal side.
 
