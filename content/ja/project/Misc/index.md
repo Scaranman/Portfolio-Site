@@ -61,7 +61,7 @@ RITの「UX Studio」に「Rochester Museum & Science Center」のウェブサ�
 
 <h3>牛肉の環境の費用のインフォグラフィック</h3>
 
-<img src="/portfolio/misc/cost-of-beef.png" width="500px">
+<img src="/portfolio/misc/cost-of-beef.png" width="400px">
 
 <h3>「Squicoonland　2: Recovery」と言うゲイム/h3>
 
