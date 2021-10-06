@@ -71,7 +71,7 @@ resources:
 
 ---
 
-Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I recently graduated from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
+Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I recently graduated from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese. I'm currently working as a UX Designer co-op for LenelS2 in Pittsford, NY.
 
 I got my drive for UX from my family. My father is an architect and my mother went to art school and worked as a graphic designer before pursuing a career in early childhood education. Additionally, my mothers parents were artists and designers. In short, I grew up with a very creative maternal side, and a logical but design-based paternal side.
 
@@ -79,8 +79,6 @@ From a young age I got involved in the use of computers in technology. As a chil
 
 I have also been learning Japanese since late high school when I went to a Japanese language camp for the summer. From there I knew I was going to continue my studies at RIT and pursued a minor. I credit my original interest in Japanese to my mom. She studied Japanese when she was in college and lived in Kobe for a year. In 2019, I spent my Spring semester in Nagoya, Japan at Nanzan University/南山大学. I spent the first four months of the program in homestay and the last month in a dorm. I spent the following summer on an Internship for Tamago-DB in Tokyo.
 
-I love learning Japanese language and culture and I have extended my interest to other cultures worldwide.
-
-Outside of school and UX, I enjoy video games, hiking, and playing guitarr. I recently started teaching myself how to draw as well.
+Outside of school and UX, I enjoy video games, hiking, and playing guitar. I sometimes take pictures of birds as well.
 
 {{< icon name="download" pack="fas" >}}{{< staticref "media/JacobScarani_Resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
