@@ -1,6 +1,6 @@
 ---
 title: Guest Pass
-summary: A guest access solution for LenelS2 Elements.<br><br>
+summary: A guest access solution for LenelS2 Elements.
   
 tags:
 # - Deep Learning

@@ -1,6 +1,6 @@
 ---
 title: Laundy Mobile Laundry App
-summary: A mobile app prototype for community laundry rooms.<br>
+summary: A mobile app prototype for community laundry rooms.
   
 tags:
 # - Deep Learning
