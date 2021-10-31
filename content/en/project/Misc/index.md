@@ -55,9 +55,9 @@ A basic prototype of an interactive screen for the Hertyll Skull Collection at t
 
 <h3>Kanji Study App Redesign</h3>
 
-<img src="/portfolio/misc/kanjistudy.png">
+<!-- <img src="/portfolio/misc/kanjistudy.png">
 
-A reskin of two main screen from the Kanji Study app for Android.
+A reskin of two main screen from the Kanji Study app for Android. -->
 
 <h3>Vote Poster Series</h3>
 

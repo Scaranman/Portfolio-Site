@@ -49,9 +49,9 @@ RITの「UX Studio」に「Rochester Museum & Science Center」のウェブサ�
 </div>
 「Mutter Museum」と言う博物館の「Hyrtl Skull Collection」のインタラクティブの画面のプロトタイプです。
 
-<h3>「Kanji Study」と言うアプリの衣替え</h3>
+<!-- <h3>「Kanji Study」と言うアプリの衣替え</h3>
 
-<img src="/portfolio/misc/kanjistudy.png">
+<img src="/portfolio/misc/kanjistudy.png"> -->
 
 <h3>「Vote」ポスターの一連</h3>
 
