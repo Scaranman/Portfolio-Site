@@ -71,9 +71,9 @@ Because the actual guest passes are located on their pages, this allowed me to e
   <source src="/portfolio/GuestPass/error.mp4" type="video/mp4">
 </video>
 
-You can play around with the animation in my ProtoPie prototype <a href="https://cloud.protopie.io/p/9964619755">here</a>. If you want to switch between the success and error animations select the top left corner the prototype where the time is located.
+You can play around with the animation in my ProtoPie prototype <a style="text-decoration: underline;" href="https://cloud.protopie.io/p/9964619755">here</a>. If you want to switch between the success and error animations select the top left corner the prototype where the time is located.
 
-I also made a rough translation of the prototype in code using CodePen. You can see for yourself <a href="https://codepen.io/JEScarani/pen/oNWKmxG">here</a>.
+I also made a rough translation of the prototype in code using CodePen. You can see for yourself <a style="text-decoration: underline;" href="https://codepen.io/JEScarani/pen/oNWKmxG">here</a>.
 
 <h3>結論</h3>
 
