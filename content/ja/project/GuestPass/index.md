@@ -57,7 +57,7 @@ There were 4 essential requirements that we needed for guest passes:
 
 <h3>The Guest Pass</h3>
 
-Because the actual guest passes are located on their pages, this allowed me to experiment with animations which are typically not done in Elements. Have a look:
+Because the actual guest passes are located on their own pages, this allowed me to experiment with animations which are typically not done in Elements. Have a look:
 
 <h4>Success</h4>
 
