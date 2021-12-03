@@ -41,7 +41,7 @@ Before guest pass, whenever a customer wanted to add a give access to a temporar
 
 <h3>解決</h3>
 
-Guest Pass allows customers to create a temporary guest pass that will automatically activate and delete according to user specifications that they can send to their guests.
+Guest Pass allows customers to create a temporary guest pass that will automatically activate and delete according to user specifications that can then be sent to a guest.
 
 <h3>Creating a guest pass</h3>
 
