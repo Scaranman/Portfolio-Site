@@ -41,29 +41,71 @@ Before guest pass, whenever a customer wanted to add a give access to a temporar
 
 Guest Pass allows customers to create a temporary guest pass that will automatically activate and delete according to user specifications that can then be sent to a guest.
 
-<h3>Creating a guest pass</h3>
+<h3>Requirements</h3>
+
+There were 12 essential requirements that I landed on:
+
+<h4>Issuing a Guest Pass</h4>
+- Users need to be able to add guest passes and send them themselves as they are responsible for the guest
+- Optional start/end date
+- Assign door readers to the guest pass
+- A method to share the guest pass
+- An email template for when a guest pass is shared
+- The ability to update a guest pass
+
+<h4>Using a Guest Pass</h4>
+- Guest can receieve their guest pass via email with link to web UI
+- UI shows when the pass is valid for and the customer (who will be issuing the guest pass)
+- BUttons available for each reader to unlock
+
+</h4>Events</h4>
+- Events in Elements event feed shows when a guest pass is used and who used it
+
+<h3>Questions</h3>
+
+Some of the questions that I came up were:
+- What happens when a guest is expires?
+- Do we connect a pass to a persons record, or have it be it's own record type?
+
+<h3>Wireframes</h3>
+
+I then created some frames for the guest pass creation process in InVision.
+
+Luckily, Elements has a very well establish UI system so it wasn't difficult to figure out where Guest Passes would land in the UI and how.
+
+<h4>Breakdown:</h4>
+1. User navigate to the "Guest Passes" area of Elements.
+2. User select the add button to add a guest pass
+3. User inputs a name, activation and expiration dates and times, and the recipient email
+4. User adds readers
+5. User generates the pass
+
+<h3>Hi-Fi Designs</h3>
 
 <img src="/portfolio/GuestPass/create.png" width="400" alt="a screenshot of the guest pass creation process">
 
-Before designing the guest pass itself, I needed to design the method of creating one.
+I then moved my designs to high fidelity in Figma.
 
-There were 4 essential requirements that we needed for guest passes:
-- An activation date/time.
-- An expiration date/time.
-- a list of readers/doors that a visitor can unlock using their guest pass.
-- a method to share the guest pass
+While in high fidelity, I decided to remove the email recipient field in the guest pass creation as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
+
 
 <h3>The Guest Pass</h3>
 
-Because the actual guest passes are located on their own pages, this allowed me to experiment with animations which are typically not done in Elements. Have a look:
+Once the creation process for guest passes was designed, I moved onto the web UI that guest pass recipients were going to see when using their guest pass.
+
+Since the guest passes are on isolated pages outside of the primary Elements interface, I was apply to apply animation to the buttons that help a user understand that something is happening when they select a button to unlock a door reader.
 
 <h4>Success</h4>
+
+When the user unlocks a door reader succesfully using their guest pass.
 
 <video controls>
   <source src="/portfolio/GuestPass/open.mp4" type="video/mp4">
 </video>
 
 <h4>Error</h4>
+
+When a user attempts to unlock a door reader using their guest pass and an error occurs.
 
 <video controls>
   <source src="/portfolio/GuestPass/error.mp4" type="video/mp4">
@@ -75,4 +117,6 @@ I also made a rough translation of the prototype in code using CodePen. You can 
 
 <h3>Conclusion</h3>
 
-Guest Pass was successfully put in production in Q4 of 2021. This was my first time working with animations like this and it helped me learn to think outside the box a little more when it came to how users interact with my designs.
+Guest pass is really interesting becuase of it's dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about aniimations and how to utilize them to make my designs more usable.
+
+Guest Pass was successfully put in production in Q4 of 2021.
