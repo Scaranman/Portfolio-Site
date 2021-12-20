@@ -76,11 +76,13 @@ I then created some frames for the guest pass creation process in InVision.
 Luckily, Elements has a very well establish UI system so it wasn't difficult to figure out where Guest Passes would land in the UI and how.
 
 <h4>Breakdown:</h4>
-1. User navigate to the "Guest Passes" area of Elements.
-2. User select the add button to add a guest pass
-3. User inputs a name, activation and expiration dates and times, and the recipient email
-4. User adds readers
-5. User generates the pass
+<ol>
+  <li>User navigate to the "Guest Passes" area of Elements.</li>
+  <li>User select the add button to add a guest pass.</li>
+  <li>User inputs a name, activation and expiration dates and times, and the recipient email.</li>
+  <li>User adds readers.</li>
+  <li>User generates the pass.</li>
+</ol>
 
 <h3>Hi-Fi Designs</h3>
 
