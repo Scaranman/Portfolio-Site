@@ -71,7 +71,7 @@ Some of the questions that I came up were:
 
 <h3>Wireframes</h3>
 
-<img src="/portfolio/GuestPass/invision_screenshot.jpg" width="400" alt="a screenshot of wireframe in InVision">
+<img src="/portfolio/GuestPass/invision_screenshot.jpg" width="720" alt="a screenshot of wireframe in InVision">
 
 I then created some frames for the guest pass creation process in InVision.
 
@@ -86,7 +86,7 @@ Luckily, Elements has a very well establish UI system so it wasn't difficult to 
 
 <h3>Hi-Fi Designs</h3>
 
-<img src="/portfolio/GuestPass/create.png" width="400" alt="a screenshot of the guest pass creation process">
+<img src="/portfolio/GuestPass/create.png" width="720" alt="a screenshot of the guest pass creation process">
 
 I then moved my designs to high fidelity in Figma.
 
