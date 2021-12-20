@@ -48,6 +48,7 @@ Guest Pass allows customers to create a temporary guest pass that will automatic
 There were 12 essential requirements that I landed on:
 
 <h4>Issuing a Guest Pass</h4>
+
 - Users need to be able to add guest passes and send them themselves as they are responsible for the guest
 - Optional start/end date
 - Assign door readers to the guest pass
@@ -56,11 +57,13 @@ There were 12 essential requirements that I landed on:
 - The ability to update a guest pass
 
 <h4>Using a Guest Pass</h4>
+
 - Guest can receieve their guest pass via email with link to web UI
 - UI shows when the pass is valid for and the customer (who will be issuing the guest pass)
 - BUttons available for each reader to unlock
 
 </h4>Events</h4>
+
 - Events in Elements event feed shows when a guest pass is used and who used it
 
 <h3>Questions</h3>
@@ -78,13 +81,12 @@ I then created some frames for the guest pass creation process in InVision.
 Luckily, Elements has a very well establish UI system so it wasn't difficult to figure out where Guest Passes would land in the UI and how.
 
 <h4>Breakdown:</h4>
-<ol>
-  <li>User navigate to the "Guest Passes" area of Elements.</li>
-  <li>User select the add button to add a guest pass.</li>
-  <li>User inputs a name, activation and expiration dates and times, and the recipient email.</li>
-  <li>User adds readers.</li>
-  <li>User generates the pass.</li>
-</ol>
+
+1. User navigate to the "Guest Passes" area of Elements.
+2. User select the add button to add a guest pass
+3. User inputs a name, activation and expiration dates and times, and the recipient email
+4. User adds readers
+5. User generates the pass
 
 <h3>Hi-Fi Designs</h3>
 
