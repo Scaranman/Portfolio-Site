@@ -58,9 +58,9 @@ There were 12 essential requirements that I landed on:
 
 <h4>Using a Guest Pass</h4>
 
-- Guest can receieve their guest pass via email with link to web UI
+- Guest can receive their guest pass via email with link to web UI
 - UI shows when the pass is valid for and the customer (who will be issuing the guest pass)
-- BUttons available for each reader to unlock
+- Buttons available for each reader to unlock
 
 </h4>Events</h4>
 
