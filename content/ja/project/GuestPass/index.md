@@ -62,7 +62,7 @@ There were 12 essential requirements that I landed on:
 - UI shows when the pass is valid for and the customer (who will be issuing the guest pass)
 - BUttons available for each reader to unlock
 
-</h4>Events</h4>
+<h4>Events</h4>
 
 - Events in Elements event feed shows when a guest pass is used and who used it
 
@@ -82,8 +82,8 @@ Luckily, Elements has a very well establish UI system so it wasn't difficult to 
 
 <h4>Breakdown:</h4>
 
-1. User navigate to the "Guest Passes" area of Elements.
-2. User select the add button to add a guest pass
+1. User navigates to the "Guest Passes" area of Elements.
+2. User selects the add button to add a guest pass
 3. User inputs a name, activation and expiration dates and times, and the recipient email
 4. User adds readers
 5. User generates the pass
