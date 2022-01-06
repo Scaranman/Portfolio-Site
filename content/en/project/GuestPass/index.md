@@ -103,7 +103,7 @@ Since the guest passes are on isolated pages outside of the primary Elements int
 
 <h4>Success</h4>
 
-When the user unlocks a door reader succesfully using their guest pass.
+When the user unlocks a door reader successfully using their guest pass.
 
 <video controls>
   <source src="/portfolio/GuestPass/open.mp4" type="video/mp4">
@@ -123,6 +123,6 @@ I also made a rough translation of the prototype in code using CodePen. You can 
 
 <h3>Conclusion</h3>
 
-Guest pass is really interesting becuase of it's dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about aniimations and how to utilize them to make my designs more usable.
+Guest pass is really interesting because of it's dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about animations and how to utilize them to make my designs more usable.
 
 Guest Pass was successfully put in production in Q4 of 2021.
