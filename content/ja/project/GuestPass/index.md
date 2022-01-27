@@ -45,7 +45,7 @@ Guest Pass allows customers to create a temporary guest pass that will automatic
 
 <h3>Requirements</h3>
 
-There were 12 essential requirements that I landed on:
+There were some essential requirements that I initially landed on after some brainstorming on FreeHand:
 
 <h4>Issuing a Guest Pass</h4>
 
