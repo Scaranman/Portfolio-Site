@@ -56,7 +56,7 @@ There were 12 essential requirements that I landed on:
 - An email template for when a guest pass is shared
 - The ability to update a guest pass
 
-<h4>Using a Guest Pass</h4>
+<h4>「Guest Pass]を使うこと</h4>
 
 - Guest can receive their guest pass via email with link to web UI
 - UI shows when the pass is valid for and the customer (who will be issuing the guest pass)
@@ -66,13 +66,13 @@ There were 12 essential requirements that I landed on:
 
 - Events in Elements event feed shows when a guest pass is used and who used it
 
-<h3>Questions</h3>
+<h3>質問</h3>
 
 Some of the questions that I came up were:
 - What happens when a guest is expires?
 - Do we connect a pass to a persons record, or have it be it's own record type?
 
-<h3>Wireframes</h3>
+<h3>ワヤーフレーム</h3>
 
 <img src="/portfolio/GuestPass/invision_screenshot.jpg" width="720" alt="a screenshot of wireframe in InVision">
 
@@ -88,7 +88,7 @@ Luckily, Elements has a very well establish UI system so it wasn't difficult to 
 4. User adds readers
 5. User generates the pass
 
-<h3>Hi-Fi Designs</h3>
+<h3>ハイ―ファイ</h3>
 
 <img src="/portfolio/GuestPass/create.png" width="720" alt="a screenshot of the guest pass creation process">
 
@@ -96,7 +96,7 @@ I then moved my designs to high fidelity in Figma.
 
 While in high fidelity, I decided to remove the email recipient field in the guest pass creation as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
 
-<h3>The Guest Pass</h3>
+<h3>お客様が使うUIをデザインすること</h3>
 
 Once the creation process for guest passes was designed, I moved onto the web UI that guest pass recipients were going to see when using their guest pass.
 

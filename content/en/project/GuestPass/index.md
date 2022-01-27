@@ -95,7 +95,7 @@ I then moved my designs to high fidelity in Figma.
 While in high fidelity, I decided to remove the email recipient field in the guest pass creation as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
 
 
-<h3>The Guest Pass</h3>
+<h3>Designing the Guest-Facing Guest Pass UI</h3>
 
 Once the creation process for guest passes was designed, I moved onto the web UI that guest pass recipients were going to see when using their guest pass.
 
