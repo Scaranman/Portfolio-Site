@@ -53,7 +53,7 @@ A reskin of two main screens from the AllTrails App.
 
 A basic prototype of an interactive screen for the Hertyll Skull Collection at the Mutter Museum of the College of Physicians of Philadelphia
 
-<h3>Kanji Study App Redesign</h3>
+<!-- <h3>Kanji Study App Redesign</h3> -->
 
 <!-- <img src="/portfolio/misc/kanjistudy.png">
 
