@@ -72,11 +72,9 @@ Some of the questions that I came up were:
 
 <h3>Wireframes</h3>
 
-<img src="/portfolio/GuestPass/invision_screenshot.jpg" width="720" alt="a screenshot of wireframe in InVision">
+<img src="/portfolio/GuestPass/invision_screenshot.jpg" width="720" alt="a screenshot of wireframes in InVision FreeHand">
 
-I then created some frames for the guest pass creation process in InVision.
-
-Luckily, Elements has a very well establish UI system so it wasn't difficult to figure out where Guest Passes would land in the UI and how.
+I then created some wireframes for the guest pass creation process in InVision.
 
 <h4>Breakdown:</h4>
 
