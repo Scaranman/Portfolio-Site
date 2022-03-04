@@ -42,7 +42,7 @@ slides: ""
 
 Laundy allows owners of community laundry rooms such as laundromats and laundry rooms in large buildings such as dorms to give customers or tenants an smarter way of doing laundry. With Laundy, users can:
 
-- tell when a laundry machine is in-use, available, or out of order
+- tell when a laundry machine is in-use, available, or out of orderz.
 - Easily report an issue with the machines or anything else in the facility right from the app.
 
 <h3>ローファイ原型</h3>

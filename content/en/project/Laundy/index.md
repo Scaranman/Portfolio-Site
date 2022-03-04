@@ -39,7 +39,7 @@ Laundry rooms are the worst, you have to make sure you arrive at a not-to-busy t
 
 Laundy allows owners of community laundry rooms such as laundromats and laundry rooms in large buildings such as dorms to give customers or tenants an smarter way of doing laundry. With Laundy, users can:
 
-- tell when a laundry machine is in-use, available, or out of order
+- tell when a laundry machine is in-use, available, or out of order.
 - Easily report an issue with the machines or anything else in the facility right from the app.
 
 <h3>Low-fi Prototype</h3>
@@ -72,7 +72,7 @@ Evaluation of my lo-fi prototype gave me some valuable feedback early on.
 
 <h3>Hi-fi Prototype</h3>
 
-<h4>Please note that prototypes might display properly on mobile screens.</h4>
+<h4>Please note that prototypes might not display properly on mobile screens.</h4>
 
 <div style="position: relative; padding-bottom: 67.5%; height: 0; margin: 10px 0; overflow: hidden;">
   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBm5bpQRGBaoI9DWLHyEodo%2FLaundy%3Fpage-id%3D1%253A211%26node-id%3D62%253A182%26viewport%3D534%252C306%252C0.2261541336774826%26scaling%3Dcontain"" allowfullscreen></iframe>
