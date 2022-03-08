@@ -84,6 +84,6 @@ As you can see, items that match the lens are circled. I chose this particular c
 
 <h3>Prototype</h3>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv7LOr4K2L2lrzAhbGjFl6M%2FLocator-App%3Fpage-id%3D3%253A211%26node-id%3D3%253A212%26viewport%3D241%252C48%252C0.98%26scaling%3Dscale-down%26starting-point-node-id%3D3%253A212" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv7LOr4K2L2lrzAhbGjFl6M%2FLocator-App%3Fpage-id%3D3%253A211%26node-id%3D3%253A212%26viewport%3D241%252C48%252C0.98%26scaling%3Dcontain%26starting-point-node-id%3D3%253A212" allowfullscreen></iframe>
 
 Please feel free to look through the designs using the prototype I made.
