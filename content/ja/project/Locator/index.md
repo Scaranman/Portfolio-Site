@@ -1,5 +1,5 @@
 ---
-title: Locator
+title: Locator App
 summary: An app that helps you find dropped items using computer vision.
   
 tags:
