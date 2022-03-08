@@ -119,7 +119,7 @@ You can play around with the animation in my ProtoPie prototype <a style="text-d
 
 I also made a rough translation of the prototype in code using CodePen. You can see for yourself <a style="text-decoration: underline;" href="https://codepen.io/JEScarani/pen/oNWKmxG">here</a>.
 
-<h3>Conclusion</h3>
+<h3>Conclusion and Results</h3>
 
 Guest pass is really interesting because of it's dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about animations and how to utilize them to make my designs more usable.
 
