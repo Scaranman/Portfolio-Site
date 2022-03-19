@@ -30,10 +30,22 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-  
-      As a UX designer in a small team, help design experiences and conduct user testing for company's flagship products.
-      - Assist with transfer and configuration of Components from Sketch to Figma.
-      - Redesign and conduct user testing for Elements video.
-      - Design experiences for new products and product features.
+      UX Design
+      - Designed and animated a user experience for a guest access solution using Figma and ProtoPie.
+      - Designed for Elements Platform Product.
+      - Designed user flow and process to create temporary guest passes to access buildings.
+      - Designed an experimental lockdown feature with a mobile shortcut for PO and PM review.
+
+      Research
+      - Conducted AB usability testing for video security solution with a ProtoPie prototype
+      and existing UI.
+      - Conducted internal user research for the QA team to determine areas of improvement
+      for the QA lab.
+      - Interviewed QA testers, front end development team, and additional QA Lab users.
+
+      Component Library
+      - Migrated component library from Sketch to Figma.
+      - Maintained Component Library for the duration of the internship.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
@@ -42,11 +54,10 @@ experience:
     date_start: '2019-06-03'
     date_end: '2020-08-09'
     description: |2-
-      Refactored charts originally configured using a legacy Google Charts library with a more modern C3.js library.
-      - Used Laragon as a local deployment environment
-      - Tweaked design in a Symfony 3 codebase using:
-        - HTML/CSS
-        - JavaScript
+      Refactored code for data analytics page with charts originally configured
+      using a legacy Google Charts library with a more modern C3.js library.
+      - Used Laragon as a local deployment environment.
+      - Updated designs in a Symfony 3 codebase using HTML, CSS, and JavaScript.
 design:
   columns: '2'
 ---
