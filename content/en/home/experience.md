@@ -31,8 +31,8 @@ experience:
     date_end: '2021-12-17'
     description: |2-  
       UX Design
+      - Designed for an access control and video management solution called Elements.
       - Designed and animated a user experience for a guest access solution using Figma and ProtoPie.
-      - Designed for Elements Platform Product.
       - Designed user flow and process to create temporary guest passes to access buildings.
       - Designed an experimental lockdown feature with a mobile shortcut for PO and PM review.
 
