@@ -8,7 +8,7 @@ cta:
   label: '**Portfolio**'
   url: '#projects'
 cta_alt:
-  label: Send me an email
+  label: Contact Me
   url: '#contact'
 design:
   background:
