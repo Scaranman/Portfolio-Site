@@ -35,7 +35,7 @@ slides: ""
 
 Elements is a cloud based unified access control and video management system from LenelS2.
 
-Before guest pass, whenever a customer wanted to add a give access to a temporary guest in Elements (e.g, job candidate, clients, etc), they had to add them to their elements system and remember to remove them from the system once access needs to be revoked. Customers needed a way to temporarily grant access to temporary guests without adding them as a person in their system which is typically reserved for more long-term "visitors" such as employees.
+Before guest pass, whenever a customer wanted give access to a temporary guest in Elements (e.g, job candidate, clients, etc), they had to add them to their elements system and remember to remove them from the system once access needs to be revoked. Customers needed a way to temporarily grant access to temporary guests without adding them as a person in their system which is typically reserved for more long-term "visitors" such as employees.
 
 <h3>The Solution</h3>
 
@@ -66,7 +66,7 @@ There were some essential requirements that I initially landed on after some bra
 
 <h3>Questions</h3>
 
-Some of the questions that I came up were:
+Some of the questions that I came up with were:
 - What happens when a guest is expires?
 - Do we connect a pass to a persons record, or have it be it's own record type?
 
@@ -76,7 +76,7 @@ Some of the questions that I came up were:
 
 I then created some wireframes for the guest pass creation process in InVision.
 
-<h4>Breakdown:</h4>
+<h4>User Flow:</h4>
 
 1. User navigates to the "Guest Passes" area of Elements.
 2. User selects the add button to add a guest pass
@@ -90,7 +90,7 @@ I then created some wireframes for the guest pass creation process in InVision.
 
 I then moved my designs to high fidelity in Figma.
 
-While in high fidelity, I decided to remove the email recipient field in the guest pass creation as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
+While in high fidelity, I decided to remove the email recipient field in the guest pass creation process as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
 
 
 <h3>Designing the Guest-Facing Guest Pass UI</h3>
