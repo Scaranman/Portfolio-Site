@@ -37,7 +37,7 @@ slides: ""
 
 Elements is a cloud based unified access control and video management system from LenelS2.
 
-Before guest pass, whenever a customer wanted to add a give access to a temporary guest in Elements (e.g, job candidate, clients, etc), they had to add them to their elements system and remember to remove them from the system once access needs to be revoked. Customers needed a way to temporarily grant access to temporary guests without adding them as a person in their system which is typically reserved for more long-term "visitors" such as employees.
+Before guest pass, whenever a customer wanted give access to a temporary guest in Elements (e.g, job candidate, clients, etc), they had to add them to their elements system and remember to remove them from the system once access needs to be revoked. Customers needed a way to temporarily grant access to temporary guests without adding them as a person in their system which is typically reserved for more long-term "visitors" such as employees.
 
 <h3>解決</h3>
 
@@ -45,7 +45,7 @@ Guest Pass allows customers to create a temporary guest pass that will automatic
 
 <h3>Requirements</h3>
 
-There were some essential requirements that I initially landed on after some brainstorming on FreeHand:
+This project was done during my time as an intern at LenelS2. For this specific task, I was given a set of requirements. It was my job to not only find a solution to the given requirements, but find out any hidden requirements that I would need to work with. So in including to those that were given to me, I settled on the following requirements:
 
 <h4>Issuing a Guest Pass</h4>
 
@@ -72,6 +72,8 @@ Some of the questions that I came up were:
 - What happens when a guest is expires?
 - Do we connect a pass to a persons record, or have it be it's own record type?
 
+I also considered simply providing an option for normal credentials to expire, but that would still require someone to create a credential for the guest (which would require them to be in the building already) which would ignores the problem that the guest/user needs a way to get into the building in the first place and that's the problem I was trying to solve.
+
 <h3>ワヤーフレーム</h3>
 
 <img src="/portfolio/GuestPass/invision_screenshot.jpg" width="720" alt="「InVision　FreeHand」のワヤーフレーム">
@@ -90,9 +92,9 @@ I then created some wireframes for the guest pass creation process in InVision.
 
 <img src="/portfolio/GuestPass/create.png" width="720" alt="a screenshot of the guest pass creation process">
 
-I then moved my designs to high fidelity in Figma.
+I then moved my designs to high fidelity in Figma using the pre-established design system at LenelS2 that I helped manage and expand during my time there.
 
-While in high fidelity, I decided to remove the email recipient field in the guest pass creation as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
+While in high fidelity, I decided to remove the email recipient field in the guest pass creation process as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
 
 <h3>お客様が使うUIをデザインすること</h3>
 
@@ -102,7 +104,7 @@ Since the guest passes are on isolated pages outside of the primary Elements int
 
 <h4>Success</h4>
 
-When the user unlocks a door reader succesfully using their guest pass.
+When the user unlocks a door reader successfully using their guest pass.
 
 <video controls>
   <source src="/portfolio/GuestPass/open.mp4" type="video/mp4">

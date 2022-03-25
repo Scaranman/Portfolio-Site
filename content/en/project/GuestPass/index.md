@@ -43,7 +43,7 @@ Guest Pass allows customers to create a temporary guest pass that will automatic
 
 <h3>Requirements</h3>
 
-There were some essential requirements that I initially landed on after some brainstorming on FreeHand:
+This project was done during my time as an intern at LenelS2. For this specific task, I was given a set of requirements. It was my job to not only find a solution to the given requirements, but find out any hidden requirements that I would need to work with. So in including to those that were given to me, I settled on the following requirements:
 
 <h4>Issuing a Guest Pass</h4>
 
@@ -64,11 +64,14 @@ There were some essential requirements that I initially landed on after some bra
 
 - Events in Elements event feed shows when a guest pass is used and who used it
 
-<h3>Questions</h3>
+<h3>Questions and Considerations</h3>
 
-Some of the questions that I came up with were:
+Additionally I came up with the following questions:
+
 - What happens when a guest is expires?
 - Do we connect a pass to a persons record, or have it be it's own record type?
+
+I also considered simply providing an option for normal credentials to expire, but that would still require someone to create a credential for the guest (which would require them to be in the building already) which would ignores the problem that the guest/user needs a way to get into the building in the first place and that's the problem I was trying to solve.
 
 <h3>Wireframes</h3>
 
@@ -88,7 +91,7 @@ I then created some wireframes for the guest pass creation process in InVision.
 
 <img src="/portfolio/GuestPass/create.png" width="720" alt="a screenshot of the guest pass creation process">
 
-I then moved my designs to high fidelity in Figma.
+I then moved my designs to high fidelity in Figma using the pre-established design system at LenelS2 that I helped manage and expand during my time there.
 
 While in high fidelity, I decided to remove the email recipient field in the guest pass creation process as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
 
