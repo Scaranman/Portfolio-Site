@@ -2,17 +2,23 @@
 widget: hero
 headless: true
 weight: 10
-title: Hi, my name is Jacob Scarani
-# hero_media: 
+title: Home
+# hero_media: hero-academic.png
+cta:
+  label: '**Portfolio**'
+  url: https://jacobscarani.me#projects
+cta_alt:
+  label: Send me an email
+  url: https://jacobscarani.me#contact
 design:
   background:
-    gradient_end: '#8F5AA5'
-    gradient_start: '#7851A9'
+    gradient_end: '#7851A9'
+    gradient_start: '#8F5AA5'
     text_color_light: true
-advanced:
-  css_class: fullscreen
+# advanced:
+#   css_class: fullscreen
 ---
 
-I'm a UX Designer from the Philadelphia region.
+**Hi, my name is Jacob.**
 
-Feel free to take a look at my portfolio or send me a message!
+I'm a UX Designer from the Philadelphia region.

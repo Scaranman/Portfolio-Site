@@ -2,17 +2,23 @@
 widget: hero
 headless: true
 weight: 10
-title: Hi, my name is Jacob Scarani
-# hero_media: 
+title: ホーム
+# hero_media: hero-academic.png
+cta:
+  label: '**ポートフォリオ**'
+  url: https://jacobscarani.me/ja/#projects
+cta_alt:
+  label: メールを送る
+  url: https://jacobscarani.me/ja/#contact
 design:
   background:
-    gradient_end: '#8F5AA5'
-    gradient_start: '#7851A9'
+    gradient_end: '#7851A9'
+    gradient_start: '#8F5AA5'
     text_color_light: true
-advanced:
-  css_class: fullscreen
+# advanced:
+#   css_class: fullscreen
 ---
 
-アメリカのフィラデルフィア出身のUXデザイナーです。
+**こんにちは。ジェイコブと申します。**
 
-ポートフォリオをぜひ見てください。
+アメリカのフィラデルフィア出身のUXデザイナーでございます。
