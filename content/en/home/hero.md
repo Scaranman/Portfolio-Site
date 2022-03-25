@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Hi, my name is Jacob.
-# hero_media: hero-academic.png
+hero_media: hero.png
 cta:
   label: '**Portfolio**'
   url: '#projects'

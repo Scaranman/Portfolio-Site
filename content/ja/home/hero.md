@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: こんにちは。ジェイコブと申します。
-# hero_media: hero-academic.png
+hero_media: hero.png
 cta:
   label: '**ポートフォリオ**'
   url: '#projects'
