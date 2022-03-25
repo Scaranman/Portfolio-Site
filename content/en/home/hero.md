@@ -2,14 +2,14 @@
 widget: hero
 headless: true
 weight: 10
-title: Home
+title: Hi, my name is Jacob.
 # hero_media: hero-academic.png
 cta:
   label: '**Portfolio**'
-  url: https://jacobscarani.me#projects
+  url: '#projects'
 cta_alt:
   label: Send me an email
-  url: https://jacobscarani.me#contact
+  url: '#contact'
 design:
   background:
     gradient_end: '#7851A9'
@@ -18,7 +18,5 @@ design:
 # advanced:
 #   css_class: fullscreen
 ---
-
-**Hi, my name is Jacob.**
 
 I'm a UX Designer from the Philadelphia region.
