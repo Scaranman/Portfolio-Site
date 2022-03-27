@@ -2,9 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: 
-  こんにちは。
-  ジェイコブと申します。
+title: こんにちは。ジェイコブと申します。
 hero_media: hero.png
 cta:
   label: '**ポートフォリオ**'
@@ -21,5 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-アメリカのフィラデルフィア出身の
-UXデザイナーでございます。
+アメリカのフィラデルフィア出身のUXデザイナーでございます。
