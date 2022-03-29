@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: こんにちは。ジェイコブと申します。
+title: ジェイコブと申します。
 hero_media: hero.png
 cta:
   label: '**ポートフォリオ**'
