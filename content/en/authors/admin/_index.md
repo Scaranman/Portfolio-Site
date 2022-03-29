@@ -30,7 +30,7 @@ education:
   - course: B.S. Human Centered Computing
     institution: Rochester Institute of Technology (RIT)
     year: 2021
-  - course: Study Abroad in Nagoya, JP
+  - course: Study Abroad in Nagoya, Japan
     institution: Nanzan University / 南山大学
     year: 2019
 
@@ -55,9 +55,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/JacobScarani_Resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: 'media/JACOB SCARANI RESUME.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
