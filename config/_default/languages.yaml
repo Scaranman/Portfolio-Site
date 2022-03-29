@@ -16,19 +16,22 @@ ja:
     description: ジェイコブ・スカラニのポートフォリオサイトです。
   menu:
     main:
+      - name: ホーム
+        url: '#hero'
+        weight: 1
       - name: ポートフォリオ
         url: '#projects'
-        weight: 1
+        weight: 2
       - name: 自己紹介
         url: '#about'
-        weight: 2
+        weight: 3
       - name: 職歴
         url: '#experience'
-        weight: 3
+        weight: 4
       - name: 履歴書
         url: '#Google-Drive-Embed'
-        weight: 4
+        weight: 5
       - name: 連絡
         url: '#contact'
-        weight: 5
+        weight: 6
 
