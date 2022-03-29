@@ -81,4 +81,4 @@ I have also been learning Japanese since late high school when I went to a Japan
 
 Outside of school and UX, I enjoy video games, hiking, and playing guitar. I sometimes take pictures of birds as well.
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/JacobScarani_Resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "media/JACOB SCARANI RESUME.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.

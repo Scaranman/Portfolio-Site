@@ -77,4 +77,4 @@ highlight_name: false
 
 学校とUXの以外でゲイムやハイキングすることがすきでギターを引きします。
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/JacobScarani_Resume.pdf" "newtab" >}} 履歴書をダウンロードする{{< /staticref >}}。
+{{< icon name="download" pack="fas" >}}{{< staticref "media/JACOB SCARANI RESUME.pdf" "newtab" >}} 履歴書をダウンロードする{{< /staticref >}}。
