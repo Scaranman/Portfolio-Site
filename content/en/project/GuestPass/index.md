@@ -43,7 +43,7 @@ Guest Pass allows customers to create a temporary guest pass that will automatic
 
 <h3>Requirements</h3>
 
-This project was done during my time as an intern at LenelS2. For this specific task, I was given a set of requirements. It was my job to not only find a solution to the given requirements, but find out any hidden requirements that I would need to work with. So in including to those that were given to me, I settled on the following requirements:
+This project was done during my time as a UX Designer Co-op/intern at LenelS2. For this specific task, I was given a set of requirements. It was my job to not only find a solution to the given requirements, but find out any hidden requirements that I would need to work with. So including those that were given to me, I settled on the following requirements:
 
 <h4>Issuing a Guest Pass</h4>
 
@@ -62,7 +62,7 @@ This project was done during my time as an intern at LenelS2. For this specific 
 
 <h4>Events</h4>
 
-- Events in Elements event feed shows when a guest pass is used and who used it
+- Events in the Elements event feed shows when a guest pass is used and who used it
 
 <h3>Questions and Considerations</h3>
 
