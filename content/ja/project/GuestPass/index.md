@@ -1,6 +1,6 @@
 ---
-title: Guest Pass
-summary: A guest access solution for LenelS2 Elements.
+title: ゲストパース（Guest Pass）
+summary: LenelS2のElementsのげストアクセス機能です。
   
 tags:
 # - Deep Learning
