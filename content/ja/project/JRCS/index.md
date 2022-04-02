@@ -33,7 +33,7 @@ slides: ""
 
 <h3>The Problem</h3>
 
-One of the JRCS Digital Innovation Lab's flagship product is a command application that provides captains and officers on ships at sea with information regarding the navigation of their vessel, and highlights nearby vessels through AR as well.
+One of the JRCS Digital Innovation Lab's flagship products is a command application that provides captains and officers on ships at sea with information regarding the navigation of their vessel, and highlights nearby vessels through AR as well.
 
 The team provided me 2 screens and wanted me to design a method for the application to warn users when they are about to collide with another vessel as well.
 
