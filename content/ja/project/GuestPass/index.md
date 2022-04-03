@@ -1,6 +1,6 @@
 ---
 title: ゲストパース（Guest Pass）
-summary: LenelS2のElementsのげストアクセス機能です。
+summary: LenelS2のElementsのげストアクセス機能です。<br><br>
   
 tags:
 # - Deep Learning

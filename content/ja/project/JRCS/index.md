@@ -1,6 +1,6 @@
 ---
 title: JRCSコマンドタスク
-summary: JRCSのイノベーション事業のデザインチャレンジです。
+summary: JRCSのイノベーション事業のデザインチャレンジです。<br><br>
   
 tags:
 # - Deep Learning

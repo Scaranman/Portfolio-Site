@@ -1,6 +1,6 @@
 ---
 title: その他 
-summary: 色々なデザインしたり手伝ったりしたことです。
+summary: 色々なデザインしたり手伝ったりしたことです。<br><br>
 tags:
 # - Deep Learning
 date: "2021"
