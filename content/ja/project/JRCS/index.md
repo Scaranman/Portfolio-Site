@@ -108,7 +108,7 @@ As you might be able to tell, while transparency works at night and possibly mid
 
 <h4>Color Blind Filters</h4>
 
-<img src="/portfolio/JRCS/colorblindtest.png" width="720" alt="Pictures of the dialogue through different color blind filters">
+<img src="/portfolio/JRCS/colorblind.png" width="720" alt="Pictures of the dialogue through different color blind filters">
 
 Lastly, I ran my dialogue through every colorblind filter to make sure it was accessible.
 
