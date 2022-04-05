@@ -1,5 +1,5 @@
 ---
-title: DailyUI - 100 Day Design Challenge(Ongoing)
+title: DailyUI - 100 Day Design Challenge (Ongoing)
 summary: 100 day daily UI design challenge
   
 tags:
