@@ -33,7 +33,7 @@ slides: ""
 
 #### Day 001 - Sign Up
 
-![Daily UI day 001 designs](portfolio/DailyUI/Day001.png)
+![Daily UI day 001 designs](/portfolio/DailyUI/Day001.png)
 
 #### Day 002 - Credit Card Checkout
 
