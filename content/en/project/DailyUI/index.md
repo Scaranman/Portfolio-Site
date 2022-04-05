@@ -1,6 +1,6 @@
 ---
 title: DailyUI - 100 Day Design Challenge(Ongoing)
-summary: 100 Day daily UI design challenge
+summary: 100 day daily UI design challenge
   
 tags:
 # - Deep Learning
