@@ -38,3 +38,7 @@ slides: ""
 #### Day 002 - Credit Card Checkout
 
 ![Daily UI day 002 designs](/portfolio/DailyUI/Day002.png)
+
+#### Day 003 - Landing Page
+
+![Daily UI day 003 designs](/portfolio/DailyUI/Day003.png)
