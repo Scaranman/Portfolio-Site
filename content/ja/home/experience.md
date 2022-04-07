@@ -30,8 +30,18 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-
-      小さいチームで看板商品にインタフェースをデザインしたりユーザーテストしたりします。
-  - title: フロントエンドデベロッパーインターン
+      UXデザイン
+      - Elements」と言う アクセスコントロールとビデオ管理ソフトにデザインしました。
+      - FigmaとProtoPieで客のアクセス機能をデザインしてアニメイトしました。
+      - プロダクトオーナーとプロダクトマネージャー の 審査に封鎖機能をデザインしました。
+
+      研究
+      - あたらしいプロトタイプと現在のUIでビデオUIにユーザビリティテストをしました。
+      - QAチームにQAラブを使う会社員とユーザー研究しました。
+
+      コンポーネントライブラリー
+      - コンポーネントライブラリーをSketchからFigmaに移しました.
+  - title: Front-end Development Intern   - title: フロントエンドデベロッパーインターン
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
     company_logo: org-tamago
