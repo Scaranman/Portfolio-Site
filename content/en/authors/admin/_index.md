@@ -14,7 +14,7 @@ organizations:
   #   url: https://www.lenel.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: UX Designer with a B.S. in Human Centered Computing (HCC) and a minor in Japanese.
+bio: Seeking new Opportunities in UX Design, UI Design, Product Design, and Interaction Design.
 
 # Interests to show in About widget
 interests:
