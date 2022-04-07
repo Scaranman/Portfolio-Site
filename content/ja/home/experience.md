@@ -41,7 +41,7 @@ experience:
 
       コンポーネントライブラリー
       - コンポーネントライブラリーをSketchからFigmaに移しました。
-  - title: Front-end Development Intern   - title: フロントエンドデベロッパーインターン
+  - title: フロントエンドデベロッパーインターン
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
     company_logo: org-tamago
