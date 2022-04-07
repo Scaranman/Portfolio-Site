@@ -42,3 +42,7 @@ slides: ""
 #### Day 003 - Landing Page
 
 ![Daily UI day 003 designs](/portfolio/DailyUI/Day003.png)
+
+#### Day 004 - Calculator
+
+![Daily UI day 004 designs](/portfolio/DailyUI/Day004.png)
