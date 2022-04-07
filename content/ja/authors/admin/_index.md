@@ -11,8 +11,8 @@ role: UXデザイナー
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LenelS2
-  url: https://www.lenel.com/
+# - name: LenelS2
+#   url: https://www.lenel.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: アメリカのフィラデルフィアから来たUXデザイナーです。
