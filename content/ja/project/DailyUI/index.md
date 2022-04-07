@@ -31,18 +31,18 @@ url_video: ""
 slides: ""
 ---
 
-#### Day 001 - Sign Up
+#### 1日 - サインアップ
 
-![Daily UI day 001 designs](/portfolio/DailyUI/Day001.png)
+![DailyUI１日にのデザイン](/portfolio/DailyUI/Day001.png)
 
-#### Day 002 - Credit Card Checkout
+#### 2日 -  クレジットカードレジ
 
-![Daily UI day 002 designs](/portfolio/DailyUI/Day002.png)
+![DailyUIの2日のデザイン](/portfolio/DailyUI/Day002.png)
 
-#### Day 003 - Landing Page
+#### 3日 - ランディングページ
 
-![Daily UI day 003 designs](/portfolio/DailyUI/Day003.png)
+![DailyUIの3日のデザイン](/portfolio/DailyUI/Day003.png)
 
-#### Day 004 - Calculator
+#### 4日 - 電卓
 
-![Daily UI day 004 designs](/portfolio/DailyUI/Day004.png)
+![DailyUIの4日のデザイン](/portfolio/DailyUI/Day004.png)
