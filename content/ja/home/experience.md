@@ -40,7 +40,7 @@ experience:
       - QAチームにQAラブを使う会社員とユーザー研究しました。
 
       コンポーネントライブラリー
-      - コンポーネントライブラリーをSketchからFigmaに移しました.
+      - コンポーネントライブラリーをSketchからFigmaに移しました。
   - title: Front-end Development Intern   - title: フロントエンドデベロッパーインターン
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
