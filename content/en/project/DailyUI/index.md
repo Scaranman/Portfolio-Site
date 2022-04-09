@@ -46,3 +46,7 @@ slides: ""
 #### Day 004 - Calculator
 
 ![Daily UI day 004 designs](/portfolio/DailyUI/Day004.png)
+
+#### Day 005 - App Icon
+
+![Daily UI day 005 designs](/portfolio/DailyUI/Day005.png)

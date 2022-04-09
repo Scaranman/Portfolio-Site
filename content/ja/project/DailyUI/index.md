@@ -46,3 +46,7 @@ slides: ""
 #### 4日 - 電卓
 
 ![DailyUIの4日のデザイン](/portfolio/DailyUI/Day004.png)
+
+#### 5日 - アプリのアイコン
+
+![DailyUIの5日のデザイン](/portfolio/DailyUI/Day005.png)
