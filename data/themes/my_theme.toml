@@ -24,7 +24,8 @@ link_hover = "#472D52"
 # 472D52
 
 [dark]
-  primary = "#8F5AA5"
+  # primary = "#8F5AA5"
+  rimary = "#7851A9"
 
   menu_primary = "#34495E"
   menu_text = "#FAFAFA"

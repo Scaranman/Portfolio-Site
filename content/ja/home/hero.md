@@ -13,7 +13,7 @@ cta_alt:
 design:
   background:
     gradient_end: '#7851A9'
-    gradient_start: '#8F5AA5'
+    gradient_start: '#364670'
     text_color_light: true
 # advanced:
 #   css_class: fullscreen
