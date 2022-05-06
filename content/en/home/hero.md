@@ -12,8 +12,8 @@ cta_alt:
   url: '#contact'
 design:
   background:
-    gradient_end: '#7851A9'
-    gradient_start: '#364670'
+    gradient_end: '#364670'
+    gradient_start: '#34495E'
     text_color_light: true
 # advanced:
 #   css_class: fullscreen
