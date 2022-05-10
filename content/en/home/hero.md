@@ -19,4 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-I'm a UX Designer from the Philadelphia region.
+I'm a UX Designer from the Greater Philadelphia region.
