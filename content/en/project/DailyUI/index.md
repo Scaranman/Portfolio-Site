@@ -53,8 +53,8 @@ slides: ""
 
 ##### Day 006 - Profile
 
-![Daily UI day 006 designs](/static/portfolio/DailyUI/Day006.png)
+![Daily UI day 006 designs](/portfolio/DailyUI/Day006.png)
 
 ##### Day 007 - Settings
 
-![Daily UI day 007 designs](/static/portfolio/DailyUI/Day007.png)
+![Daily UI day 007 designs](/portfolio/DailyUI/Day007.png)

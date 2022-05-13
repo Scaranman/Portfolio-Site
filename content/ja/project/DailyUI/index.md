@@ -53,8 +53,8 @@ slides: ""
 
 ##### 6日 - プロファイル
 
-![DailyUIの6日のデザイン](/static/portfolio/DailyUI/Day006.png)
+![DailyUIの6日のデザイン](/portfolio/DailyUI/Day006.png)
 
 ##### 7日 - 設定
 
-![DailyUIの7日のデザイン](/static/portfolio/DailyUI/Day007.png)
+![DailyUIの7日のデザイン](/portfolio/DailyUI/Day007.png)
