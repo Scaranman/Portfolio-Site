@@ -22,6 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Product Designer
+    company: Buxton
+    company_url: 'https://www.buxtonco.com/'
+    company_logo: org-lenel
+    location: Pittsford, NY
+    date_start: '2022-06-08'
+    date_end: ''
+    description: |2-  
+      Design
+      - Wireframe and conceptualize new products.
+      - Design final designs for development handoff.
+      - Design responsive web experiences.
+
+      Research
+      - Convert comps to interactive prorotypes for usability testing and feedback.
+      - lead and assist in usability testing sessions and gather user feedback.
+      - Conducted user research for the QA team to determine areas of improvement for the QA lab.
+
+      Design System
+      - Work within an existing design system to build scalable, reusable, and interactive components.
+      - Evolve and maintain design system UI guidelines.
   - title: UX Co-op - Summer/Fall
     company: LenelS2
     company_url: 'https://www.lenel.com/'
