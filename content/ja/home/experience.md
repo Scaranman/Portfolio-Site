@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 01/02/06
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -25,7 +25,7 @@ experience:
   - title: プロダクトデザイナー
     company: Buxton
     company_url: 'https://www.buxtonco.com/'
-    company_logo: org-Buxton
+    company_logo: org-buxton
     location: リモートワーク
     date_start: '2021-06-08'
     date_end: ''

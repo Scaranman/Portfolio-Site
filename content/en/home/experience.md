@@ -25,7 +25,7 @@ experience:
   - title: Product Designer
     company: Buxton
     company_url: 'https://www.buxtonco.com/'
-    company_logo: org-Buxton
+    company_logo: org-buxton
     location: Remote, USA
     date_start: '2022-06-08'
     date_end: ''
