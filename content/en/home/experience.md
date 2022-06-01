@@ -25,8 +25,8 @@ experience:
   - title: Product Designer
     company: Buxton
     company_url: 'https://www.buxtonco.com/'
-    company_logo: org-lenel
-    location: Pittsford, NY
+    company_logo: org-Buxton
+    location: Remote, USA
     date_start: '2022-06-08'
     date_end: ''
     description: |2-  
