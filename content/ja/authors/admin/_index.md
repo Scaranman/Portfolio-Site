@@ -7,12 +7,12 @@ title: ジェイコブ・スカラニ
 superuser: true
 
 # Role/position/tagline
-role: UXデザイナー
+role: プロダクトデザイナー
 
 # Organizations/Affiliations to show in About widget
 organizations:
-# - name: LenelS2
-#   url: https://www.lenel.com/
+  - name: Buxton
+    url: https://www.buxtonco.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: アメリカのフィラデルフィアから来たUXデザイナーです。
@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-初めまして、スカラニ・ジェイコブと申します。ロチェスター理工大学でヒューマンセンタードコンピュチングの理学士で日本語の副専攻の新卒でございます。
+初めまして、スカラニ・ジェイコブと申します。ロチェスター理工大学でヒューマンセンタードコンピュチングの理学士で日本語の副専攻の卒業生でございます。今「Buxton」と言う会社に働いております。
 
 私は家族かあらUXに興味になったと思いたします。母は幼児教育をする前に芸術大学に勉強してグラフィックデザイナーでございました。父は建築家でございます。
 

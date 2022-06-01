@@ -6,12 +6,12 @@ title: Jacob Scarani
 superuser: true
 
 # Role/position/tagline
-role: UX Designer
+role: Product Designer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  # - name: LenelS2
-  #   url: https://www.lenel.com/
+  - name: Buxton
+    url: https://www.buxtonco.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Seeking new Opportunities in UX Design, UI Design, Product Design, and Interaction Design.
@@ -71,7 +71,7 @@ resources:
 
 ---
 
-Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I recently graduated from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese. I last worked as a UX Designer co-op for LenelS2 in Pittsford, NY　and I'm currently seeking new opportunities..
+Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I recently graduated from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese. I'm currently a Product Designer at Buxton.
 
 I got my drive for UX from my family. My father is an architect and my mother went to art school and worked as a graphic designer before pursuing a career in early childhood education. Additionally, my mothers parents were artists and designers. In short, I grew up with a very creative maternal side, and a logical but design-based paternal side.
 
