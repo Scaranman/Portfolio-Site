@@ -11,7 +11,7 @@ weight: 35
 title: Resume
 
 # put the link to your google drive file. Replace "view?usp=sharing" with "preview".
-link: https://drive.google.com/file/d/14eit_AQnnOldqqh8xPEIjvCwQmt3GWQB/preview
+link: https://drive.google.com/file/d/101RBVx9u-hMInrTmDgdPGe3XahKxLwpz/preview
 
 height: 75vh
 
