@@ -11,7 +11,7 @@ weight: 35
 title: 履歴書
 
 # put the link to your google drive file. Replace "view?usp=sharing" with "preview".
-link: https://drive.google.com/file/d/14eit_AQnnOldqqh8xPEIjvCwQmt3GWQB/preview
+link: https://drive.google.com/file/d/101RBVx9u-hMInrTmDgdPGe3XahKxLwpz/preview
 
 #set the height and width for the iframe (examples: "800px", "100%", etc)
 height: 75vh
