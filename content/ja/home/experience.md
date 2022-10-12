@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.buxtonco.com/'
     company_logo: org-buxton
     location: リモートワーク
-    date_start: '2021-06-08'
-    date_end: ''
+    date_start: '2022-06-08'
+    date_end: '2022-10-11'
     description: |2-
 
   - title: UXデザイナーイコアップ

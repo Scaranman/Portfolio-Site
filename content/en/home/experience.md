@@ -28,17 +28,12 @@ experience:
     company_logo: org-buxton
     location: Remote, USA
     date_start: '2022-06-08'
-    date_end: ''
+    date_end: '2022-10-11'
     description: |2-  
       Design
       - Wireframe and conceptualize new products.
       - Design final designs for development handoff.
       - Design responsive web experiences.
-
-      Research
-      - Convert comps to interactive prorotypes for usability testing and feedback.
-      - lead and assist in usability testing sessions and gather user feedback.
-      - Conducted user research for the QA team to determine areas of improvement for the QA lab.
 
       Design System
       - Work within an existing design system to build scalable, reusable, and interactive components.
