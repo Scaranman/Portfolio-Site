@@ -10,8 +10,8 @@ role: Product Designer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Buxton
-    url: https://www.buxtonco.com/
+  # - name: 
+  #   url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Seeking new Opportunities in UX Design, UI Design, Product Design, and Interaction Design.
