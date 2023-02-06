@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: ジェイコブと申します。
+title: ジェイコブ・スカラニ
 hero_media: hero.png
 cta:
   label: '**ポートフォリオ**'
@@ -19,4 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-アメリカのフィラデルフィア出身のUXデザイナーでございます。
+アメリカのフィラデルフィア出身のUXデザイナー
