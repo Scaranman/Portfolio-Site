@@ -72,7 +72,7 @@ Lastly, the application has a view with a sort of compass view. I thought of a w
 
 <img src="/portfolio/JRCS/lofi.png" width="720" alt="Pictures of my initial sketches.">
 
-After my sketches, I decided to focus on the primary view and created some low-fi sketches for the dialogue.
+After my sketches, I decided to focus on the primary view and created some low-fi wireframes for the dialogue.
 
 I tried the dialogue with the information provided vertically, and horizontally. I decided to be consistent with the established UI of the application and went with horizontal.
 
