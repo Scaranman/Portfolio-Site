@@ -76,7 +76,7 @@ After my sketches, I decided to focus on the primary view and created some low-f
 
 I tried the dialogue with the information provided vertically, and horizontally. I decided to be consistent with the established UI of the application and went with horizontal.
 
-<h4>Hi-fi Wireframes and progression</h4>
+<h4>Hi-fi Wireframes and Progression</h4>
 
 <img src="/portfolio/JRCS/progression.png" width="720" alt="Pictures of my hi-fi designs for the dialogue with progressive changes.">
 
