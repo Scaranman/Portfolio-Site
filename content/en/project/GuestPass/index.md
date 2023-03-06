@@ -30,15 +30,20 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-### The Problem
-
+### Overview
 Elements is a cloud based unified access control and video management system from LenelS2.
+
+Guest Pass a feature I designed for Elements that allows users to send a temporary "guest pass" that visiting guests can access right from their smart phone. Users set an activation and a deletion date/time along with any specific doors they want their guest to have access to. With this feature, users don't need to create credentials and badges normally reserved for employees nor do they have to keep someone on stand by to let guests in.
+
+Since its introduction to Elements, Guest Pass has been a major differentiator to competition and has been included in every demo to potential customers. Additionally, Guest Pass has received numerous requests for additional features and functionality to make it even more useful.
+
+### The Problem
 
 Before guest pass, whenever a customer wanted give access to a temporary guest in Elements (e.g, job candidate, clients, etc), they had to add them to their elements system and remember to remove them from the system once access needs to be revoked. Customers needed a way to temporarily grant access to temporary guests without adding them as a person in their system which is typically reserved for more long-term "visitors" such as employees.
 
 ### The Solution
 
-Guest Pass allows customers to create a temporary guest pass that will automatically activate and delete according to user specifications that can then be sent to a guest.
+Create a feature that allows users to create a temporary "guest pass" that will automatically activate, and delete according to user specifications.
 
 ### Requirements
 
@@ -126,5 +131,3 @@ I also made a rough translation of the prototype in code using CodePen. You can 
 Guest pass is really interesting because of it's dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about animations and how to utilize them to make my designs more usable.
 
 Guest Pass was successfully put in production in Q4 of 2021.
-
-Since its introduction to Elements, Guest Pass has been a major differentiator to competition and has been included in every demo to potential customers. Additionally, Guest Pass has received numerous requests for additional features and functionality to make it even more useful. Unfortunately, I'm not able to share any metric data due to LenelS2 company policy, but from information I have been given, it appears that Guest Pass has been a massive success.
