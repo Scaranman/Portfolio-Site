@@ -128,4 +128,4 @@ Guest pass is really interesting because of it's dynamic between two types of us
 
 Guest Pass was successfully put in production in Q4 of 2021.
 
-Since its introduction to Elements, Guest Pass has been a major differentiator to competition and has been included in every demo to potential customers. Additionally, Guest Pass has recieved numurous requests for additional features and functionality to make it even more useful. Unfortunately, I'm not able to share any metric data due to LenelS2 company policy, but from information I have been given, it appears that Guest Pass has been a massive success.
+Since its introduction to Elements, Guest Pass has been a major differentiator to competition and has been included in every demo to potential customers. Additionally, Guest Pass has received numerous requests for additional features and functionality to make it even more useful. Unfortunately, I'm not able to share any metric data due to LenelS2 company policy, but from information I have been given, it appears that Guest Pass has been a massive success.
