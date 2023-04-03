@@ -71,14 +71,12 @@ resources:
 
 ---
 
-Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. I recently graduated from Rochester Institute of Technology (RIT) with a B.S. in Human Centered Computing (HCC) and a minor in Japanese. I'm currently a Product Designer at Buxton.
+Hi, I’m Jacob. I'm a UX Designer from the Philadelphia region. 
 
-I got my drive for UX from my family. My father is an architect and my mother went to art school and worked as a graphic designer before pursuing a career in early childhood education. Additionally, my mothers parents were artists and designers. In short, I grew up with a very creative maternal side, and a logical but design-based paternal side.
+As a UX Designer, I'm passionate about creating intuitive, user-friendly experiences that solve real-world problems. With a B.S. in Human Centered Computing (HCC) and a minor in Japanese from Rochester Institute of Technology (RIT), I bring a unique perspective to every project I work on.
 
-From a young age I got involved in the use of computers in technology. As a child, I was always on some piece of technology. Whether it be my Gameboy , the Xbox, or the family PC. Needless to say, technology has always been an important part of my life, and I knew I was going to do something with technology.
+My interest in UX design stems from my family background - my father is an architect, and my mother was a graphic designer before transitioning to early childhood education. I've also been fascinated by technology since a young age, spending countless hours playing video games and exploring the capabilities of computers.
 
-I have also been learning Japanese since late high school when I went to a Japanese language camp for the summer. From there I knew I was going to continue my studies at RIT and pursued a minor. I credit my original interest in Japanese to my mom. She studied Japanese when she was in college and lived in Kobe for a year. In 2019, I spent my Spring semester in Nagoya, Japan at Nanzan University/南山大学. I spent the first four months of the program in homestay and the last month in a dorm. I spent the following summer on an Internship for Tamago-DB in Tokyo.
+In addition to my professional pursuits, I enjoy hiking, going to concerts, and birdwatching. I've also been studying Japanese for several years and spent a semester at Nanzan University in Nagoya, Japan. My experiences both in and outside of the UX world influence my approach to design, and I'm always looking for new ways to innovate and push boundaries.
 
-Outside of school and UX, I enjoy video games, hiking, and playing guitar. I sometimes take pictures of birds as well.
-
-{{< icon name="download" pack="fas" >}}{{< staticref "media/JACOB SCARANI RESUME.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
+If you're interested in working together or want to learn more about my design philosophy, please don't hesitate to get in touch.
