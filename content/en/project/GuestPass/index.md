@@ -34,7 +34,7 @@ slides: ""
 
 Elements is a cloud based unified access control and video management system from LenelS2.
 
-Guest Pass a feature I designed for Elements that allows users to send a temporary "guest pass" that visiting guests can access right from their smart phone. Users set an activation and a deletion date/time along with any specific doors they want their guest to have access to. With this feature, users don't need to create credentials and badges normally reserved for employees nor do they have to keep someone on stand by to let guests in.
+Guest Pass is a feature I designed for Elements that allows users to send a temporary "guest pass" that visiting guests can access right from their smart phone. Users set an activation and a deletion date/time along with any specific doors they want their guest to have access to. With this feature, users don't need to create credentials and badges normally reserved for employees nor do they have to keep someone on stand by to let guests in.
 
 Since its introduction to Elements, Guest Pass has been a major differentiator to competition and has been included in every demo to potential customers. Additionally, Guest Pass has received numerous requests for additional features and functionality to make it even more useful.
 
