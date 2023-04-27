@@ -60,9 +60,9 @@ After establishing my users and requirements. I started sketches out my ideas.
 
 <img src="/portfolio/JRCS/sketches.png" width="720" alt="Pictures of my initial sketches.">
 
-My immediate thought went to some kind of dialogue window that pointed to the vessel the user was about to collide with.
+My immediate thought went to some kind of popover that pointed to the vessel the user was about to collide with.
 
-I experimented with 3 different shapes, but ultimately settled on a simple rectangular dialogue window that provided users with the needed information.
+I experimented with 3 different shapes, but ultimately settled on a simple rectangular popover window that provided users with the needed information.
 
 I also thought about adding lines that indicate the path that each ship was going to take. However, after moving on from my sketches, I decided to scrap that idea as it could be very difficult to implement given the program would have to calculate the angle of the ship, and the surface of the water. Not only would that be a lot to calculate and take into consideration, but rough water at open sea is not exactly computer vision friendly for those kinds of calculations.
 
@@ -70,47 +70,47 @@ Lastly, the application has a view with a sort of compass view. I thought of a w
 
 <h4>Lo-fi Wireframes</h4>
 
-<img src="/portfolio/JRCS/lofi.png" width="720" alt="Pictures of my initial sketches.">
+<img src="/portfolio/JRCS/lofi.png" width="720" alt="A screenshot of 2 low-fi wireframes.">
 
-After my sketches, I decided to focus on the primary view and created some low-fi wireframes for the dialogue.
+After my sketches, I decided to focus on the primary view and created a couple variations of a low-fi wireframe for the popover.
 
-I tried the dialogue with the information provided vertically, and horizontally. I decided to be consistent with the established UI of the application and went with horizontal.
+I tried the popover with the information provided vertically, and horizontally. I decided to be consistent with the established UI of the application and went with horizontal.
 
 <h4>Hi-fi Wireframes and Progression</h4>
 
-<img src="/portfolio/JRCS/progression.png" width="720" alt="Pictures of my hi-fi designs for the dialogue with progressive changes.">
+<img src="/portfolio/JRCS/progression.png" width="720" alt="Hi-fi variations of my popover with progressive changes.">
 
-After the lo-fi wireframes, I stylized the wireframes using the style of the applications UI.
+After deciding on a structure, I stylized the popover using the style of the applications UI to make it match the existing design standards of the application.
 
 From there, I progressively start making changes such as adding labels and the boat indicator.
 
-<h4>Designs in Context</h4>
+<h4>Popover in Context</h4>
 
-<img src="/portfolio/JRCS/incontext.png" width="720" alt="Pictures of the dialogue in context">
+<img src="/portfolio/JRCS/incontext.png" width="720" alt="Pictures of the popover in context">
 
-These are my designs when put into context with some notes.
+This is the popover when put into context with some notes.
 
 <h4>Pulse</h4>
 
-<img src="/portfolio/JRCS/pulse.png" width="720" alt="Pictures of the dialogue in context with a red bar at the top of the screen">
+<img src="/portfolio/JRCS/pulse.png" width="720" alt="Pictures of the popover in context with an added red bar at the top of the screen">
 
-In addition to the dialogue, I decided I wanted something that draws the users attention to the screen in the case that they are not looking.
+In addition to the popover, I decided I wanted something that draws the users attention to the screen in the case that they are not looking.
 
 Inspired by FPS games such as Halo, and Call of Duty, I decided to add a pulsing red bar at the top of the screen that draws users attention to the screen without being overwhelming.
 
 <h4>Transparency</h4>
 
-<img src="/portfolio/JRCS/transparency.png" width="720" alt="Pictures of the dialogue over night and sunset/sunrise backgrounds with different transparencies">
+<img src="/portfolio/JRCS/transparency.png" width="720" alt="Pictures of the popover with night and sunset/sunrise backgrounds with different transparencies">
 
-To explain why I chose to make my dialogues have an opacity of 100%, here's a slide from my presentation that shows the dialogue over sunset/sunrise and nigh time settings with various transparency settings.
+To explain why I chose to make my popovers have an opacity of 100%, here's a slide from my presentation that shows the popover over sunset/sunrise and nigh time settings with various transparency settings.
 
-As you might be able to tell, while transparency works at night and possibly mid-day, it makes the dialogue information harder to read when it comes to sunset/sunrise settings.
+As you might be able to tell, while transparency works at night and possibly mid-day, it makes the popover information harder to read when it comes to sunset/sunrise settings.
 
 <h4>Color Blind Filters</h4>
 
-<img src="/portfolio/JRCS/colorblind.png" width="720" alt="Pictures of the dialogue through different color blind filters">
+<img src="/portfolio/JRCS/colorblind.png" width="720" alt="Pictures of the popover through different color blind filters">
 
-Lastly, I ran my dialogue through every colorblind filter to make sure it was accessible.
+Lastly, I ran my popover through every colorblind filter to make sure it was accessible.
 
 <h4>Conclusion</h4>
 
