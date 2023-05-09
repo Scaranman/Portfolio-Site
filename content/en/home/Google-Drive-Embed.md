@@ -19,3 +19,5 @@ author: admin
 ---
 
 {{< icon name="download" pack="fas" >}}{{< staticref "media/JACOB SCARANI RESUME.pdf" "newtab" >}}Download{{< /staticref >}}
+
+*This resume is in US letter format
