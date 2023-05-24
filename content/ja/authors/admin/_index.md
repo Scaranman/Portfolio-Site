@@ -45,13 +45,13 @@ social:
     link: '/#contact'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jescarani/
+    link: https://www.linkedin.com/in/jescarani/?locale=ja_JP
   - icon: github
     icon_pack: fab
     link: https://github.com/scaranman
   - icon: cv
     icon_pack: ai
-    link: 'media/JACOB SCARANI RESUME.pdf'
+    link: 'media/JA/JACOB SCARANI RESUME.pdf'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
