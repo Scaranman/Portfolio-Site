@@ -32,23 +32,32 @@ slides: ""
 ---
 ### Overview
 
-Elements is a cloud based unified access control and video management system from LenelS2.
-
-Guest Pass is a feature I designed for Elements that allows users to send a temporary "guest pass" that visiting guests can access right from their smart phone. Users set an activation and a deletion date/time along with any specific doors they want their guest to have access to. With this feature, users don't need to create credentials and badges normally reserved for employees nor do they have to keep someone on stand by to let guests in.
+Guest Pass is a feature I designed for an all-in-one access control security system called Elements during my time at LenelS2. that allows users to send a temporary "guest pass" that visiting guests can access right from their smart phone. Users set an activation and a deletion date/time along with any specific doors they want their guest to have access to. With this feature, users don't need to create credentials and badges normally reserved for employees nor do they have to keep someone on stand by to let guests in.
 
 Since its introduction to Elements, Guest Pass has been a major differentiator to competition and has been included in every demo to potential customers. Additionally, Guest Pass has received numerous requests for additional features and functionality to make it even more useful.
 
-### The Problem
+### Who is LenelS2?
+
+LenelS2 is a global leader in advanced physical security solutions, including access control, video surveillance and mobile credentialing. They're famous for products such as OnGuard, Elements, and BlueDiamond.
+
+### What is Elements?
+
+Elements is an SaaS all-in-one cloud-based access control and video management solution that helps companies monitor and secure their facilities with equipment such as cameras and badge readers.
+
+### What Was The Problem?
 
 Before guest pass, whenever a customer wanted give access to a temporary guest in Elements (e.g, job candidate, clients, etc), they had to add them to their elements system and remember to remove them from the system once access needs to be revoked. Customers needed a way to temporarily grant access to temporary guests without adding them as a person in their system which is typically reserved for more long-term "visitors" such as employees.
 
-### The Solution
+### My Solution
 
 Create a feature that allows users to create a temporary "guest pass" that will automatically activate, and delete according to user specifications.
 
-### Requirements
+### Who were the users
 
-This project was done during my time as a UX Designer Co-op/intern at LenelS2. For this specific task, I was given a set of requirements. It was my job to not only find a solution to the given requirements, but find out any hidden requirements that I would need to work with. So including those that were given to me, I settled on the following requirements:
+- A person who works at a company and is inviting a guest to their company's facility. This can be anyone from a hiring manager inviting someone for an interview, to management inviting a business client for a meeting.
+- A guest who was invited to the companies facility.
+
+### Requirements
 
 #### Issuing a Guest Pass
 
@@ -69,14 +78,14 @@ This project was done during my time as a UX Designer Co-op/intern at LenelS2. F
 
 - Events in the Elements event feed shows when a guest pass is used and who used it
 
-### Questions and Considerations
+<!-- ### Questions and Considerations
 
 Additionally I came up with the following questions:
 
 - What happens when a guest is expires?
 - Do we connect a pass to a persons record, or have it be it's own record type?
 
-I also considered simply providing an option for normal credentials to expire, but that would still require someone to create a credential for the guest (which would require them to be in the building already) which would ignores the problem that the guest/user needs a way to get into the building in the first place and that's the problem I was trying to solve.
+I also considered simply providing an option for normal credentials to expire, but that would still require someone to create a credential for the guest (which would require them to be in the building already) which would ignores the problem that the guest/user needs a way to get into the building in the first place and that's the problem I was trying to solve. -->
 
 ### Wireframes
 
