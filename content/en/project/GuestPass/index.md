@@ -52,7 +52,7 @@ Before guest pass, whenever a customer wanted give access to a temporary guest i
 
 Create a feature that allows users to create a temporary "guest pass" that will automatically activate, and delete according to user specifications.
 
-### Who were the users
+### Users
 
 - A person who works at a company and is inviting a guest to their company's facility. This can be anyone from a hiring manager inviting someone for an interview, to management inviting a business client for a meeting.
 - A guest who was invited to the companies facility.
