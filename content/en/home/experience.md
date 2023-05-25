@@ -31,13 +31,11 @@ experience:
     date_end: '2022-10-11'
     description: |2-  
       Design
-      - Wireframe and conceptualize new products.
-      - Design final designs for development handoff.
-      - Design responsive web experiences.
+      - Worked within the company’s product team to design several new products for stakeholder review and eventual public release.
+      - Utilized Figma to create wireframe deliverables and finalize existing designs.
 
       Design System
-      - Work within an existing design system to build scalable, reusable, and interactive components.
-      - Evolve and maintain design system UI guidelines.
+      - Helped centralize design system in a singular ecosystem to create a more cohesive design system going forward with new products.
   - title: UX Co-op - Summer/Fall
     company: LenelS2
     company_url: 'https://www.lenel.com/'
@@ -47,21 +45,19 @@ experience:
     date_end: '2021-12-17'
     description: |2-  
       UX Design
-      - Designed for an access control and video management solution called Elements.
-      - Designed and animated a user experience for a guest access solution using Figma and ProtoPie.
-      - Designed user flow and process to create temporary guest passes to access buildings.
-      - Designed an experimental lockdown feature with a mobile shortcut for PO and PM review.
+      - Worked within a continuous delivery environment on an agile team of designers and developers.
+      - Collaboratively engaged with stakeholders from project management, engineering, security, and UX to deliver features and functionality for an all-in-one cloud-managed security solution called Elements.
+      - Led the design process from start to finish for a new guest access feature for Elements. Collaborated to negotiate functional requirements and visualized deliverables for presentations and communications with stakeholders.
+      - Pitched and ideated a new lockdown feature using rapid prototypes, and designs to facilitate conversations among product management and stakeholders.
 
       Research
-      - Conducted AB usability testing for video security solution with a ProtoPie prototype
-      and existing UI.
-      - Conducted internal user research for the QA team to determine areas of improvement
-      for the QA lab.
-      - Interviewed QA testers, front end development team, and additional QA Lab users.
+      - Wrote testing script, created designs, and conducted AB testing for a video security solution. Utilized ProtoPie for its deep interaction capabilities and published results to confluence.
+      - Wrote script and conducted user interviews for internal use. Published results to confluence, presented them to stakeholders, and provided next steps.
 
       Component Library
       - Migrated component library from Sketch to Figma.
-      - Maintained Component Library for the duration of the internship.
+      - Maintained and evolved design system in Figma by adding missing components and recreating existing components in a way that’s more consistent and usable to designers.
+      - Created dark mode variations of design system components.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
