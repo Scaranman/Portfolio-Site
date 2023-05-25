@@ -19,4 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-I'm a UX Designer from the Greater Philadelphia region.
+I'm a designer from Philadelphia looking for my next role where I can work within a collaborative environment while designing interactive experiences that people love.
