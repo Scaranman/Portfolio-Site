@@ -19,4 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-I'm a designer from Philadelphia looking for my next role where I can work within a collaborative environment while designing interactive experiences that people love.
+I am a Philadelphia-based designer seeking my next role in a collaborative environment, where I can design interactive experiences that people love.
