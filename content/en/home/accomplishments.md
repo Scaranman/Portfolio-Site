@@ -25,15 +25,15 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: "2021-05-17"
-  date_start: "2019-01-14"
+  date_start: "2016-08-23"
   description: ""
   organization: Rochester Institute of Technology
   organization_url: https://www.rit.edu
   title: B.S. Human Centered Computing
   url: https://www.rit.edu/computing/study/human-centered-computing-bs
 - certificate_url: https://www.iesabroad.org/destinations/japan/nagoya
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: "2019-05-18"
+  date_start: "2019-01-15"
   description: ""
   organization: Nanzan University / 南山大学
   organization_url: https://www.nanzan-u.ac.jp/English/
