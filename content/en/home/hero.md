@@ -4,12 +4,12 @@ headless: true
 weight: 10
 title: Hi, my name is Jacob.
 hero_media: 
-cta:
-  label: '**Portfolio**'
-  url: '#projects'
-cta_alt:
-  label: Contact Me
-  url: '#contact'
+# cta:
+#   label: '**Portfolio**'
+#   url: '#projects'
+# cta_alt:
+#   label: Contact Me
+#   url: '#contact'
 design:
   background:
     gradient_end: '#364670'

@@ -4,12 +4,12 @@ headless: true
 weight: 10
 title: ジェイコブ・スカラニ
 hero_media: hero.png
-cta:
-  label: '**ポートフォリオ**'
-  url: '#projects'
-cta_alt:
-  label: メールを送る
-  url: '#contact'
+# cta:
+#   label: '**ポートフォリオ**'
+#   url: '#projects'
+# cta_alt:
+#   label: メールを送る
+#   url: '#contact'
 design:
   background:
     gradient_end: '#364670'

@@ -16,8 +16,8 @@ main:
   - name: Experience
     url: '#experience'
     weight: 4
-  - name: Resume/CV
-    url: '#Google-Drive-Embed'
+  - name: Education
+    url: '#accomplishments'
     weight: 5
   - name: Contact
     url: '#contact'
