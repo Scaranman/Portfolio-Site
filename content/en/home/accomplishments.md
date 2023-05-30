@@ -31,14 +31,14 @@ item:
   organization_url: https://www.rit.edu
   title: B.S. Human Centered Computing
   url: https://www.rit.edu/computing/study/human-centered-computing-bs
-- certificate_url: https://www.iesabroad.org/destinations/japan/nagoya
+- certificate_url: ""
   date_end: "2019-05-18"
   date_start: "2019-01-15"
   description: ""
   organization: Nanzan University / 南山大学
   organization_url: https://www.nanzan-u.ac.jp/English/
   title: 'Study Abroad in Nagoya, Aichi, Japan'
-  url: ""
+  url: https://www.iesabroad.org/destinations/japan/nagoya
 
 design:
   columns: '2' 
