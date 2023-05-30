@@ -28,10 +28,7 @@ ja:
       - name: 職歴
         url: '#experience'
         weight: 4
-      - name: 履歴書
-        url: '#Google-Drive-Embed'
-        weight: 5
       - name: 連絡
         url: '#contact'
-        weight: 6
+        weight: 5
 
