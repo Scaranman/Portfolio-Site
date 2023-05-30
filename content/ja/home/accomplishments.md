@@ -28,17 +28,17 @@ item:
   date_start: "2019-01-14"
   description: ""
   organization: ロチェスター工科大学
-  organization_url: "https://www.rit.edu"
+  organization_url: https://www.rit.edu
   title: ヒューマンセンタードコンピュチング理学士
-  url: "https://www.rit.edu/computing/study/human-centered-computing-bs"
+  url: https://www.rit.edu/computing/study/human-centered-computing-bs
 - certificate_url: ""
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
   organization: 南山大学
-  organization_url: "https://www.nanzan-u.ac.jp/"
+  organization_url: https://www.nanzan-u.ac.jp/
   title: '留学'
-  url: "https://www.iesabroad.org/destinations/japan/nagoya"
+  url: https://www.iesabroad.org/destinations/japan/nagoya
 
 design:
   columns: '2' 

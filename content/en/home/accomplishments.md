@@ -30,13 +30,13 @@ item:
   organization: Rochester Institute of Technology
   organization_url: https://www.rit.edu
   title: B.S. Human Centered Computing
-  url: "https://www.rit.edu/computing/study/human-centered-computing-bs"
+  url: https://www.rit.edu/computing/study/human-centered-computing-bs
 - certificate_url: https://www.iesabroad.org/destinations/japan/nagoya
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
   organization: Nanzan University / 南山大学
-  organization_url: "https://www.nanzan-u.ac.jp/English/"
+  organization_url: https://www.nanzan-u.ac.jp/English/
   title: 'Study Abroad in Nagoya, Aichi, Japan'
   url: ""
 
