@@ -55,7 +55,7 @@ Create a feature that allows users to create a temporary "guest pass" that will 
 ### Users
 
 - A person who works at a company and is inviting a guest to their company's facility. This can be anyone from a hiring manager inviting someone for an interview, to management inviting a business client for a meeting.
-- A guest who was invited to the companies facility.
+- A guest who was invited to the company's facility.
 
 ### Requirements
 
@@ -76,7 +76,7 @@ Create a feature that allows users to create a temporary "guest pass" that will 
 
 #### Events
 
-- Events in the Elements event feed shows when a guest pass is used and who used it
+- Events in the Elements event feed shows when a guest pass is used and where it was used
 
 <!-- ### Questions and Considerations
 
@@ -91,7 +91,7 @@ I also considered simply providing an option for normal credentials to expire, b
 
 <img src="/portfolio/GuestPass/invision_screenshot.jpg" width="720" alt="a screenshot of wireframes in InVision FreeHand">
 
-I then created some wireframes for the guest pass creation process in InVision.
+Afterwards, I created a user flow using some low fidelity wireframes I created in InVision Freehand.
 
 #### User Flow:
 
@@ -103,16 +103,17 @@ I then created some wireframes for the guest pass creation process in InVision.
 
 ### Hi-Fi Designs
 
-<img src="/portfolio/GuestPass/create.png" width="720" alt="a screenshot of the guest pass creation process">
+<img src="/portfolio/GuestPass/list.png" width="720" alt="">
 
-I then moved my designs to high fidelity in Figma using the pre-established design system at LenelS2 that I helped manage and expand during my time there.
+<img src="/portfolio/GuestPass/SidePanels.png" width="720" alt="">
 
-While in high fidelity, I decided to remove the email recipient field in the guest pass creation process as I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
+After ironing out the designs, I then created high fidelity versions in Figma using the pre-established design system at LenelS2 that I helped manage and expand during my time there.
 
+While in high fidelity, I decided to make a small change of removing the email recipient field in the guest pass creation process because I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
 
 ### Designing the Guest-Facing Guest Pass UI
 
-Once the creation process for guest passes was designed, I moved onto the web UI that guest pass recipients were going to see when using their guest pass.
+Once the creation process for guest passes was finished, I moved onto the web UI that guest pass recipients were going to see when using their guest pass.
 
 Since the guest passes are on isolated pages outside of the primary Elements interface, I was apply to apply animation to the buttons that help a user understand that something is happening when they select a button to unlock a door reader.
 
@@ -138,6 +139,6 @@ I also made a rough translation of the prototype in code using CodePen. You can 
 
 ### Conclusion and Results
 
-Guest pass is really interesting because of it's dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about animations and how to utilize them to make my designs more usable.
+Guest pass is really interesting because of its dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about animations and how to utilize them to make my designs more responsive.
 
-Guest Pass was successfully put in production in Q4 of 2021.
+Guest Pass was successfully put in production in Q4 of 2021. Since it's implementation it has been a become a big success and a major differentiator to competition with users asking for additional features.
