@@ -109,8 +109,7 @@ Afterwards, I created a user flow using some low fidelity wireframes I created i
 
 After ironing out the designs, I then created high fidelity versions in Figma using the pre-established design system at LenelS2 that I helped manage and expand during my time there.
 
-While in high fidelity, I decided to make a small change of removing the email recipient field in the guest pass creation process because I wanted users to be able to choose when they send the email to the recipient and not have it done automatically.
-
+While in high fidelity, I decided to replace the email recipient field in the initial view with a share button that brings users to a separate view where they can manually input recipients. This way, users can manually share the guest pass instead of it sharing automatically every time a user made changes. It also allows users to simply share the link through any mode of communication that they choose by copying it.
 ### Designing the Guest-Facing Guest Pass UI
 
 Once the creation process for guest passes was finished, I moved onto the web UI that guest pass recipients were going to see when using their guest pass.
