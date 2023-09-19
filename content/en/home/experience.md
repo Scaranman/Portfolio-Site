@@ -30,12 +30,9 @@ experience:
     date_start: '2022-06-08'
     date_end: '2022-10-11'
     description: |2-  
-      Design
-      - Worked within the company’s product team to design several new products for stakeholder review and eventual public release.
-      - Utilized Figma to create wireframe deliverables and finalize existing designs.
-
-      Design System
-      - Helped centralize design system in a singular ecosystem to create a more cohesive design system going forward with new products.
+      - Developed innovative designs for multiple platforms, ensuring close alignment with development goals and specializing in data-driven solutions; successfully launched 3 products with 100+ screens in 3 months.
+      - Utilized Figma to create wireframe deliverables and enhance existing designs.
+      - Successfully centralized the design system, streamlined design systems, and saved 2-3 hours of design time per week.
   - title: UX Co-op - Summer/Fall
     company: LenelS2
     company_url: 'https://www.lenel.com/'
@@ -44,20 +41,12 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-12-17'
     description: |2-  
-      UX Design
-      - Worked within a continuous delivery environment on an agile team of designers and developers.
-      - Collaboratively engaged with stakeholders from project management, engineering, security, and UX to deliver features and functionality for an all-in-one cloud-managed security solution called Elements.
-      - Led the design process from start to finish for a new guest access feature for Elements. Collaborated to negotiate functional requirements and visualized deliverables for presentations and communications with stakeholders.
-      - Pitched and ideated a new lockdown feature using rapid prototypes, and designs to facilitate conversations among product management and stakeholders.
+      - Led end-to-end design process for a new guest access feature, Elements; maintained and evolved the design system, ensuring completeness by adding missing components and optimizing existing ones.
+      - Conducted user interviews, created designs, and performed AB testing for a video security solution, resulting in actionable insights and improved user experience.
+      - Utilized ProtoPie for its deep interaction capabilities and published results to confluence.
+      - Transformed 100+ component library by migrating from Sketch to Figma, enhancing usability and consistency for designers within a dynamic design system. 
+      - Created dark mode variations of design system components, enhancing visual options for user experience.
 
-      Research
-      - Wrote testing script, created designs, and conducted AB testing for a video security solution. Utilized ProtoPie for its deep interaction capabilities and published results to confluence.
-      - Wrote script and conducted user interviews for internal use. Published results to confluence, presented them to stakeholders, and provided next steps.
-
-      Component Library
-      - Migrated component library from Sketch to Figma.
-      - Maintained and evolved design system in Figma by adding missing components and recreating existing components in a way that’s more consistent and usable to designers.
-      - Created dark mode variations of design system components.
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
@@ -66,10 +55,9 @@ experience:
     date_start: '2019-06-03'
     date_end: '2020-08-09'
     description: |2-
-      Refactored code for data analytics page with charts originally configured
-      using a legacy Google Charts library with a more modern C3.js library.
-      - Used Laragon as a local deployment environment.
-      - Updated designs in a Symfony 3 codebase using HTML, CSS, and JavaScript.
+      - Revamped data analytics page by refactoring code from a legacy Google Charts library to a modern C3.js library, enhancing visualizations and improving user experience.
+      - Utilized Laragon as a local deployment environment to test and debug code, ensuring functionality.
+      - Elevated the design of the Symfony 3 codebase by implementing HTML, CSS, and JavaScript updates, resulting in a more visually appealing and user-friendly interface.
 design:
   columns: '2'
 ---
