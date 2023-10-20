@@ -44,7 +44,7 @@ experience:
       - Led end-to-end design process for a new guest access feature, Elements; maintained and evolved the design system, ensuring completeness by adding missing components and optimizing existing ones.
       - Conducted user interviews, created designs, and performed AB testing for a video security solution, resulting in actionable insights and improved user experience.
       - Utilized ProtoPie for its deep interaction capabilities and published results to confluence.
-      - Transformed 100+ component library by migrating from Sketch to Figma, enhancing usability and consistency for designers within a dynamic design system. 
+      - Transformed 50+ component library by migrating from Sketch to Figma, enhancing usability and consistency for designers within a dynamic design system. 
       - Created dark mode variations of design system components, enhancing visual options for user experience.
 
   - title: Front-end Development Intern 
