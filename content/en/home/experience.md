@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: UX Designer
+    company: Cobblestone Software
+    company_url: 'https://www.cobblestonesoftware.com/'
+    company_logo: 
+    location: Lindenwold, NJ
+    date_start: '2023-011-16'
+    date_end: 
+    description: 
   - title: Product Designer
     company: Buxton
     company_url: 'https://www.buxtonco.com/'
