@@ -54,7 +54,6 @@ experience:
       - Utilized ProtoPie for its deep interaction capabilities and published results to confluence.
       - Transformed 50+ component library by migrating from Sketch to Figma, enhancing usability and consistency for designers within a dynamic design system. 
       - Created dark mode variations of design system components, enhancing visual options for user experience.
-
   - title: Front-end Development Intern 
     company: Tamago DB K.K.
     company_url: 'https://www.tamago-db.com/'
