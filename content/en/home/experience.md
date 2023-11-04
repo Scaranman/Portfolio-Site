@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.cobblestonesoftware.com/'
     company_logo: 
     location: Lindenwold, NJ
-    date_start: '2023-011-16'
+    date_start: '2023-11-16'
     date_end: 
     description: 
   - title: Product Designer
