@@ -25,7 +25,7 @@ experience:
   - title: UX Designer
     company: Cobblestone Software
     company_url: 'https://www.cobblestonesoftware.com/'
-    company_logo: 
+    company_logo: org-cobblestone
     location: Lindenwold, NJ
     date_start: '2023-11-16'
     date_end: 
