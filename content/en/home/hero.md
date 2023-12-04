@@ -19,4 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-I am a Philadelphia-based designer seeking my next role in a collaborative environment, where I can design interactive experiences that people love.
+I'm a Philadelphia-based designer currently working at Cobblestone Systems.
