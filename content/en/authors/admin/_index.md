@@ -77,6 +77,6 @@ As a UX Designer, I'm passionate about creating intuitive, user-friendly experie
 
 My interest in UX design stems from my family background - my father is an architect, and my mother was a graphic designer before transitioning to early childhood education. I've also been fascinated by technology since a young age, spending countless hours playing video games and exploring the capabilities of computers.
 
-In addition to my professional pursuits, I enjoy hiking, going to concerts, and birdwatching. I've also been studying Japanese for several years and spent a semester at Nanzan University in Nagoya, Japan. My experiences both in and outside of the UX world influence my approach to design, and I'm always looking for new ways to innovate and push boundaries.
+In addition to my professional pursuits, I enjoy hiking, going to concerts, and birdwatching. I've also studied Japanese for several years and spent a semester at Nanzan University in Nagoya, Japan. My experiences both in and outside of the UX world influence my approach to design, and I'm always looking for new ways to innovate and push boundaries.
 
 If you're interested in working together or want to learn more about my design philosophy, please don't hesitate to get in touch.
