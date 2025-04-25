@@ -56,7 +56,7 @@ The Vendor Client Gateway is an purchasable add-on module for Contract Insights 
 
 The Vendor Client Gateway had a lot of problems. In fact, probably too many to list. However, to name a few:
 - Not responsive
-- Depcricated and visual design
+- Depcricated pracitices and visual design
 - Overly customizable configurations to the point where clients were making decisions that negatively impacted UX
 
 ### My Solution
