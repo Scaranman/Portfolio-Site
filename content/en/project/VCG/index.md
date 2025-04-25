@@ -1,6 +1,6 @@
 ---
 title: Vendor-Client Gateway Redesign
-summary: A redesign of the Vendor-Client Gateway module of Cobblestone Software's Constract Insights
+summary: A redesign of the Vendor-Client Gateway module of Cobblestone Software's Contract Insights
   
 tags:
 # - Deep Learning
