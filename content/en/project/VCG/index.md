@@ -38,7 +38,7 @@ This portion of the product had long been a point of frustration for both intern
 
 As part of the ongoing major UX updates across the system, I led a redesign of the vendor-client gateway in hopes to alleviate client frustrations and potentially boost sales and use of the module.
 
-At this time, the Vendor Client Gateway redesign has not been deployed yet so I do not yet know what the impact will be.
+At this time, the Vendor Client Gateway redesign has not been deployed yet so we don't know what the impact is/will be.
 
 ### Who is CobbleStone?
 
