@@ -103,15 +103,15 @@ Some important decisions I made in the design process included
 
 ### Future Plans
 
-The designs shown here show just a snapshop of the all the areas of the vendor client gateway. The designs shown here are for the phase 1 of a 3-phase rollout:
+The designs shown here show just a snapshop of the all the areas of the vendor client gateway. The designs shown here are for first phase of a 3-phase rollout:
 
 1. Redesign of existing features and functionality
 2. Adding addtional functionality (TBD)
 3. TBD
 
-Because these designs are more of a redesign of existing features and functionality, some flow can still be a little bit awkward (such as how users interact with solicitations).
+Because these designs are more of a redesign of existing features and functionality, some flows can still be a little bit awkward (such as how users interact with solicitations).
 
-Hopefully, once this 1st phase is rolled out, we'll see an uptick in module purchases and usage and as we get more users, we can get a lot more feedback than we currently recieve and use that to further improve it in the next phases.
+Hopefully, once this first phase is rolled out, we'll see an uptick in module purchases and usage and as we get more users, we can get a lot more feedback than we currently recieve and use that to further improve it in the next phases.
 
 <!-- ### Conclusion and Results
 
