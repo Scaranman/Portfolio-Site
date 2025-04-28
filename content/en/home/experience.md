@@ -29,7 +29,7 @@ experience:
     location: Lindenwold, NJ
     date_start: '2023-11-16'
     date_end: 
-    description:
+    description: |2-
       - Collaborate with stakeholders and developers to design new and existing features for a contract management & procurement software called Contract Insights.
       - Utilize Figma to create wireframe deliverables and designs.
       - Led the redesign process for an external gateway portal module (called the “vendor client gateway”). Presently working with developers to ensure a smooth rollout and iron out any technical issues as they arise. 
