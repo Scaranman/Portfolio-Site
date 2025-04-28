@@ -112,9 +112,3 @@ The designs shown here show just a snapshop of the all the areas of the vendor c
 Because these designs are more of a redesign of existing features and functionality, some flows can still be a little bit awkward (such as how users interact with solicitations).
 
 Hopefully, once this first phase is rolled out, we'll see an uptick in module purchases and usage and as we get more users, we can get a lot more feedback than we currently recieve and use that to further improve it in the next phases.
-
-<!-- ### Conclusion and Results
-
-Guest pass is really interesting because of its dynamic between two types of users: a customer who owns a Elements-based access control security system, and a user who is visiting one of customers locations. As a young designer it was a very enjoyable problem to tackle and I learned a lot about the process of figuring out user flows in such a system. I also learned a lot about animations and how to utilize them to make my designs more responsive.
-
-Guest Pass was successfully put in production in Q4 of 2021. Since it's implementation it has been a become a big success and a major differentiator to competition with users asking for additional features. -->
