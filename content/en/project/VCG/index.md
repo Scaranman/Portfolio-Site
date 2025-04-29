@@ -101,6 +101,14 @@ Some important decisions I made in the design process included
 
 <img src="/portfolio/VCG/new-news.png" width="720" alt="a screenshot of the redesigned news page">
 
+#### Mobile
+
+<img src="/portfolio/VCG/Mobile-Home.png" width="720" alt="a screenshot of the the new mobile home page">
+
+<img src="/portfolio/VCG/Mobile-Solicitations.png" width="720" alt="a screenshot of the new mobile solicitations pages">
+
+<img src="/portfolio/VCG/Mobile-News.png" width="720" alt="a screenshot of the new mobile news pages">
+
 ### Future Plans
 
 The designs shown here show just a snapshop of the all the areas of the vendor client gateway. The designs shown here are for first phase of a 3-phase rollout:
