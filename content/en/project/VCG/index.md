@@ -32,13 +32,13 @@ slides: ""
 ---
 ### Overview
 
-The Vendor Client Gateway is a an optional add-on module for CobbleStone Software's flagship product Contract Insights. 
+The Vendor Client Gateway is an optional add-on module for CobbleStone Software's flagship product, Contract Insights. 
 
 This portion of the product had long been a point of frustration for both internal stakeholders and clients alike.
 
-As part of the ongoing major UX updates across the system, I led a redesign of the vendor-client gateway in hopes to alleviate client frustrations and potentially boost sales and use of the module.
+As part of the ongoing major UX updates across the system, I led a redesign of the vendor-client gateway in hopes og alleviating client frustrations and potentially boosting sales and use of the module.
 
-At this time, the Vendor Client Gateway redesign has not been deployed yet so we don't know what the impact is/will be.
+At this time, the Vendor Client Gateway redesign has not been deployed yet, so we don't know what the impact is/will be.
 
 ### Who is CobbleStone?
 
@@ -52,25 +52,16 @@ Contract Insights is an enterprise contract management system that is designed t
 
 The Vendor Client Gateway is an purchasable add-on module for Contract Insights that clients use to better communicate with their clients and facilitate e-procurement processes.
 
-### What Was The Problem?
+### What Was the Problem?
 
 The Vendor Client Gateway had a lot of problems. In fact, probably too many to list. However, to name a few:
 - Not responsive
-- Depcricated pracitices and visual design
+- Deprecated practices and visual design
 - Overly customizable configurations to the point where clients were making decisions that negatively impacted UX
 
 ### My Solution
 
-Redesign the vendor client gateway in a way that takes inspiration from similar and competing portals while cutting down on some of the customization options in order to create a more streamlined experience.
-
-<!-- ### Decisions
-
-Some important decisions I made in the design process included
-- Removing the ability for our clients to customize the navigation except for renaming them
-  - Previously, our clients were able to completely cutomize the navigation including adding new items and and rearranging them.
-- Removing the ability to cutomize the header color
-  - Because clients could customize the header color, there were many clients who chose colors that severly negatively impacted the user experience
- -->
+Redesign the vendor-client gateway in a way that takes inspiration from similar and competing portals while cutting down on some of the customization options in order to create a more streamlined experience.
 
 ### Current Designs
 
@@ -85,7 +76,6 @@ Some important decisions I made in the design process included
 #### News
 
 <img src="/portfolio/VCG/news.png" width="720" alt="a screenshot of the current news page">
-
 
 ### New Designs
 
@@ -114,9 +104,9 @@ Some important decisions I made in the design process included
 The designs shown here show just a snapshop of the all the areas of the vendor client gateway. The designs shown here are for first phase of a 3-phase rollout:
 
 1. Redesign of existing features and functionality
-2. Adding addtional functionality (TBD)
+2. Adding additional functionality (TBD)
 3. TBD
 
 Because these designs are more of a redesign of existing features and functionality, some flows can still be a little bit awkward (such as how users interact with solicitations).
 
-Hopefully, once this first phase is rolled out, we'll see an uptick in module purchases and usage and as we get more users, we can get a lot more feedback than we currently recieve and use that to further improve it in the next phases.
+Hopefully, once this first phase is rolled out, we'll see an uptick in module purchases and usage, and as we get more users, we can get a lot more feedback than we currently receive and use that to further improve it in the next phases.
