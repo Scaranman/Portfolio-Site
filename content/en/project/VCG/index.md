@@ -101,7 +101,7 @@ Redesign the vendor-client gateway in a way that takes inspiration from similar 
 
 ### Future Plans
 
-The designs shown here show just a snapshop of the all the areas of the vendor client gateway. The designs shown here are for first phase of a 3-phase rollout:
+The designs shown here show just a snapshot of the all the areas of the vendor client gateway. The designs shown here are for first phase of a 3-phase rollout:
 
 1. Redesign of existing features and functionality
 2. Adding additional functionality (TBD)
