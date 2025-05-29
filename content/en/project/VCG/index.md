@@ -61,7 +61,7 @@ The Vendor Client Gateway had a lot of problems. In fact, probably too many to l
 
 ### My Solution
 
-Redesign the vendor-client gateway in a way that takes inspiration from similar and competing portals while cutting down on some of the customization options in order to create a more streamlined experience.
+Redesign the vendor client gateway in a way that takes inspiration from similar and competing portals while cutting down on some of the customization options in order to create a more streamlined experience.
 
 ### Current Designs
 
