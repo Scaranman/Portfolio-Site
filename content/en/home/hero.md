@@ -19,4 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-I'm a Philadelphia-based designer currently working at Cobblestone Systems.
+I'm a Philadelphia-based designer currently seeking new opportunities.

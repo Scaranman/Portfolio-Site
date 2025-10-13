@@ -28,7 +28,7 @@ experience:
     company_logo: org-cobblestone
     location: Lindenwold, NJ
     date_start: '2023-11-16'
-    date_end: 
+    date_end: '2025-10-06'
     description: |2-
       - Collaborate with stakeholders and developers to design new and existing features for a contract management & procurement software called Contract Insights.
       - Utilize Figma to create wireframe deliverables and designs.
