@@ -7,7 +7,7 @@ title: ジェイコブ・スカラニ
 superuser: true
 
 # Role/position/tagline
-role: プロダクトデザイナー
+role: UXデザイナー
 
 # Organizations/Affiliations to show in About widget
 organizations:
