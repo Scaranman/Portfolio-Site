@@ -51,7 +51,7 @@ social:
     link: https://github.com/scaranman
   - icon: cv
     icon_pack: ai
-    link: 'media/JA/JACOB SCARANI RESUME.pdf'
+    link: 'media/JACOB SCARANI RESUME.pdf'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,4 +77,4 @@ highlight_name: false
 
 学校とUXの以外でゲイムやハイキングすることがすきでギターを引きします。
 
-{{< icon name="download" pack="fas" >}}{{< staticref "media/JA/JACOB SCARANI RESUME.pdf" "newtab" >}} 履歴書をダウンロードする{{< /staticref >}}。
+<!-- {{< icon name="download" pack="fas" >}}{{< staticref "media/JA/JACOB SCARANI RESUME.pdf" "newtab" >}} 履歴書をダウンロードする{{< /staticref >}}。 -->
