@@ -36,9 +36,7 @@ The Vendor Client Gateway is an optional add-on module for CobbleStone Software'
 
 This portion of the product had long been a point of frustration for both internal stakeholders and clients alike.
 
-As part of the ongoing major UX updates across the system, I led a redesign of the vendor-client gateway in hopes og alleviating client frustrations and potentially boosting sales and use of the module.
-
-At this time, the Vendor Client Gateway redesign has not been deployed yet, so we don't know what the impact is/will be.
+As part of the ongoing major UX updates across the system, I led a redesign of the vendor-client gateway in hopes of alleviating client frustrations and potentially boosting sales and use of the module.
 
 ### Who is CobbleStone?
 
