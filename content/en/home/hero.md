@@ -19,4 +19,4 @@ design:
 #   css_class: fullscreen
 ---
 
-I'm a Philadelphia-based designer currently seeking new opportunities.
+I'm a Philadelphia-based designer currently working as a Contract UX Designer at Cayuse.
