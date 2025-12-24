@@ -22,17 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Contract UX Designer
+    company: Cayuse
+    company_url: 'https://www.cayuse.com/'
+    company_logo: org-cayuse
+    location: Remote
+    date_start: '2025-11-20'
+    date_end: 
+    description: |2-
+      - Collaborate with designs and stakeholder to update designs for one of the company’s flagship products called iRIS.
+      - Utilize Figma to create wireframe deliverables and designs.
   - title: UX Designer
     company: Cobblestone Software
     company_url: 'https://www.cobblestonesoftware.com/'
     company_logo: org-cobblestone
     location: Lindenwold, NJ
     date_start: '2023-11-16'
-    date_end: '2025-10-06'
+    date_end: 2025-10-06
     description: |2-
-      - Collaborate with stakeholders and developers to design new and existing features for a contract management & procurement software called Contract Insights.
-      - Utilize Figma to create wireframe deliverables and designs.
-      - Led the redesign process for an external gateway portal module (called the “vendor client gateway”). Presently working with developers to ensure a smooth rollout and iron out any technical issues as they arise. 
+      - Collaborated with stakeholders and developers to design new and existing features for a contract management & procurement software called Contract Insights.
+      - Utilized Figma to create wireframe deliverables and designs.
+      - Led the redesign process for an external gateway portal module (called the “vendor client gateway”). 
   - title: Product Designer
     company: Buxton
     company_url: 'https://www.buxtonco.com/'
