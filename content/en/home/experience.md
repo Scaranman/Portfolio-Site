@@ -30,7 +30,7 @@ experience:
     date_start: '2025-11-20'
     date_end: 
     description: |2-
-      - Collaborate with designs and stakeholder to update designs for one of the company’s flagship products called iRIS.
+      - Collaborate with designers and stakeholders to update designs for one of the company’s flagship products called iRIS.
       - Utilize Figma to create wireframe deliverables and designs.
   - title: UX Designer
     company: Cobblestone Software
